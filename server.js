@@ -17,7 +17,14 @@ wss.on('connection', function connection(ws) {
                 broadcastMessage(message)
                 break;
         }
-    })
+    });
+    ws.on("close", () => {
+        console.log("the client has connected");
+    });
+    ws.onerror = (e) => {
+        console.log(e);
+        ws.close();
+    };
 })
 
 function broadcastMessageByInterval(message){
@@ -25,7 +32,7 @@ function broadcastMessageByInterval(message){
         wss.clients.forEach(client => {
             client.send(JSON.stringify(message))
         })
-  }, 3000)
+  }, 5000)
 }
 
 function broadcastMessage(message, id) {
