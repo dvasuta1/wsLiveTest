@@ -9,6 +9,7 @@ wss.on('connection', function connection(ws) {
     ws.id = Date.now();
     ws.on('message', function (message) {
         message = JSON.parse(message)
+        console.log('message', message);
         switch (message.event) {
             case 'message':
                 broadcastMessageByInterval(message)
