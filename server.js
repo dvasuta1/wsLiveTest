@@ -10,7 +10,7 @@ wss.on('connection', function connection(ws) {
     ws.on('message', function (message) {
         message = JSON.parse(message)
         let requestKeys = Object.keys(message);
-        console.log('message from client', message, requestKeys, w.id);
+        console.log('message from client', message, requestKeys, ws.id);
        /* switch (message.event) {
             case 'message':
                 broadcastMessageByInterval(message)
