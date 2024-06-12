@@ -3,8 +3,7 @@ const PORT = process.env.PORT || 3000;
 const wss = new ws.Server({
     port: PORT,
 }, () => console.log(`Server started on 3000`));
-import uuid from 'uuid-random';
-
+const uuid = require('uuid-random');
 
 wss.on('connection', function connection(ws) {
     ws.id = Date.now();
