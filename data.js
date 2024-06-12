@@ -12,5 +12,5 @@ const updatingData = [{"updateNotification":{"subscriptionId":"0f4d2d1e-8bd9-480
 {"updateNotification":{"subscriptionId":"0f4d2d1e-8bd9-4807-9896-124c970c28b5","updatedTables":[{"launchAlias":"bfbl_liveslots","state":{"playerCount":60}}]}},
 {"updateNotification":{"subscriptionId":"0f4d2d1e-8bd9-4807-9896-124c970c28b5","updatedTables":[{"launchAlias":"blj_blackjack6","state":{"freeSeats":[3,4,5,6,7]}},{"launchAlias":"abl_andarbahar","results":["J;3;A"]}]}},
 {"updateNotification":{"subscriptionId":"0f4d2d1e-8bd9-4807-9896-124c970c28b5","updatedTables":[{"launchAlias":"bjl_royalebj1","state":{"playerCount":6}}]}},
-{"updateNotification":{"subscriptionId":"0f4d2d1e-8bd9-4807-9896-124c970c28b5","updatedTables":[{"launchAlias":"qabjl_quantumbj","state":{"playerCount":6}}]}}
+{"updateNotification":{"subscriptionId":"0f4d2d1e-8bd9-4807-9896-124c970c28b5","updatedTables":[{"launchAlias":"qabjl_quantumbj","state":{"playerCount":6}}]}},
 {"updateNotification":{"subscriptionId":"0f4d2d1e-8bd9-4807-9896-124c970c28b5","updatedTables":[{"launchAlias":"bjl_royalebj1","state":{"freeSeats":[5,7]}}]}}]
