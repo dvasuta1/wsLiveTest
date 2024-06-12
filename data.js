@@ -48,4 +48,4 @@ const updatingData = [{"updateNotification":{"subscriptionId":"%SUBSCRIPTION_ID%
   {"updateNotification": {"subscriptionId": "%SUBSCRIPTION_ID%", "updatedTables": [{"launchAlias": "sprol_perspreadbetrol", "results": ["9;42"]}]}},
 ];
 
-export { updatingData };
+module.exports = { updatingData };
