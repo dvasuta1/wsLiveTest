@@ -1,5 +1,4 @@
-let SubscribeResponceMessage =
-{
+const SubscribeResponceMessage = [{
   "correlationId": "%CORRELATION_ID%",
   "subscribeResponse": {
     "result": {
@@ -1576,4 +1575,22 @@ let SubscribeResponceMessage =
     }],
     "launchAliasesOfUnavailableTables": ["sprol_spreadbetrol", "baccarat_sicbo", "trvl_fireblazetrivia", "ubjl", "trvl", "jsrrl_racingrol", "bjl", "rol_brusselsrol", "studpoker_casinostudpokeremulator", "bal_vipbaccarat", "blackjack", "newhot", "trl_truefalsetrivia", "bjl_soiree200", "poker", "bjl_royalebj5", "bfbl", "roulette", "trvl_pointstrivia", "gameshows", "sbl", "bjl_soiree100", "bjl_soireebj", "rol"]
   }
-};  
+}];
+
+const updateSubscription = (correlationId, subscriptionId) => {
+  return SubscribeResponceMessage.map((item) => {
+    if (item.subscribeResponse.subscriptionId === "%SUBSCRIPTION_ID%") {
+      return {
+        ...item,
+        correlationId,
+        subscribeResponse: {
+          ...item.subscribeResponse,
+          subscriptionId
+        }
+      };
+    }
+    return item;
+  });
+};
+
+module.exports = { updateSubscription }
