@@ -4,6 +4,8 @@ const wss = new ws.Server({
     port: PORT,
 }, () => console.log(`Server started on 3000`));
 const uuid = require('uuid-random');
+const data = require('./data.js');
+console.log('data', data.updatingData);
 
 wss.on('connection', function connection(ws) {
     ws.id = Date.now();
