@@ -21,7 +21,7 @@ wss.on('connection', function connection(ws) {
         }*/
         if (requestKeys.includes('setContextRequest')) {
         // on create context
-            createSubscribeResponce(ws.id);
+            createContextResponce(ws.id);
         
         } else if (requestKeys.includes('subscribeRequest')) {
         // on subscribe request
@@ -52,7 +52,7 @@ function broadcastMessage(message, id) {
     })
 }
 
-function createSubscribeResponce (id) {
+function createContextResponce (id) {
      let contextResponseMessage = `{
         "setContextResponse": {
             "result": {
