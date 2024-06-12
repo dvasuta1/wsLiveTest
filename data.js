@@ -48,7 +48,7 @@ const updatingData = [{"updateNotification":{"subscriptionId":"%SUBSCRIPTION_ID%
   {"updateNotification": {"subscriptionId": "%SUBSCRIPTION_ID%", "updatedTables": [{"launchAlias": "sprol_perspreadbetrol", "results": ["9;42"]}]}},
 ];
 
-const updatingData = (subscriptionId) => {
+const updateData = (subscriptionId) => {
   return updatingData.map((item) => {
     if (item.updateNotification.subscriptionId === "%SUBSCRIPTION_ID%") {
       return {
@@ -63,4 +63,4 @@ const updatingData = (subscriptionId) => {
   });
 };
 
-module.exports = { updatingData };
+module.exports = { updateData };
