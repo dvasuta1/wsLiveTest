@@ -9,14 +9,22 @@ wss.on('connection', function connection(ws) {
     ws.id = Date.now();
     ws.on('message', function (message) {
         message = JSON.parse(message)
-        console.log('message', message);
-        switch (message.event) {
+        console.log('message from client', message);
+       /* switch (message.event) {
             case 'message':
                 broadcastMessageByInterval(message)
                 break;
             case 'connection':
                 broadcastMessage(message)
                 break;
+        }*/
+        if (requestKeys.includes('setContextRequest')) {
+        // on create context
+            createSubscribeResponce(ws.id);
+        
+        } else if (requestKeys.includes('subscribeRequest')) {
+        // on subscribe request
+        
         }
     });
     ws.on("close", () => {
@@ -28,7 +36,7 @@ wss.on('connection', function connection(ws) {
     };
 })
 
-function broadcastMessageByInterval(message){
+function broadcastMessageByInterval(message, id){
     setInterval(() => {
         wss.clients.forEach(client => {
             client.send(JSON.stringify(message))
@@ -40,4 +48,23 @@ function broadcastMessage(message, id) {
     wss.clients.forEach(client => {
         client.send(JSON.stringify(message))
     })
+}
+
+function createSubscribeResponce (id) {
+     let contextResponseMessage = {
+        "setContextResponse": {
+            "result": {
+                "errorType": 0
+            },
+            "contextId": id
+        }
+    };
+    wss.clients.forEach(client => {
+        if (client.id = id) {
+            console.log("contextResponseMessage", contextResponseMessage);
+            client.send(JSON.stringify(contextResponseMessage))
+        }
+    })
+
+    
 }
