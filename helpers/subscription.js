@@ -7,7 +7,7 @@ const addSubsAndCorrelationProps = (data, correlationId, subscriptionId) => {
 
   //let subscribeResponceMessageClone = JSON.parse(JSON.stringify(data));
   data.correlationId = correlationId;
-  data.subscribeResponse?.subscriptionId = subscriptionId;
+  data.subscribeResponse.subscriptionId = subscriptionId;
   return data;
 };
 
