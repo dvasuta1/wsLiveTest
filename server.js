@@ -63,7 +63,7 @@ function createContextResponce(userId) {
             "result": {
                 "errorType": 0
             },
-            "contextId": ${id}
+            "contextId": ${userId}
         }
     }`;
   wss.clients.forEach((client) => {
