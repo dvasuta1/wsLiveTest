@@ -61,14 +61,14 @@ function broadcastUpdatingDataByInterval(userId, subscriptionId) {
 }*/
 
 function createContextResponce(userId) {
-  let contextResponseMessage = `{
-        "setContextResponse": {
-            "result": {
-                "errorType": 0
-            },
-            "contextId": ${userId}
-        }
-    }`;
+  let contextResponseMessage = {
+    setContextResponse: {
+      result: {
+        errorType: 0,
+      },
+      contextId: userId,
+    },
+  };
   wss.clients.forEach((client) => {
     if (client.id == userId) {
       console.log("contextResponseMessage", contextResponseMessage);
