@@ -1,4 +1,5 @@
 const ws = require("ws");
+const url = require("url");
 const PORT = process.env.PORT || 3000;
 const wss = new ws.Server(
   {
@@ -12,15 +13,17 @@ const subscriptionData = require("./subscriptionData.js");
 //console.log('data', data.updatingData);
 
 wss.on("connection", function connection(ws) {
+  console.log(url.parse(req.url, true).query);
+
   ws.id = Date.now();
   ws.on("message", function (message) {
     message = JSON.parse(message);
     let requestKeys = Object.keys(message);
     //console.log('message from client', message, requestKeys, ws.id);
-    if (requestKeys.includes("setContextRequest")) {
+    if (message.setContextRequest) {
       // on create context
       createContextResponce(ws.id);
-    } else if (requestKeys.includes("subscribeRequest")) {
+    } else if (message.subscribeRequest) {
       // on subscribe request
       let subscriptionId = uuid();
       createSubscribeResponce(ws.id, message.correlationId, subscriptionId);
