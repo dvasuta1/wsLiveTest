@@ -32,7 +32,7 @@ const updatingData = [
     updateNotification: {
       subscriptionId: "%SUBSCRIPTION_ID%",
       updatedTables: [
-        { launchAlias: "swl_spinawin", state: { playerCount: 190 }, results: ["1"] },
+        { launchAlias: "swl_spinawin", state: { playerCount: 190 }, results: ["1;x2,x7"] },
         { launchAlias: "rodzl_doublezero", results: ["31"] },
       ],
     },
@@ -424,6 +424,38 @@ const updatingData = [
     updateNotification: {
       subscriptionId: "%SUBSCRIPTION_ID%",
       updatedTables: [{ launchAlias: "sprol_perspreadbetrol", results: ["9;42"] }],
+    },
+  },
+  {
+    updateNotification: {
+      subscriptionId: "%SUBSCRIPTION_ID%",
+      updatedTables: [
+        {
+          launchAlias: "hilo_hilo",
+          results: ["HK"],
+        },
+        {
+          launchAlias: "bfbl_espanaslots",
+          state: {
+            playerCount: 32,
+          },
+        },
+        {
+          launchAlias: "bal_fashiontv",
+          results: ["P6N"],
+        },
+        {
+          launchAlias: "swle_spinawinwild",
+          results: ["5;;3,x2"],
+        },
+        {
+          launchAlias: "rol_prestigerol",
+          state: {
+            playerCount: 40,
+          },
+          results: ["22"],
+        },
+      ],
     },
   },
 ];

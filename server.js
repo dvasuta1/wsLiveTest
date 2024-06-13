@@ -8,11 +8,11 @@ const wss = new ws.Server(
   () => console.log(`Server started on 3000`)
 );
 const uuid = require("uuid-random");
-const updatingData = require("./updationgData.js");
+const updatingData = require("./updatingData.js");
 const subscriptionData = require("./subscriptionData.js");
 //console.log('data', data.updatingData);
 
-wss.on("connection", function connection(ws) {
+wss.on("connection", function connection(ws, req) {
   console.log(url.parse(req.url, true).query);
 
   ws.id = Date.now();
