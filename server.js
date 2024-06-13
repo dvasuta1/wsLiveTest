@@ -13,7 +13,7 @@ const subscriptionData = require("./subscriptionData.js");
 
 wss.on("connection", function connection(ws, req) {
   //console.log(url.parse(req.url, true).query);
-  const { interval = 5000, launchAlias = "all", dataSet = "default" } = url.parse(req.url, true).query;
+  const { interval, launchAlias = "all", dataSet = "default" } = url.parse(req.url, true).query;
 
   ws.id = Date.now();
   ws.on("message", function (message) {
@@ -48,7 +48,7 @@ function broadcastUpdatingDataByInterval(userId, subscriptionId, dataSet, launch
         client.send(JSON.stringify(data));
       }
     });
-  }, interval);
+  }, interval || 5000);
 }
 
 /*function broadcastUpdatingData(userId, subscriptionId) {
