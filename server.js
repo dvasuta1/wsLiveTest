@@ -10,16 +10,15 @@ const wss = new ws.Server(
 const uuid = require("uuid-random");
 const updatingData = require("./updatingData.js");
 const subscriptionData = require("./subscriptionData.js");
-//console.log('data', data.updatingData);
 
 wss.on("connection", function connection(ws, req) {
-  console.log(url.parse(req.url, true).query);
+  //console.log(url.parse(req.url, true).query);
+  const { timeOut = 5000, launchAlias = "all", dataSet = "default" } = url.parse(req.url, true).query;
 
   ws.id = Date.now();
   ws.on("message", function (message) {
     message = JSON.parse(message);
-    let requestKeys = Object.keys(message);
-    //console.log('message from client', message, requestKeys, ws.id);
+    //console.log('message from client', message, ws.id);
     if (message.setContextRequest) {
       // on create context
       createContextResponce(ws.id);
@@ -27,7 +26,7 @@ wss.on("connection", function connection(ws, req) {
       // on subscribe request
       let subscriptionId = uuid();
       createSubscribeResponce(ws.id, message.correlationId, subscriptionId);
-      broadcastUpdatingDataByInterval(ws.id, subscriptionId);
+      broadcastUpdatingDataByInterval(ws.id, subscriptionId, launchAlias, timeOut);
     }
   });
   ws.on("close", () => {
@@ -39,17 +38,17 @@ wss.on("connection", function connection(ws, req) {
   };
 });
 
-function broadcastUpdatingDataByInterval(userId, subscriptionId) {
+function broadcastUpdatingDataByInterval(userId, subscriptionId, dataSet, launchAlias, timeOut) {
   setInterval(() => {
     wss.clients.forEach((client) => {
       if (client.id == userId) {
-        let data = updatingData.getOneUpdatingDataEntry(subscriptionId);
+        let data = updatingData.getOneUpdatingDataEntry(subscriptionId, dataSet, launchAlias);
         console.log("updateData", data);
         console.log("client.id", client.id);
         client.send(JSON.stringify(data));
       }
     });
-  }, 5000);
+  }, timeOut);
 }
 
 /*function broadcastUpdatingData(userId, subscriptionId) {
@@ -86,47 +85,3 @@ function createSubscribeResponce(userID, correlationID, subscriptionId) {
     }
   });
 }
-
-/*
-var loop
-
-// The function startStreaming starts streaming data to all the users
-function startStreaming() {
-  loop = setInterval(() => {
-    fetch('https://www.foo.com/api/v2/searchAssets')
-      .then(res => res.json())
-      .then(json => {
-        // The emit function of io is used to broadcast a message to
-        // all the connected users
-        io.emit('news', {json});
-        console.log(json);
-      } ,5000);
-  });
-}
-
-// The function stopStreaming stops streaming data to all the users
-function stopStreaming() {
-  clearInterval(loop);
-}
-
-io.on('connection',function() {
-  console.log("Client connected");
-
-  // On connection we check if this is the first client to connect
-  // If it is, the interval is started
-  if (io.sockets.clients().length === 1) {
-    startStreaming();
-  }
-});
-
-io.on('disconnetion',function() {
-  console.log("disconnected");
-
-  // On disconnection we check the number of connected users
-  // If there is none, the interval is stopped
-  if (io.sockets.clients().length === 0) {
-    stopStreaming();
-  }
-});
-
-*/

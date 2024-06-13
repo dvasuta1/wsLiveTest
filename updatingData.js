@@ -485,7 +485,8 @@ const getRandomEntry = (data, subscriptionId) => {
   return updatedData[index];
 };
 
-const getOneUpdatingDataEntry = (subscriptionId) => {
+const getOneUpdatingDataEntry = (subscriptionId, dataSet, launchAlias) => {
+  console.log("getOneUpdatingDataEntry", subscriptionId, dataSet, launchAlias);
   return getRandomEntry(updatingData, subscriptionId);
 };
 
