@@ -2,15 +2,11 @@
 const subscribeResponceMessage = require("../data/subscribe/subscribe.json");
 
 const addSubsAndCorrelationProps = (data, correlationId, subscriptionId) => {
-  console.log("data", data);
-
-  console.log("data subscriptionId", data.subscriptionId);
-
   //let subscribeResponceMessageClone = JSON.parse(JSON.stringify(data));
   data.correlationId = correlationId;
+  data.subscribeResponse.subscriptionId = subscriptionId;
   console.log("data addSubsAndCorrelationProps", data);
 
-  data.subscribeResponse.subscriptionId = subscriptionId;
   return data;
 };
 

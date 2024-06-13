@@ -1,4 +1,4 @@
-const defaultUpdatingData = require("../data/update/default.js");
+const defaultUpdatingData = require("../data/update/test.json");
 
 const updateData = (data, subscriptionId) => {
   return data.map((item) => {
