@@ -1,4 +1,4 @@
-const SubscribeResponceMessage = [
+const subscribeResponceMessage = [
   {
     correlationId: "%CORRELATION_ID%",
     subscribeResponse: {
@@ -2212,20 +2212,15 @@ const SubscribeResponceMessage = [
   },
 ];
 
+const addSubsAndCorrelationProps = (data, correlationId, subscriptionId) => {
+  let subscribeResponceMessageClone = JSON.parse(JSON.stringify(data));
+  subscribeResponceMessageClone.correlationId = correlationId;
+  subscribeResponceMessageClone.subscriptionId = subscriptionId;
+  return subscribeResponceMessageClone;
+};
+
 const updateSubscription = (correlationId, subscriptionId) => {
-  return SubscribeResponceMessage.map((item) => {
-    if (item.subscribeResponse.subscriptionId === "%SUBSCRIPTION_ID%") {
-      return {
-        ...item,
-        correlationId,
-        subscribeResponse: {
-          ...item.subscribeResponse,
-          subscriptionId,
-        },
-      };
-    }
-    return item;
-  });
+  return addSubsAndCorrelationProps(subscribeResponceMessage, correlationId, subscriptionId);
 };
 
 module.exports = { updateSubscription };
