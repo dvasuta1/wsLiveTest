@@ -2210,4 +2210,4 @@ const subscribeResponceMessage = {
   },
 };
 
-module.exports = { subscribeResponceMessage };
+module.exports = subscribeResponceMessage;
