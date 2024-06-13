@@ -1,11 +1,9 @@
 const subscribeResponceMessage = [
   {
-    correlationId: "%CORRELATION_ID%",
     subscribeResponse: {
       result: {
         errorType: 0,
       },
-      subscriptionId: "%SUBSCRIPTION_ID%",
       tables: [
         {
           launchAlias: "rol_speedrol",
@@ -2215,7 +2213,7 @@ const subscribeResponceMessage = [
 const addSubsAndCorrelationProps = (data, correlationId, subscriptionId) => {
   let subscribeResponceMessageClone = JSON.parse(JSON.stringify(data));
   subscribeResponceMessageClone.correlationId = correlationId;
-  subscribeResponceMessageClone.subscriptionId = subscriptionId;
+  subscribeResponceMessageClone.subscribeResponse.subscriptionId = subscriptionId;
   return subscribeResponceMessageClone;
 };
 
