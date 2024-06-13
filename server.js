@@ -28,7 +28,7 @@ wss.on("connection", function connection(ws) {
     }
   });
   ws.on("close", () => {
-    console.log("the client has connected");
+    console.log("the client has disconnected");
   });
   ws.onerror = (e) => {
     console.error(e);
@@ -40,7 +40,7 @@ function broadcastUpdatingDataByInterval(userId, subscriptionId) {
   setInterval(() => {
     wss.clients.forEach((client) => {
       if (client.id == userId) {
-        let data = updatingData.updateData(subscriptionId);
+        let data = updatingData.getOneUpdatingDataEntry(subscriptionId);
         console.log("updateData", data);
         console.log("client.id", client.id);
         client.send(JSON.stringify(data));

@@ -428,8 +428,8 @@ const updatingData = [
   },
 ];
 
-const updateData = (subscriptionId) => {
-  return updatingData.map((item) => {
+const updateData = (data, subscriptionId) => {
+  return data.map((item) => {
     if (item.updateNotification.subscriptionId === "%SUBSCRIPTION_ID%") {
       return {
         ...item,
@@ -442,5 +442,19 @@ const updateData = (subscriptionId) => {
     return item;
   });
 };
+const getRandomInt = (max) => {
+  return Math.floor(Math.random() * max);
+};
 
-module.exports = { updateData };
+const getRandomEntry = (data, subscriptionId) => {
+  const updatedData = updateData(data, subscriptionId);
+  let index = getRandomInt(updatedData.length);
+  console.log("index", index);
+  return updatedData[index];
+};
+
+const getOneUpdatingDataEntry = (subscriptionId) => {
+  return getRandomEntry(updatingData, subscriptionId);
+};
+
+module.exports = { getOneUpdatingDataEntry };
