@@ -13,7 +13,7 @@ const subscriptionData = require("./subscriptionData.js");
 
 wss.on("connection", function connection(ws, req) {
   //console.log(url.parse(req.url, true).query);
-  const { timeOut = 5000, launchAlias = "all", dataSet = "default" } = url.parse(req.url, true).query;
+  const { interval = 5000, launchAlias = "all", dataSet = "default" } = url.parse(req.url, true).query;
 
   ws.id = Date.now();
   ws.on("message", function (message) {
@@ -26,7 +26,7 @@ wss.on("connection", function connection(ws, req) {
       // on subscribe request
       let subscriptionId = uuid();
       createSubscribeResponce(ws.id, message.correlationId, subscriptionId);
-      broadcastUpdatingDataByInterval(ws.id, subscriptionId, launchAlias, timeOut);
+      broadcastUpdatingDataByInterval(ws.id, subscriptionId, dataSet, launchAlias, interval);
     }
   });
   ws.on("close", () => {
@@ -38,7 +38,7 @@ wss.on("connection", function connection(ws, req) {
   };
 });
 
-function broadcastUpdatingDataByInterval(userId, subscriptionId, dataSet, launchAlias, timeOut) {
+function broadcastUpdatingDataByInterval(userId, subscriptionId, dataSet, launchAlias, interval) {
   setInterval(() => {
     wss.clients.forEach((client) => {
       if (client.id == userId) {
@@ -48,7 +48,7 @@ function broadcastUpdatingDataByInterval(userId, subscriptionId, dataSet, launch
         client.send(JSON.stringify(data));
       }
     });
-  }, timeOut);
+  }, interval);
 }
 
 /*function broadcastUpdatingData(userId, subscriptionId) {
