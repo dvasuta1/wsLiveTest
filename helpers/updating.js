@@ -54,7 +54,7 @@ const getDataSetJSON = (dataSetKey) => {
 };
 
 const getFilteredGames = (subscriptionId, dataSet, targetAlias) => {
-  const dataSource = require(getDataSetJSON(dataSet));
+  const dataSource = require("../data/update/default.json");
   console.log("dataSource", dataSource);
   //const dataWithSubscriptionId = updateData(data, subscriptionId);
 };
