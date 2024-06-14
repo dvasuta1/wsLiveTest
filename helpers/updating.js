@@ -1,5 +1,6 @@
-const defaultUpdatingData = require("../data/update/2000.json");
-const dataSetMap = require("./config");
+const defaultData = require("../data/update/default.json");
+const data1000 = require("../data/update/1000.json");
+const data2000 = require("../data/update/2000.json");
 
 const updateData = (data, subscriptionId) => {
   return data.map((item) => {
@@ -50,11 +51,20 @@ function filterByLaunchAlias(dataInput, subscriptionId, targetAlias) {
 }
 
 const getDataSetJSON = (dataSetKey) => {
-  return dataSetMap[dataSetKey] ? dataSetMap[dataSetKey] : dataSetMap["defaultData"];
+  switch (dataSetKey) {
+    case "1000":
+      return data1000;
+      break;
+    case "2000":
+      return data2000;
+      break;
+    default:
+      return defaultData;
+  }
 };
 
 const getFilteredGames = (subscriptionId, dataSet, targetAlias) => {
-  const dataSource = require("../data/update/default.json");
+  const dataSource = getDataSetJSON(dataSet);
   console.log("dataSource", dataSource);
   //const dataWithSubscriptionId = updateData(data, subscriptionId);
 };
