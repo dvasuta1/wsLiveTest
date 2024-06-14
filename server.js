@@ -13,7 +13,7 @@ const subscriptionData = require("./helpers/subscription.js");
 
 wss.on("connection", function connection(ws, req) {
   //console.log(url.parse(req.url, true).query);
-  const { interval = 5000, launchAlias = "all", dataSet = "default" } = url.parse(req.url, true).query;
+  const { interval = 5000, launchAlias, dataSet = "default" } = url.parse(req.url, true).query;
 
   ws.id = Date.now();
   ws.on("message", function (message) {
@@ -27,7 +27,7 @@ wss.on("connection", function connection(ws, req) {
       let subscriptionId = uuid();
       // createSubscribeResponce(ws.id, message.correlationId, subscriptionId);
       // broadcastUpdatingDataByInterval(ws.id, subscriptionId, dataSet, launchAlias, interval);
-      updatingData.getFilteredGames(subscriptionId, "2000");
+      updatingData.getFilteredGames(subscriptionId, "1000");
     }
   });
   ws.on("close", () => {
