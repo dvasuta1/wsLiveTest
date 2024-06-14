@@ -1,19 +1,18 @@
 const defaultUpdatingData = require("../data/update/2000.json");
+const dataSetMap = require("./config");
 
 const updateData = (data, subscriptionId) => {
   return data.map((item) => {
-    if (item.updateNotification.subscriptionId === "%SUBSCRIPTION_ID%") {
-      return {
-        ...item,
-        updateNotification: {
-          ...item.updateNotification,
-          subscriptionId,
-        },
-      };
-    }
-    return item;
+    return {
+      ...item,
+      updateNotification: {
+        ...item.updateNotification,
+        subscriptionId,
+      },
+    };
   });
 };
+
 const getRandomInt = (max) => {
   return Math.floor(Math.random() * max);
 };
@@ -30,4 +29,34 @@ const getOneUpdatingDataEntry = (subscriptionId, dataSet, launchAlias) => {
   return getRandomEntry(defaultUpdatingData, subscriptionId);
 };
 
-module.exports = { getOneUpdatingDataEntry };
+function filterByLaunchAlias(data, subscriptionId, targetAlias) {
+  const data = updateData(data, subscriptionId);
+  const filteredNotifications = [];
+
+  for (const item of data) {
+    const updateNotification = item.updateNotification;
+    if (updateNotification) {
+      const updatedTables = updateNotification.updatedTables || [];
+      for (const table of updatedTables) {
+        if (table.launchAlias === targetAlias) {
+          filteredNotifications.push(updateNotification);
+          break; // No need to check other tables in this update notification
+        }
+      }
+    }
+  }
+
+  return filteredNotifications;
+}
+
+const getDataSetJSON = (dataSetKey) => {
+  return dataSetMap[dataSetKey] ? dataSetMap[dataSetKey] : dataSetMap["defaultData"];
+};
+
+const getFilteredGames = (subscriptionId, dataSet, targetAlias) => {
+  const dataSource = require(getDataSetJSON(dataSet));
+  console.log("dataSource", dataSource);
+  //const dataWithSubscriptionId = updateData(data, subscriptionId);
+};
+
+module.exports = { getOneUpdatingDataEntry, filterByLaunchAlias, getFilteredGames };

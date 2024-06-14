@@ -25,8 +25,9 @@ wss.on("connection", function connection(ws, req) {
     } else if (message.subscribeRequest) {
       // on subscribe request
       let subscriptionId = uuid();
-      createSubscribeResponce(ws.id, message.correlationId, subscriptionId);
-      broadcastUpdatingDataByInterval(ws.id, subscriptionId, dataSet, launchAlias, interval);
+      // createSubscribeResponce(ws.id, message.correlationId, subscriptionId);
+      // broadcastUpdatingDataByInterval(ws.id, subscriptionId, dataSet, launchAlias, interval);
+      updatingData.filterByLaunchAlias(subscriptionId, "2000");
     }
   });
   ws.on("close", () => {
