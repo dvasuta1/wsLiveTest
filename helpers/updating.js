@@ -70,6 +70,7 @@ const getTheRandomEntry = (data) => {
 };
 
 const getFilteredGames = (subscriptionId, dataSet, targetAlias, order) => {
+  console.log("arguments", arguments);
   let data = getDataSetJSON(dataSet);
   data = updateData(data, subscriptionId);
   if (targetAlias) {
