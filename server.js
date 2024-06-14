@@ -27,7 +27,7 @@ wss.on("connection", function connection(ws, req) {
       let subscriptionId = uuid();
       // createSubscribeResponce(ws.id, message.correlationId, subscriptionId);
       // broadcastUpdatingDataByInterval(ws.id, subscriptionId, dataSet, launchAlias, interval);
-      updatingData.filterByLaunchAlias(subscriptionId, "2000");
+      updatingData.getFilteredGames(subscriptionId, "2000");
     }
   });
   ws.on("close", () => {
