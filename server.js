@@ -26,8 +26,8 @@ wss.on("connection", function connection(ws, req) {
       // on subscribe request
       let subscriptionId = uuid();
       createSubscribeResponce(ws.id, message.correlationId, subscriptionId);
-      // broadcastUpdatingDataByInterval(ws.id, subscriptionId, dataSet, launchAlias, interval);
-      updatingData.getFilteredGames(subscriptionId, dataSet, launchAlias, order);
+      broadcastUpdatingDataByInterval(ws.id, subscriptionId, dataSet, launchAlias, interval, order);
+      //updatingData.getFilteredGames(subscriptionId, dataSet, launchAlias, order);
     }
   });
   ws.on("close", () => {
