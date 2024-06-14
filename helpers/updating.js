@@ -29,8 +29,8 @@ const getOneUpdatingDataEntry = (subscriptionId, dataSet, launchAlias) => {
   return getRandomEntry(defaultUpdatingData, subscriptionId);
 };
 
-function filterByLaunchAlias(data, subscriptionId, targetAlias) {
-  const data = updateData(data, subscriptionId);
+function filterByLaunchAlias(dataInput, subscriptionId, targetAlias) {
+  const data = updateData(dataInput, subscriptionId);
   const filteredNotifications = [];
 
   for (const item of data) {
