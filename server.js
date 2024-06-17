@@ -22,7 +22,7 @@ wss.on("connection", function connection(ws, req) {
     if (message.setContextRequest) {
       // on create context
       ws.contextSnapshot = message.setContextRequest;
-      console.log("contextSnapshot", contextSnapshot);
+      console.log("contextSnapshot", ws.contextSnapshot);
       createContextResponce(ws.id);
     } else if (message.subscribeRequest) {
       // on subscribe request
