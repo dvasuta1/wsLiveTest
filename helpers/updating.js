@@ -17,7 +17,7 @@ const updateData = (data, subscriptionId) => {
 const getRandomInt = (max) => {
   return Math.floor(Math.random() * max);
 };
-
+/*
 const getRandomEntry = (data, subscriptionId) => {
   const updatedData = updateData(data, subscriptionId);
   let index = getRandomInt(updatedData.length);
@@ -29,7 +29,7 @@ const getOneUpdatingDataEntry = (subscriptionId, dataSet, launchAlias) => {
   console.log("getOneUpdatingDataEntry", subscriptionId, dataSet, launchAlias);
   return getRandomEntry(defaultUpdatingData, subscriptionId);
 };
-
+*/
 function filterByLaunchAlias(data, targetAlias) {
   //const data = updateData(dataInput, subscriptionId);
   const filteredNotifications = [];
@@ -69,12 +69,25 @@ const getTheRandomEntry = (data) => {
   return data[index];
 };
 
-const getFilteredGames = (subscriptionId, dataSet, targetAlias, order) => {
+const getFilteredDataSnapshot = (subscriptionId, dataSet, targetAlias) => {
   let data = getDataSetJSON(dataSet);
   data = updateData(data, subscriptionId);
   if (targetAlias) {
     data = filterByLaunchAlias(data, targetAlias);
   }
+  return data;
+};
+
+/*const getFilteredGames = (subscriptionId, dataSet, targetAlias, order) => {
+  let data = getFilteredDataSnapshot(subscriptionId, dataSet, targetAlias);
+  switch (order) {
+    default:
+      data = getTheRandomEntry(data);
+  }
+  return data;
+};*/
+
+const getFilteredData = (data, order) => {
   switch (order) {
     default:
       data = getTheRandomEntry(data);
@@ -82,4 +95,4 @@ const getFilteredGames = (subscriptionId, dataSet, targetAlias, order) => {
   return data;
 };
 
-module.exports = { getOneUpdatingDataEntry, filterByLaunchAlias, getFilteredGames };
+module.exports = { getFilteredData, getFilteredDataSnapshot };

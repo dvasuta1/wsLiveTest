@@ -26,8 +26,8 @@ wss.on("connection", function connection(ws, req) {
       // on subscribe request
       let subscriptionId = uuid();
       createSubscribeResponce(ws.id, message.correlationId, subscriptionId);
-      broadcastUpdatingDataByInterval(ws.id, subscriptionId, dataSet, launchAlias, interval, order);
-      //updatingData.getFilteredGames(subscriptionId, dataSet, launchAlias, order);
+      const dataSnapshot = updatingData.getFilteredDataSnapshot(subscriptionId, dataSet, launchAlias);
+      broadcastUpdatingDataByInterval(ws.id, dataSnapshot, interval, order);
     }
   });
   ws.on("close", () => {
@@ -51,12 +51,15 @@ wss.on("connection", function connection(ws, req) {
     });
   }, interval);
 }*/
-function broadcastUpdatingDataByInterval(userId, subscriptionId, dataSet, launchAlias, interval, order) {
+
+function getDataSnapshot() {}
+
+function broadcastUpdatingDataByInterval(userId, data, interval, order) {
   setInterval(() => {
     wss.clients.forEach((client) => {
       if (client.id == userId) {
         //let data = updatingData.getOneUpdatingDataEntry(subscriptionId, dataSet, launchAlias);
-        let data = updatingData.getFilteredGames(subscriptionId, dataSet, launchAlias, order);
+        let data = updatingData.getFilteredData(data, order);
         console.log("updateData", data);
         console.log("client.id", client.id);
         client.send(JSON.stringify(data));
