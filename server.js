@@ -18,7 +18,7 @@ wss.on("connection", function connection(ws, req) {
   launchAlias = launchAlias?.trim();
   dataset = dataset.trim();
   order = order.trim();
-  console.warn("connection url params", interval, launchAlias, dataset, order);
+  console.warn("----connection url params----", interval, launchAlias, dataset, order);
 
   ws.id = Date.now();
   ws.idx = 0;
@@ -48,20 +48,7 @@ wss.on("connection", function connection(ws, req) {
     ws.close();
   };
 });
-
-/*function broadcastUpdatingDataByInterval(userId, subscriptionId, dataSet, launchAlias, interval) {
-  setInterval(() => {
-    wss.clients.forEach((client) => {
-      if (client.id == userId) {
-        let data = updatingData.getOneUpdatingDataEntry(subscriptionId, dataSet, launchAlias);
-        console.log("updateData", data);
-        console.log("client.id", client.id);
-        client.send(JSON.stringify(data));
-      }
-    });
-  }, interval);
-}*/
-
+/*
 function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
   if (order == "normal") {
     let getNextElement = updatingData.getTheNormalEntry(snapshot);
@@ -87,6 +74,30 @@ function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
       });
     }, interval);
   }
+}
+*/
+
+function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
+  const getNextElement =
+    order === "normal" ? updatingData.getTheNormalEntry(snapshot) : updatingData.getTheRandomEntry(snapshot);
+
+  function sendUpdatedData(client, data) {
+    console.log("----updateData----", data);
+    console.log("client.id", client.id);
+    client.send(JSON.stringify(data));
+  }
+
+  function broadcast() {
+    wss.clients.forEach((client) => {
+      if (client.id === userId) {
+        const data = typeof getNextElement === "function" ? getNextElement() : getNextElement;
+        sendUpdatedData(client, data);
+      }
+    });
+  }
+
+  // Set up the interval
+  setInterval(broadcast, interval);
 }
 
 /*function broadcastUpdatingData(userId, subscriptionId) {
