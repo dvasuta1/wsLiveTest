@@ -18,6 +18,7 @@ wss.on("connection", function connection(ws, req) {
   launchAlias = launchAlias?.trim();
   dataset = dataset.trim();
   order = order.trim();
+  console.warn("connection url params", interval, launchAlias, dataset, order);
 
   ws.id = Date.now();
   ws.on("message", function (message) {
