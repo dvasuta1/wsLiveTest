@@ -100,9 +100,10 @@ const getFilteredDataSnapshot = (subscriptionId, dataSet, targetAlias) => {
 
 const getFilteredData = (data, order) => {
   let d;
+  let getNextElement = getTheNormalEntry(data);
   switch (order) {
     case "normal":
-      d = getTheNormalEntry(data);
+      d = getNextElement(data);
     default:
       d = getTheRandomEntry(data);
   }
