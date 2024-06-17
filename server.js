@@ -27,6 +27,7 @@ wss.on("connection", function connection(ws, req) {
       let subscriptionId = uuid();
       createSubscribeResponce(ws.id, message.correlationId, subscriptionId);
       const dataSnapshot = updatingData.getFilteredDataSnapshot(subscriptionId, dataSet, launchAlias);
+      console.log("dataSnapshot", dataSnapshot);
       broadcastUpdatingDataByInterval(ws.id, dataSnapshot, interval, order);
     }
   });
@@ -54,12 +55,12 @@ wss.on("connection", function connection(ws, req) {
 
 function getDataSnapshot() {}
 
-function broadcastUpdatingDataByInterval(userId, data, interval, order) {
+function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
   setInterval(() => {
     wss.clients.forEach((client) => {
       if (client.id == userId) {
         //let data = updatingData.getOneUpdatingDataEntry(subscriptionId, dataSet, launchAlias);
-        let data = updatingData.getFilteredData(data, order);
+        let data = updatingData.getFilteredData(snapshot, order);
         console.log("updateData", data);
         console.log("client.id", client.id);
         client.send(JSON.stringify(data));
