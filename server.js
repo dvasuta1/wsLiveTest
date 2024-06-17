@@ -13,7 +13,7 @@ const subscriptionData = require("./helpers/subscription.js");
 
 wss.on("connection", function connection(ws, req) {
   //console.log(url.parse(req.url, true).query);
-  const { interval = 5000, launchAlias, dataSet = "default", order } = url.parse(req.url, true).query;
+  const { interval = 5000, launchAlias, dataset = "default", order } = url.parse(req.url, true).query;
 
   ws.id = Date.now();
   ws.on("message", function (message) {
@@ -26,8 +26,9 @@ wss.on("connection", function connection(ws, req) {
       // on subscribe request
       let subscriptionId = uuid();
       createSubscribeResponce(ws.id, message.correlationId, subscriptionId);
-      const dataSnapshot = updatingData.getFilteredDataSnapshot(subscriptionId, dataSet, launchAlias);
-      console.log("dataSnapshot", dataSnapshot);
+      const dataSnapshot = updatingData.getFilteredDataSnapshot(subscriptionId, dataset, launchAlias);
+      console.log("dataSnapshot length", dataSnapshot.length);
+      // console.log("dataSnapshot", dataSnapshot);
       broadcastUpdatingDataByInterval(ws.id, dataSnapshot, interval, order);
     }
   });
