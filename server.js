@@ -13,7 +13,11 @@ const subscriptionData = require("./helpers/subscription.js");
 
 wss.on("connection", function connection(ws, req) {
   //console.log(url.parse(req.url, true).query);
-  const { interval = 5000, launchAlias, dataset = "default", order } = url.parse(req.url, true).query;
+  let { interval = 5000, launchAlias, dataset = "default", order = "random" } = url.parse(req.url, true).query;
+  interval = parseInt(interval);
+  launchAlias = launchAlias?.trim();
+  dataset = dataset.trim();
+  order = order.trim();
 
   ws.id = Date.now();
   ws.on("message", function (message) {
