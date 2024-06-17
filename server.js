@@ -21,7 +21,6 @@ wss.on("connection", function connection(ws, req) {
   console.warn("----connection url params----", interval, launchAlias, dataset, order);
 
   ws.id = Date.now();
-  ws.idx = 0;
   ws.on("message", function (message) {
     message = JSON.parse(message);
     //console.log('message from client', message, ws.id);
@@ -55,26 +54,21 @@ function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
     console.log("client.id", client.id);
     client.send(JSON.stringify(data));
   }
+  function broadcast(data, interval) {
+    setInterval(() => {
+      wss.clients.forEach((client) => {
+        if (client.id == userId) {
+          sendUpdatedData(client, data);
+        }
+      });
+    }, interval);
+  }
 
   if (order == "normal") {
     let getNextElement = updatingData.getTheNormalEntry(snapshot);
-    setInterval(() => {
-      wss.clients.forEach((client) => {
-        if (client.id == userId) {
-          let data = getNextElement();
-          sendUpdatedData(client, data);
-        }
-      });
-    }, interval);
+    broadcast(getNextElement(), interval);
   } else {
-    setInterval(() => {
-      wss.clients.forEach((client) => {
-        if (client.id == userId) {
-          let data = updatingData.getTheRandomEntry(snapshot);
-          sendUpdatedData(client, data);
-        }
-      });
-    }, interval);
+    broadcast(updatingData.getTheRandomEntry(snapshot), interval);
   }
 }
 
