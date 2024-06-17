@@ -69,10 +69,15 @@ const getTheRandomEntry = (data) => {
   return data[index];
 };
 
-const getTheNormalEntry = (data) => {
-  let el1 = data.shift();
-  console.log("el1", el1);
-  return el1;
+const getTheNormalEntry = (arr) => {
+  let index = 0;
+  return function () {
+    if (index >= arr.length) {
+      index = 0;
+    }
+    console.log("index normal", index);
+    return arr[index++];
+  };
 };
 
 const getFilteredDataSnapshot = (subscriptionId, dataSet, targetAlias) => {
