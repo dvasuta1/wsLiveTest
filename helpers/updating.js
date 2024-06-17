@@ -40,7 +40,7 @@ function filterByLaunchAlias(data, targetAlias) {
       const updatedTables = updateNotification.updatedTables || [];
       for (const table of updatedTables) {
         if (table.launchAlias === targetAlias) {
-          filteredNotifications.push(updateNotification);
+          filteredNotifications.push({ updateNotification: { updateNotification } });
           break; // No need to check other tables in this update notification
         }
       }
@@ -65,7 +65,7 @@ const getDataSetJSON = (dataSetKey) => {
 
 const getTheRandomEntry = (data) => {
   let index = getRandomInt(data.length);
-  console.log("index", index);
+  console.log("index random", index);
   return data[index];
 };
 
@@ -99,13 +99,12 @@ const getFilteredDataSnapshot = (subscriptionId, dataSet, targetAlias) => {
 };*/
 
 const getFilteredData = (data, order) => {
-  let d;
-  let getNextElement = getTheNormalEntry(data);
+  /*let getNextElement = getTheNormalEntry(data);*/
   switch (order) {
-    case "normal":
-      d = getNextElement(data);
+    /*case "normal":
+      data = getNextElement(data);*/
     default:
-      d = getTheRandomEntry(data);
+      data = getTheRandomEntry(data);
   }
   return d;
 };
