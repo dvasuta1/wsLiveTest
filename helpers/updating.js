@@ -69,6 +69,12 @@ const getTheRandomEntry = (data) => {
   return data[index];
 };
 
+const getTheNormalEntry = (data) => {
+  let el1 = data.shift();
+  console.log("el1", el1);
+  return el1;
+};
+
 const getFilteredDataSnapshot = (subscriptionId, dataSet, targetAlias) => {
   let data = getDataSetJSON(dataSet);
   data = updateData(data, subscriptionId);
@@ -91,7 +97,7 @@ const getFilteredData = (data, order) => {
   let d;
   switch (order) {
     case "normal":
-      d = data;
+      d = getTheNormalEntry(data);
     default:
       d = getTheRandomEntry(data);
   }
