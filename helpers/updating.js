@@ -40,7 +40,7 @@ function filterByLaunchAlias(data, targetAlias) {
       const updatedTables = updateNotification.updatedTables || [];
       for (const table of updatedTables) {
         if (table.launchAlias === targetAlias) {
-          filteredNotifications.push({ updateNotification: { updateNotification } });
+          filteredNotifications.push(updateNotification);
           break; // No need to check other tables in this update notification
         }
       }
