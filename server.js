@@ -48,17 +48,21 @@ wss.on("connection", function connection(ws, req) {
     ws.close();
   };
 });
-/*
+
 function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
+  function sendUpdatedData(client, data) {
+    console.log("----updateData----", data);
+    console.log("client.id", client.id);
+    client.send(JSON.stringify(data));
+  }
+
   if (order == "normal") {
     let getNextElement = updatingData.getTheNormalEntry(snapshot);
     setInterval(() => {
       wss.clients.forEach((client) => {
         if (client.id == userId) {
           let data = getNextElement();
-          console.log("updateData", data);
-          console.log("client.id", client.id);
-          client.send(JSON.stringify(data));
+          sendUpdatedData(client, data);
         }
       });
     }, interval);
@@ -67,16 +71,14 @@ function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
       wss.clients.forEach((client) => {
         if (client.id == userId) {
           let data = updatingData.getTheRandomEntry(snapshot);
-          console.log("updateData", data);
-          console.log("client.id", client.id);
-          client.send(JSON.stringify(data));
+          sendUpdatedData(client, data);
         }
       });
     }, interval);
   }
 }
-*/
 
+/*
 function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
   const getNextElement =
     order === "normal" ? updatingData.getTheNormalEntry(snapshot) : updatingData.getTheRandomEntry(snapshot);
@@ -99,7 +101,7 @@ function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
   // Set up the interval
   setInterval(broadcast, interval);
 }
-
+*/
 /*function broadcastUpdatingData(userId, subscriptionId) {
   if (client.id == userId) {
     let data = updatingData.updateData(subscriptionId);
