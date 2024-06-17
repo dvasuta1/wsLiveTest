@@ -21,6 +21,8 @@ wss.on("connection", function connection(ws, req) {
     //console.log('message from client', message, ws.id);
     if (message.setContextRequest) {
       // on create context
+      ws.contextSnapshot = message.setContextRequest;
+      console.log("contextSnapshot", contextSnapshot);
       createContextResponce(ws.id);
     } else if (message.subscribeRequest) {
       // on subscribe request
@@ -53,8 +55,6 @@ wss.on("connection", function connection(ws, req) {
     });
   }, interval);
 }*/
-
-function getDataSnapshot() {}
 
 function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
   setInterval(() => {
@@ -89,7 +89,7 @@ function createContextResponce(userId) {
   };
   wss.clients.forEach((client) => {
     if (client.id == userId) {
-      console.log("contextResponseMessage", contextResponseMessage);
+      //console.log("contextResponseMessage", contextResponseMessage);
       client.send(JSON.stringify(contextResponseMessage));
     }
   });
@@ -99,7 +99,7 @@ function createSubscribeResponce(userID, correlationID, subscriptionId) {
   let subscribeResponceMessage = subscriptionData.updateSubscription(correlationID, subscriptionId);
   wss.clients.forEach((client) => {
     if (client.id == userID) {
-      console.log("subscribeResponceMessage", subscribeResponceMessage);
+      //console.log("subscribeResponceMessage", subscribeResponceMessage);
       client.send(JSON.stringify(subscribeResponceMessage));
     }
   });

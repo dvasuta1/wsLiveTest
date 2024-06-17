@@ -88,11 +88,14 @@ const getFilteredDataSnapshot = (subscriptionId, dataSet, targetAlias) => {
 };*/
 
 const getFilteredData = (data, order) => {
+  let d;
   switch (order) {
+    case "normal":
+      d = data;
     default:
-      data = getTheRandomEntry(data);
+      d = getTheRandomEntry(data);
   }
-  return data;
+  return d;
 };
 
 module.exports = { getFilteredData, getFilteredDataSnapshot };
