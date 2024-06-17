@@ -106,7 +106,7 @@ const getFilteredData = (data, order) => {
     default:
       data = getTheRandomEntry(data);
   }
-  return d;
+  return data;
 };
 
 module.exports = { getFilteredData, getFilteredDataSnapshot };
