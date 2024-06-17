@@ -100,13 +100,13 @@ const getFilteredDataSnapshot = (subscriptionId, dataSet, targetAlias) => {
 
 const getFilteredData = (data, order) => {
   /*let getNextElement = getTheNormalEntry(data);*/
-  switch (order) {
-    /*case "normal":
-      data = getNextElement(data);*/
+  /* switch (order) {
+    case "normal":
+      data = getNextElement(data);
     default:
       data = getTheRandomEntry(data);
-  }
+  }*/
   return data;
 };
 
-module.exports = { getFilteredData, getFilteredDataSnapshot };
+module.exports = { getFilteredData, getFilteredDataSnapshot, getTheRandomEntry, getTheNormalEntry };
