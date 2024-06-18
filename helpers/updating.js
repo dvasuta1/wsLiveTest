@@ -2,7 +2,7 @@ const defaultData = require("../data/update/default.json");
 const data1000 = require("../data/update/1000.json");
 const data2000 = require("../data/update/2000.json");
 const config = require("./config");
-const { fileLoad } = require("./fileLoad");
+const { loadJsonFile } = require("./fileLoad");
 
 const updateData = (data, subscriptionId) => {
   return data.map((item) => {
@@ -63,7 +63,7 @@ const getJSON = (dataSetKey) => {
 };*/
 const getDataSetJSON = (dataSetKey) => {
   let fileName = getJSON(dataSetKey);
-  return fileLoad(fileName);
+  return loadJsonFile(fileName);
 };
 
 const getTheRandomEntry = (data) => {
