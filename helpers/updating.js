@@ -1,6 +1,8 @@
 const defaultData = require("../data/update/default.json");
 const data1000 = require("../data/update/1000.json");
 const data2000 = require("../data/update/2000.json");
+const config = require("./config");
+const { fileLoad } = require("./fileLoad");
 
 const updateData = (data, subscriptionId) => {
   return data.map((item) => {
@@ -17,19 +19,7 @@ const updateData = (data, subscriptionId) => {
 const getRandomInt = (max) => {
   return Math.floor(Math.random() * max);
 };
-/*
-const getRandomEntry = (data, subscriptionId) => {
-  const updatedData = updateData(data, subscriptionId);
-  let index = getRandomInt(updatedData.length);
-  console.log("index", index);
-  return updatedData[index];
-};
 
-const getOneUpdatingDataEntry = (subscriptionId, dataSet, launchAlias) => {
-  console.log("getOneUpdatingDataEntry", subscriptionId, dataSet, launchAlias);
-  return getRandomEntry(defaultUpdatingData, subscriptionId);
-};
-*/
 function filterByLaunchAlias(data, targetAlias) {
   //const data = updateData(dataInput, subscriptionId);
   const filteredNotifications = [];
@@ -50,7 +40,16 @@ function filterByLaunchAlias(data, targetAlias) {
   return filteredNotifications;
 }
 
-const getDataSetJSON = (dataSetKey) => {
+const getJSON = (dataSetKey) => {
+  let data = config.dataSetMap.defaultData;
+  if (config.dataSetMap[dataSetKey]) {
+    data = config.dataSetMap[dataSetKey];
+  }
+  console.log("getJSON data", data);
+  return data;
+};
+
+/*const getDataSetJSON = (dataSetKey) => {
   switch (dataSetKey) {
     case "1000":
       return data1000;
@@ -61,6 +60,10 @@ const getDataSetJSON = (dataSetKey) => {
     default:
       return defaultData;
   }
+};*/
+const getDataSetJSON = (dataSetKey) => {
+  let fileName = getJSON(dataSetKey);
+  return fileLoad(fileName);
 };
 
 const getTheRandomEntry = (data) => {
