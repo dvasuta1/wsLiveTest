@@ -1,7 +1,7 @@
 const defaultData = require("../data/update/default.json");
 const data1000 = require("../data/update/1000.json");
 const data2000 = require("../data/update/2000.json");
-const config = require("./config");
+const { dataSetMap } = require("./config");
 const { loadJsonFile } = require("./fileLoad");
 
 const updateData = (data, subscriptionId) => {
@@ -41,10 +41,12 @@ function filterByLaunchAlias(data, targetAlias) {
 }
 
 const getJSON = (dataSetKey) => {
-  let data = config.dataSetMap.defaultData;
-  if (config.dataSetMap[dataSetKey]) {
-    data = config.dataSetMap[dataSetKey];
+  /*let data = dataSetMap.defaultData;
+  if (dataSetMap[dataSetKey]) {
+    data = dataSetMap[dataSetKey];
   }
+  */
+  const data = dataSetMap[dataSetKey] ? dataSetMap[dataSetKey] : dataSetMap.defaultData;
   console.log("getJSON data", data);
   return data;
 };
