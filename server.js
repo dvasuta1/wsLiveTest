@@ -18,7 +18,7 @@ wss.on("connection", function connection(ws, req) {
   launchAlias = launchAlias?.trim();
   dataset = dataset.trim();
   order = order.trim();
-  console.warn("------connection-------");
+  console.warn("----connection start from:: ", url.parse(req.url, true).host);
   console.warn("----connection url params----", interval, launchAlias, dataset, order);
 
   ws.id = Date.now();
@@ -35,7 +35,7 @@ wss.on("connection", function connection(ws, req) {
       let subscriptionId = uuid();
       createSubscribeResponce(ws.id, message.correlationId, subscriptionId);
       const dataSnapshot = updatingData.getFilteredDataSnapshot(subscriptionId, dataset, launchAlias);
-      console.log("----dataSnapshot length::", dataSnapshot.length);
+      console.log("----dataSnapshot length:: ", dataSnapshot.length);
       // console.log("dataSnapshot", dataSnapshot);
       broadcastUpdatingDataByInterval(ws.id, dataSnapshot, interval, order);
     }
@@ -58,7 +58,7 @@ function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
           let data = getNextElement();
           console.log("updateData:: ", data);
           console.log("client.id:: ", client.id);
-          console.log("------------end---------");
+          console.log("----end----");
           client.send(JSON.stringify(data));
         }
       });
@@ -68,8 +68,9 @@ function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
       wss.clients.forEach((client) => {
         if (client.id == userId) {
           let data = updatingData.getTheRandomEntry(snapshot);
-          console.log("updateData", data);
-          console.log("client.id", client.id);
+          console.log("updateData:: ", data);
+          console.log("client.id:: ", client.id);
+          console.log("----end----");
           client.send(JSON.stringify(data));
         }
       });
