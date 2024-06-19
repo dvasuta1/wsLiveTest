@@ -12,13 +12,11 @@ const updatingData = require("./helpers/updating.js");
 const subscriptionData = require("./helpers/subscription.js");
 
 wss.on("connection", function connection(ws, req) {
-  //console.log(url.parse(req.url, true).query);
   let { interval = 5000, launchAlias, dataset = "default", order = "random" } = url.parse(req.url, true).query;
   interval = parseInt(interval);
   launchAlias = launchAlias?.trim();
   dataset = dataset.trim();
   order = order.trim();
-  console.warn("----connection start from:: ", req.headers["host"]);
   console.warn("----connection url params----", interval, launchAlias, dataset, order);
 
   ws.id = Date.now();
@@ -36,7 +34,6 @@ wss.on("connection", function connection(ws, req) {
       createSubscribeResponce(ws.id, message.correlationId, subscriptionId);
       const dataSnapshot = updatingData.getFilteredDataSnapshot(subscriptionId, dataset, launchAlias);
       console.log("----dataSnapshot length:: ", dataSnapshot.length);
-      // console.log("dataSnapshot", dataSnapshot);
       broadcastUpdatingDataByInterval(ws.id, dataSnapshot, interval, order);
     }
   });
@@ -77,38 +74,6 @@ function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
     }, interval);
   }
 }
-
-/*
-function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
-  const getNextElement =
-    order === "normal" ? updatingData.getTheNormalEntry(snapshot) : updatingData.getTheRandomEntry(snapshot);
-
-  function sendUpdatedData(client, data) {
-    console.log("----updateData----", data);
-    console.log("client.id", client.id);
-    client.send(JSON.stringify(data));
-  }
-
-  function broadcast() {
-    wss.clients.forEach((client) => {
-      if (client.id === userId) {
-        const data = typeof getNextElement === "function" ? getNextElement() : getNextElement;
-        sendUpdatedData(client, data);
-      }
-    });
-  }
-
-  // Set up the interval
-  setInterval(broadcast, interval);
-}
-*/
-/*function broadcastUpdatingData(userId, subscriptionId) {
-  if (client.id == userId) {
-    let data = updatingData.updateData(subscriptionId);
-    console.log("updateData ", data);
-    client.send(JSON.stringify(data));
-  }
-}*/
 
 function createContextResponce(userId) {
   let contextResponseMessage = {

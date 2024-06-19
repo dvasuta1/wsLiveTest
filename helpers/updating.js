@@ -1,6 +1,3 @@
-const defaultData = require("../data/update/default.json");
-const data1000 = require("../data/update/1000.json");
-const data2000 = require("../data/update/2000.json");
 const { dataSetMap } = require("./config");
 const { loadJsonFile } = require("./fileLoad");
 
@@ -21,7 +18,6 @@ const getRandomInt = (max) => {
 };
 
 function filterByLaunchAlias(data, targetAlias) {
-  //const data = updateData(dataInput, subscriptionId);
   const filteredNotifications = [];
 
   for (const item of data) {
@@ -41,28 +37,11 @@ function filterByLaunchAlias(data, targetAlias) {
 }
 
 const getJSON = (dataSetKey) => {
-  /*let data = dataSetMap.defaultData;
-  if (dataSetMap[dataSetKey]) {
-    data = dataSetMap[dataSetKey];
-  }
-  */
   const data = dataSetMap[dataSetKey] ? dataSetMap[dataSetKey] : dataSetMap.defaultData;
-  console.log("getJSON data:: ", data);
+  console.log("JSON data file in use:: ", data);
   return data;
 };
 
-/*const getDataSetJSON = (dataSetKey) => {
-  switch (dataSetKey) {
-    case "1000":
-      return data1000;
-      break;
-    case "2000":
-      return data2000;
-      break;
-    default:
-      return defaultData;
-  }
-};*/
 const getDataSetJSON = (dataSetKey) => {
   let fileName = getJSON(dataSetKey);
   return loadJsonFile(fileName);
@@ -94,24 +73,4 @@ const getFilteredDataSnapshot = (subscriptionId, dataSet, targetAlias) => {
   return data;
 };
 
-/*const getFilteredGames = (subscriptionId, dataSet, targetAlias, order) => {
-  let data = getFilteredDataSnapshot(subscriptionId, dataSet, targetAlias);
-  switch (order) {
-    default:
-      data = getTheRandomEntry(data);
-  }
-  return data;
-};*/
-
-const getFilteredData = (data, order) => {
-  /*let getNextElement = getTheNormalEntry(data);*/
-  /* switch (order) {
-    case "normal":
-      data = getNextElement(data);
-    default:
-      data = getTheRandomEntry(data);
-  }*/
-  return data;
-};
-
-module.exports = { getFilteredData, getFilteredDataSnapshot, getTheRandomEntry, getTheNormalEntry };
+module.exports = { getFilteredDataSnapshot, getTheRandomEntry, getTheNormalEntry };
