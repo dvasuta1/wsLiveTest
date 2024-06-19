@@ -18,7 +18,7 @@ wss.on("connection", function connection(ws, req) {
   launchAlias = launchAlias?.trim();
   dataset = dataset.trim();
   order = order.trim();
-  console.warn("----connection start from:: ", url.parse(req.url, true).host);
+  console.warn("----connection start from:: ", req.url);
   console.warn("----connection url params----", interval, launchAlias, dataset, order);
 
   ws.id = Date.now();
@@ -58,7 +58,7 @@ function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
           let data = getNextElement();
           console.log("updateData:: ", data);
           console.log("client.id:: ", client.id);
-          console.log("----end----");
+          console.log("----entry end----");
           client.send(JSON.stringify(data));
         }
       });
