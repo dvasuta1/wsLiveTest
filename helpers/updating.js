@@ -47,7 +47,7 @@ const getJSON = (dataSetKey) => {
   }
   */
   const data = dataSetMap[dataSetKey] ? dataSetMap[dataSetKey] : dataSetMap.defaultData;
-  console.log("getJSON data", data);
+  console.log("getJSON data:: ", data);
   return data;
 };
 
@@ -70,7 +70,7 @@ const getDataSetJSON = (dataSetKey) => {
 
 const getTheRandomEntry = (data) => {
   let index = getRandomInt(data.length);
-  console.log("index random", index);
+  console.log("index-random:: ", index);
   return data[index];
 };
 
@@ -80,7 +80,7 @@ const getTheNormalEntry = (arr) => {
     if (index >= arr.length) {
       index = 0;
     }
-    console.log("index normal", index);
+    console.log("index-normal:: ", index);
     return arr[index++];
   };
 };

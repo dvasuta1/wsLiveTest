@@ -18,6 +18,7 @@ wss.on("connection", function connection(ws, req) {
   launchAlias = launchAlias?.trim();
   dataset = dataset.trim();
   order = order.trim();
+  console.warn("------connection-------");
   console.warn("----connection url params----", interval, launchAlias, dataset, order);
 
   ws.id = Date.now();
@@ -27,20 +28,20 @@ wss.on("connection", function connection(ws, req) {
     if (message.setContextRequest) {
       // on create context
       ws.contextSnapshot = message.setContextRequest;
-      console.log("contextSnapshot", ws.contextSnapshot);
+      console.log("----contextSnapshot:: ", ws.contextSnapshot);
       createContextResponce(ws.id);
     } else if (message.subscribeRequest) {
       // on subscribe request
       let subscriptionId = uuid();
       createSubscribeResponce(ws.id, message.correlationId, subscriptionId);
       const dataSnapshot = updatingData.getFilteredDataSnapshot(subscriptionId, dataset, launchAlias);
-      console.log("dataSnapshot length", dataSnapshot.length);
+      console.log("----dataSnapshot length::", dataSnapshot.length);
       // console.log("dataSnapshot", dataSnapshot);
       broadcastUpdatingDataByInterval(ws.id, dataSnapshot, interval, order);
     }
   });
   ws.on("close", () => {
-    console.log("the client has disconnected");
+    console.log("The client has disconnected!");
   });
   ws.onerror = (e) => {
     console.error(e);
@@ -55,8 +56,9 @@ function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
       wss.clients.forEach((client) => {
         if (client.id == userId) {
           let data = getNextElement();
-          console.log("updateData", data);
-          console.log("client.id", client.id);
+          console.log("updateData:: ", data);
+          console.log("client.id:: ", client.id);
+          console.log("------------end---------");
           client.send(JSON.stringify(data));
         }
       });
