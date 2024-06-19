@@ -70,7 +70,7 @@ function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
           let data = updatingData.getTheRandomEntry(snapshot);
           console.log("updateData:: ", data);
           console.log("client.id:: ", client.id);
-          console.log("----end----");
+          console.log("----entry end----");
           client.send(JSON.stringify(data));
         }
       });
