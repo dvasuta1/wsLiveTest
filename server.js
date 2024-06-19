@@ -18,7 +18,7 @@ wss.on("connection", function connection(ws, req) {
   launchAlias = launchAlias?.trim();
   dataset = dataset.trim();
   order = order.trim();
-  console.warn("----connection start from:: ", req.url);
+  console.warn("----connection start from:: ", req.get("host"));
   console.warn("----connection url params----", interval, launchAlias, dataset, order);
 
   ws.id = Date.now();
