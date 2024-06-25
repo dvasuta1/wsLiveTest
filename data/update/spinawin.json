@@ -1,0 +1,41 @@
+[
+  {
+    "updateNotification": {
+      "subscriptionId": "%SUBSCRIPTION_ID%",
+      "updatedTables": [
+        { "launchAlias": "swl_spinawin", "state": { "playerCount": 190 }, "results": ["1;x2,x7"] },
+        { "launchAlias": "rodzl_doublezero", "results": ["31"] }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "%SUBSCRIPTION_ID%",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["T6B"]
+        },
+        {
+          "launchAlias": "swl_spinawin",
+          "state": {
+            "playerCount": 266
+          },
+          "results": ["2"]
+        },
+        {
+          "launchAlias": "bfbl_liveslots",
+          "state": {
+            "playerCount": 110
+          }
+        },
+        {
+          "launchAlias": "ejl_everybodysjp",
+          "state": {
+            "playerCount": 25
+          }
+        }
+      ]
+    }
+  }
+]
