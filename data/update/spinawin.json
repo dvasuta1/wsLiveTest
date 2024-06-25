@@ -127,5 +127,19 @@
         }
       ]
     }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "%SUBSCRIPTION_ID%",
+      "updatedTables": [
+        {
+          "launchAlias": "swl_spinawin",
+          "state": {
+            "playerCount": 100
+          },
+          "results": ["2;x7,x5,x2"]
+        }
+      ]
+    }
   }
 ]
