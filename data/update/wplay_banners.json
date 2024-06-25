@@ -1,7 +1,7 @@
 [
   {
     "updateNotification": {
-      "subscriptionId": "24d4df29-7373-4eb1-91ee-7f8bb9888346",
+      "subscriptionId": "%SUBSCRIPTION_ID%",
       "updatedTables": [
         {
           "launchAlias": "bal_soireebaccarat",
@@ -21,40 +21,20 @@
   },
   {
     "updateNotification": {
-      "subscriptionId": "24d4df29-7373-4eb1-91ee-7f8bb9888346",
+      "subscriptionId": "%SUBSCRIPTION_ID%",
       "updatedTables": [
         {
           "launchAlias": "rodzl_wplayroulette",
           "state": {
             "playerCount": 29
           }
-        },
-        {
-          "launchAlias": "rol_loungerol",
-          "state": {
-            "playerCount": 265
-          },
-          "results": ["23"]
-        },
-        {
-          "launchAlias": "abjl_allbetsblackjack2",
-          "state": {
-            "playerCount": 8
-          }
-        },
-        {
-          "launchAlias": "rofl_loungerol",
-          "state": {
-            "playerCount": 265
-          },
-          "results": ["23"]
         }
       ]
     }
   },
   {
     "updateNotification": {
-      "subscriptionId": "24d4df29-7373-4eb1-91ee-7f8bb9888346",
+      "subscriptionId": "%SUBSCRIPTION_ID%",
       "updatedTables": [
         {
           "launchAlias": "rodzl_wplayroulette",
@@ -62,24 +42,13 @@
             "playerCount": 27
           },
           "results": ["28"]
-        },
-        {
-          "launchAlias": "rol_aogroulettecol",
-          "results": ["14"]
-        },
-        {
-          "launchAlias": "rol_turkishrol",
-          "state": {
-            "playerCount": 3
-          },
-          "results": ["22"]
         }
       ]
     }
   },
   {
     "updateNotification": {
-      "subscriptionId": "24d4df29-7373-4eb1-91ee-7f8bb9888346",
+      "subscriptionId": "%SUBSCRIPTION_ID%",
       "updatedTables": [
         {
           "launchAlias": "rodzl_wplayroulette",
@@ -87,46 +56,19 @@
             "playerCount": 32
           },
           "results": ["14"]
-        },
-        {
-          "launchAlias": "sbdl_deluxesicbo",
-          "results": ["235"]
-        },
-        {
-          "launchAlias": "rol_autoroulette2",
-          "state": {
-            "playerCount": 10
-          },
-          "results": ["30"]
-        },
-        {
-          "launchAlias": "rodzl_doublezero",
-          "state": {
-            "playerCount": 27
-          }
         }
       ]
     }
   },
   {
     "updateNotification": {
-      "subscriptionId": "24d4df29-7373-4eb1-91ee-7f8bb9888346",
+      "subscriptionId": "%SUBSCRIPTION_ID%",
       "updatedTables": [
-        {
-          "launchAlias": "bal_baccarat1",
-          "state": {
-            "playerCount": 25
-          }
-        },
         {
           "launchAlias": "rodzl_wplayroulette",
           "state": {
             "playerCount": 27
           }
-        },
-        {
-          "launchAlias": "rol_primeslingshot",
-          "results": ["22"]
         },
         {
           "launchAlias": "abjl_wplayblackjack",
@@ -139,12 +81,83 @@
   },
   {
     "updateNotification": {
-      "subscriptionId": "d0885470-50e9-429d-b4cb-197f77987bf9",
+      "subscriptionId": "%SUBSCRIPTION_ID%",
       "updatedTables": [
         {
           "launchAlias": "bjl_wplay",
           "state": {
             "freeSeats": [1, 2, 3, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "%SUBSCRIPTION_ID%",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_wplay",
+          "state": {
+            "playerCount": 8
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "b8a94ec0-87fc-441f-b565-50ad2f441b43",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_wplay",
+          "state": {
+            "full": true
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "%SUBSCRIPTION_ID%",
+      "updatedTables": [
+        {
+          "launchAlias": "rodzl_wplayroulette",
+          "state": {
+            "playerCount": 71
+          }
+        },
+        {
+          "launchAlias": "abjl_wplayblackjack",
+          "state": {
+            "playerCount": 10
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "%SUBSCRIPTION_ID%",
+      "updatedTables": [
+        {
+          "launchAlias": "abjl_wplayblackjack",
+          "state": {
+            "playerCount": 13
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "%SUBSCRIPTION_ID%",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_wplay",
+          "state": {
+            "freeSeats": [4]
           }
         }
       ]
