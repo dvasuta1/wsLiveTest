@@ -58,9 +58,9 @@ function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
       wss.clients.forEach((client) => {
         if (client.id == userId) {
           let data = getNextElement();
-          /*console.log("updateData:: ", data.updateNotification.updatedTables);
+          /*console.log("updateData:: ", data.updateNotification.updatedTables);*/
           console.log("client.id:: ", client.id);
-          console.log("----entry end----");*/
+          console.log("----entry end----");
           client.send(JSON.stringify(data));
         }
       });
@@ -70,9 +70,9 @@ function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
       wss.clients.forEach((client) => {
         if (client.id == userId) {
           let data = updatingData.getTheRandomEntry(snapshot);
-          /* console.log("updateData:: ", data.updateNotification.updatedTables);
+          /* console.log("updateData:: ", data.updateNotification.updatedTables);*/
           console.log("client.id:: ", client.id);
-          console.log("----entry end----");*/
+          console.log("----entry end----");
           client.send(JSON.stringify(data));
         }
       });

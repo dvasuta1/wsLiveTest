@@ -49,7 +49,7 @@ const getDataSetJSON = (dataSetKey, context) => {
 
 const getTheRandomEntry = (data) => {
   let index = getRandomInt(data.length);
-  /*console.log("----entry start----");*/
+  console.log("----entry start----");
   console.log("index-random:: ", index);
   return data[index];
 };
@@ -60,7 +60,7 @@ const getTheNormalEntry = (arr) => {
     if (index >= arr.length) {
       index = 0;
     }
-    /* console.log("----entry start----");*/
+    console.log("----entry start----");
     console.log("index-normal:: ", index);
     return arr[index++];
   };
