@@ -12,7 +12,7 @@ const updatingData = require("./helpers/updating.js");
 const subscriptionData = require("./helpers/subscription.js");
 
 wss.on("connection", function connection(ws, req) {
-  let { interval = 5000, launchAlias, dataset = "default", order = "random" } = url.parse(req.url, true).query;
+  let { interval = 5000, launchAlias, dataset = "default", order = "normal" } = url.parse(req.url, true).query;
   interval = parseInt(interval);
   launchAlias = launchAlias?.trim();
   dataset = dataset.trim();
