@@ -1,5 +1,4 @@
-const { dataSetMap } = require("./config");
-const { loadJsonFile } = require("./fileLoad");
+const { getUpdatingDataSetJSON } = require("./fileLoad");
 
 const updateData = (data, subscriptionId) => {
   return data.map((item) => {
@@ -36,21 +35,22 @@ function filterByLaunchAlias(data, targetAlias) {
   return filteredNotifications;
 }
 
-const getJSON = (dataSetKey) => {
-  const data = dataSetMap[dataSetKey] ? dataSetMap[dataSetKey] : dataSetMap.defaultData;
+/*const getJSON = (dataSetKey, context) => {
+  const config = getGlobalConfigByCasinoName(context);
+  const data = config.update?.[dataSetKey] ? config.update?.[dataSetKey] : config.update?.defaultData;
   console.log("JSON data file in use:: ", data);
   return data;
 };
 
-const getDataSetJSON = (dataSetKey) => {
-  let fileName = getJSON(dataSetKey);
+const getDataSetJSON = (dataSetKey, context) => {
+  let fileName = getJSON(dataSetKey, context);
   return loadJsonFile(fileName);
-};
+}; */
 
 const getTheRandomEntry = (data) => {
   let index = getRandomInt(data.length);
-  console.log("----entry start----");
-  console.log("index-random:: ", index);
+  /*console.log("----entry start----");
+  console.log("index-random:: ", index);*/
   return data[index];
 };
 
@@ -60,14 +60,14 @@ const getTheNormalEntry = (arr) => {
     if (index >= arr.length) {
       index = 0;
     }
-    console.log("----entry start----");
-    console.log("index-normal:: ", index);
+    /* console.log("----entry start----");
+    console.log("index-normal:: ", index);*/
     return arr[index++];
   };
 };
 
-const getFilteredDataSnapshot = (subscriptionId, dataSet, targetAlias) => {
-  let data = getDataSetJSON(dataSet);
+const getFilteredDataSnapshot = (subscriptionId, dataSet, targetAlias, context) => {
+  let data = getUpdatingDataSetJSON(dataSet, context);
   data = updateData(data, subscriptionId);
   if (targetAlias) {
     data = filterByLaunchAlias(data, targetAlias);

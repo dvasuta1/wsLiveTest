@@ -31,8 +31,13 @@ wss.on("connection", function connection(ws, req) {
     } else if (message.subscribeRequest) {
       // on subscribe request
       let subscriptionId = uuid();
-      createSubscribeResponce(ws.id, message.correlationId, subscriptionId);
-      const dataSnapshot = updatingData.getFilteredDataSnapshot(subscriptionId, dataset, launchAlias);
+      createSubscribeResponce(ws.id, message.correlationId, subscriptionId, ws.contextSnapshot.casino);
+      const dataSnapshot = updatingData.getFilteredDataSnapshot(
+        subscriptionId,
+        dataset,
+        launchAlias,
+        ws.contextSnapshot.casino
+      );
       console.log("----dataSnapshot length:: ", dataSnapshot.length);
       broadcastUpdatingDataByInterval(ws.id, dataSnapshot, interval, order);
     }
@@ -53,9 +58,9 @@ function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
       wss.clients.forEach((client) => {
         if (client.id == userId) {
           let data = getNextElement();
-          console.log("updateData:: ", data.updateNotification.updatedTables);
+          /*console.log("updateData:: ", data.updateNotification.updatedTables);
           console.log("client.id:: ", client.id);
-          console.log("----entry end----");
+          console.log("----entry end----");*/
           client.send(JSON.stringify(data));
         }
       });
@@ -65,9 +70,9 @@ function broadcastUpdatingDataByInterval(userId, snapshot, interval, order) {
       wss.clients.forEach((client) => {
         if (client.id == userId) {
           let data = updatingData.getTheRandomEntry(snapshot);
-          console.log("updateData:: ", data.updateNotification.updatedTables);
+          /* console.log("updateData:: ", data.updateNotification.updatedTables);
           console.log("client.id:: ", client.id);
-          console.log("----entry end----");
+          console.log("----entry end----");*/
           client.send(JSON.stringify(data));
         }
       });
@@ -92,8 +97,8 @@ function createContextResponce(userId) {
   });
 }
 
-function createSubscribeResponce(userID, correlationID, subscriptionId) {
-  let subscribeResponceMessage = subscriptionData.updateSubscription(correlationID, subscriptionId);
+function createSubscribeResponce(userID, correlationID, subscriptionId, context) {
+  let subscribeResponceMessage = subscriptionData.updateSubscription(correlationID, subscriptionId, context);
   wss.clients.forEach((client) => {
     if (client.id == userID) {
       //console.log("subscribeResponceMessage", subscribeResponceMessage);
