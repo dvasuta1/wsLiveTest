@@ -26,7 +26,8 @@
         {
           "launchAlias": "rodzl_wplayroulette",
           "state": {
-            "playerCount": 29
+            "playerCount": 29,
+            "status": 2
           }
         }
       ]
@@ -53,7 +54,8 @@
         {
           "launchAlias": "rodzl_wplayroulette",
           "state": {
-            "playerCount": 32
+            "playerCount": 32,
+            "status": 0
           },
           "results": ["14"]
         }
@@ -67,13 +69,15 @@
         {
           "launchAlias": "rodzl_wplayroulette",
           "state": {
-            "playerCount": 27
+            "playerCount": 27,
+            "status": 0
           }
         },
         {
           "launchAlias": "abjl_wplayblackjack",
           "state": {
-            "playerCount": 1
+            "playerCount": 1,
+            "status": 0
           }
         }
       ]
@@ -125,7 +129,8 @@
         {
           "launchAlias": "rodzl_wplayroulette",
           "state": {
-            "playerCount": 71
+            "playerCount": 71,
+            "status": 0
           }
         },
         {
@@ -144,7 +149,8 @@
         {
           "launchAlias": "abjl_wplayblackjack",
           "state": {
-            "playerCount": 13
+            "playerCount": 13,
+            "status": 2
           }
         }
       ]

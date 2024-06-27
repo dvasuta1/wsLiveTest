@@ -35,18 +35,6 @@ function filterByLaunchAlias(data, targetAlias) {
   return filteredNotifications;
 }
 
-/*const getJSON = (dataSetKey, context) => {
-  const config = getGlobalConfigByCasinoName(context);
-  const data = config.update?.[dataSetKey] ? config.update?.[dataSetKey] : config.update?.defaultData;
-  console.log("JSON data file in use:: ", data);
-  return data;
-};
-
-const getDataSetJSON = (dataSetKey, context) => {
-  let fileName = getJSON(dataSetKey, context);
-  return loadJsonFile(fileName);
-}; */
-
 const getTheRandomEntry = (data) => {
   let index = getRandomInt(data.length);
   console.log("----entry start----");

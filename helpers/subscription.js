@@ -1,10 +1,13 @@
 const { getSubscribingDataSetJSON } = require("./fileLoad");
 
-const addSubsAndCorrelationProps = (data, correlationId, subscriptionId) => {
-  data.correlationId = correlationId;
-  data.subscribeResponse.subscriptionId = subscriptionId;
-  return data;
-};
+const addSubsAndCorrelationProps = (data, correlationId, subscriptionId) => ({
+  ...data,
+  correlationId,
+  subscribeResponse: {
+    ...data.subscribeResponse,
+    subscriptionId,
+  },
+});
 
 const updateSubscription = (correlationId, subscriptionId, context) => {
   const subscribeResponceMessage = getSubscribingDataSetJSON(context);
