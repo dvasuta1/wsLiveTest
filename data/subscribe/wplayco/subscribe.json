@@ -3,8 +3,6 @@
     "result": {
       "errorType": 0
     },
-    "subscriptionId": "%SUBSCRIPTION_ID%",
-    "correlationId": "%CORRELATION_ID%",
     "tables": [
       {
         "launchAlias": "qrol_quantumgreek",
