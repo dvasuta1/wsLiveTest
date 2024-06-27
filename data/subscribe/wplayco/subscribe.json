@@ -1,8 +1,10 @@
 {
   "subscribeResponse": {
+    "correlationId": "%CORRELATION_ID%",
     "result": {
       "errorType": 0
     },
+    "subscriptionId": "%SUBSCRIPTION_ID%",
     "tables": [
       {
         "launchAlias": "qrol_quantumgreek",

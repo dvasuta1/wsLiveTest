@@ -1,8 +1,10 @@
 {
+  "correlationId": "%CORRELATION_ID%",
   "subscribeResponse": {
     "result": {
       "errorType": 0
     },
+    "subscriptionId": "%SUBSCRIPTION_ID%",
     "tables": [
       {
         "launchAlias": "rol_speedrol",
