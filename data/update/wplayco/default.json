@@ -25,7 +25,7 @@
           "launchAlias": "rodzl_wplayroulette",
           "state": {
             "playerCount": 29,
-            "status": 2
+            "status": 0
           }
         }
       ]
@@ -51,7 +51,7 @@
           "launchAlias": "rodzl_wplayroulette",
           "state": {
             "playerCount": 32,
-            "status": 0
+            "status": 2
           },
           "results": ["14"]
         }
