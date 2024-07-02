@@ -1626,7 +1626,7 @@
           }
         ],
         "state": {
-          "status": 0,
+          "status": 2,
           "playerCount": 71
         },
         "results": ["5", "20", "28", "15", "1", "14"]
