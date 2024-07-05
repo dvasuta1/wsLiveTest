@@ -3,13 +3,13 @@
     "updateNotification": {
       "updatedTables": [
         {
-          "launchAlias": "swl_spinawin",
+          "launchAlias": "hilo_hilo",
           "state": {
             "playerCount": 7
           }
         },
         {
-          "launchAlias": "bjl_royalebj1",
+          "launchAlias": "abjl_allbetsblackjack",
           "state": {
             "playerCount": 32
           },
@@ -22,8 +22,8 @@
     "updateNotification": {
       "updatedTables": [
         {
-          "launchAlias": "swl_spinawin",
-          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_1606.jpg",
+          "launchAlias": "hilo_hilo",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103186.jpg",
           "state": {
             "playerCount": 29,
             "status": 0
@@ -36,8 +36,8 @@
     "updateNotification": {
       "updatedTables": [
         {
-          "launchAlias": "bjl_royalebj1",
-          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103295.jpg",
+          "launchAlias": "abjl_allbetsblackjack",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_102009.jpg",
           "state": {
             "playerCount": 27
           },

@@ -171,6 +171,7 @@
           "imsGameType": "swl",
           "dedicated": false,
           "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_1606.jpg",
           "tableColor": "2301228"
         },
         "dealer": {
@@ -251,7 +252,7 @@
           "imsGameType": "hilol",
           "dedicated": false,
           "language": "en",
-          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103186.jpg",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_10.jpg",
           "tableColor": "3888043"
         },
         "dealer": {
@@ -600,7 +601,7 @@
           "imsGameType": "bjl",
           "dedicated": false,
           "language": "en",
-          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_10.jpg",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103295.jpg",
           "tableColor": "6108169"
         },
         "dealer": {
@@ -1926,7 +1927,6 @@
           "imsGameType": "abjl",
           "dedicated": false,
           "language": "en",
-          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_102009.jpg",
           "tableColor": "4091261"
         },
         "dealer": {
