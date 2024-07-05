@@ -3,13 +3,13 @@
     "updateNotification": {
       "updatedTables": [
         {
-          "launchAlias": "bal_soireebaccarat",
+          "launchAlias": "swl_spinawin",
           "state": {
             "playerCount": 7
           }
         },
         {
-          "launchAlias": "rodzl_wplayroulette",
+          "launchAlias": "bjl_royalebj1",
           "state": {
             "playerCount": 32
           },
@@ -22,7 +22,8 @@
     "updateNotification": {
       "updatedTables": [
         {
-          "launchAlias": "rodzl_wplayroulette",
+          "launchAlias": "swl_spinawin",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_1606.jpg",
           "state": {
             "playerCount": 29,
             "status": 0
@@ -35,7 +36,8 @@
     "updateNotification": {
       "updatedTables": [
         {
-          "launchAlias": "rodzl_wplayroulette",
+          "launchAlias": "bjl_royalebj1",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103295.jpg",
           "state": {
             "playerCount": 27
           },
