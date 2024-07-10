@@ -22,6 +22,10 @@ const dataConfig = {
     update: {
       defaultData: "./data/update/wplayco/default.json",
       videoBanners: "./data/update/wplayco/videoBanners.json",
+      banner1: "./data/update/wplayco/banner1.json",
+      banner2: "./data/update/wplayco/banner2.json",
+      banner3: "./data/update/wplayco/banner3.json",
+      banner4: "./data/update/wplayco/banner4.json",
     },
   },
 };
