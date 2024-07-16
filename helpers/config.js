@@ -18,7 +18,7 @@ const dataConfig = {
     },
   },
   wplayco: {
-    subscribe: "./data/subscribe/wplayco/subscribe.json",
+    subscribe: "./data/subscribe/wplayco/subscribeUn.json",
     update: {
       defaultData: "./data/update/wplayco/default.json",
       videoBanners: "./data/update/wplayco/videoBanners.json",
@@ -26,6 +26,7 @@ const dataConfig = {
       banner2: "./data/update/wplayco/banner2.json",
       banner3: "./data/update/wplayco/banner3.json",
       banner4: "./data/update/wplayco/banner4.json",
+      bannerUnavailable: "./data/update/wplayco/bannerUnavailable.json",
     },
   },
 };
