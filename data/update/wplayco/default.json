@@ -64,26 +64,6 @@
     "updateNotification": {
       "updatedTables": [
         {
-          "launchAlias": "rodzl_wplayroulette",
-          "state": {
-            "playerCount": 27,
-            "status": 0
-          }
-        },
-        {
-          "launchAlias": "abjl_wplayblackjack",
-          "state": {
-            "playerCount": 1,
-            "status": 0
-          }
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "updatedTables": [
-        {
           "launchAlias": "bjl_wplay",
           "state": {
             "freeSeats": [1, 2, 3, 6]
@@ -156,6 +136,26 @@
           "launchAlias": "bjl_wplay",
           "state": {
             "freeSeats": [4]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "updatedTables": [
+        {
+          "launchAlias": "rodzl_wplayroulette",
+          "state": {
+            "playerCount": 27,
+            "status": 0
+          }
+        },
+        {
+          "launchAlias": "abjl_wplayblackjack",
+          "state": {
+            "playerCount": 1,
+            "status": 0
           }
         }
       ]
