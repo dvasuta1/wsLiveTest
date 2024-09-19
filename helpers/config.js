@@ -8,7 +8,9 @@ const dataSetMap = {
 
 const dataConfig = {
   europa: {
-    subscribe: "./data/subscribe/europa/subscribe.json",
+    subscribe: {
+      defaultData: "./data/subscribe/europa/subscribe.json"
+    },
     update: {
       defaultData: "./data/update/europa/default.json",
       1000: "./data/update/europa/1000.json",
@@ -18,7 +20,10 @@ const dataConfig = {
     },
   },
   wplayco: {
-    subscribe: "./data/subscribe/wplayco/subscribe.json",
+    subscribe: {
+      defaultData: "./data/subscribe/wplayco/subscribe.json",
+      subscribeUn: "./data/subscribe/wplayco/subscribeUn.json"
+    },
     update: {
       defaultData: "./data/update/wplayco/default.json",
       videoBanners: "./data/update/wplayco/videoBanners.json",
