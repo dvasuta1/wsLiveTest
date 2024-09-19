@@ -27,9 +27,9 @@ const getUpdatingDataSetJSON = (dataSetKey, context) => {
 
 const getSubscribeJSON = (context) => {
   const config = getGlobalConfigByCasinoName(context);
-  const path = config.subscribe;
-  console.log("Subscribe JSON data file in use:: ", path);
-  return path;
+  const data = config.subscribe?.[dataSetKey] ? config.subscribe?.[dataSetKey] : config.subscribe?.defaultData;
+  console.log("Subscribe JSON data file in use:: ", data);
+  return data;
 };
 
 const getSubscribingDataSetJSON = (context) => {
