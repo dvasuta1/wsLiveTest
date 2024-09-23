@@ -26,7 +26,7 @@
           }
         ],
         "state": {
-          "status": 0,
+          "status": 1,
           "playerCount": 550,
           "openingDateTime": 160245000
         },
@@ -54,7 +54,7 @@
           }
         ],
         "state": {
-          "status": 0,
+          "status": 1,
           "playerCount": 12,
           "openingDateTime": 245000
         },
