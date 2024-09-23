@@ -1,214 +1,242 @@
-[{
-    "updateNotification": {
-      "updatedTables": [{
-          "launchAlias": "hilo_hilo",
-          "state": {
-            "playerCount": 7
-          }
-        },
+;[
+  {
+    updateNotification: {
+      updatedTables: [
         {
-          "launchAlias": "abjl_allbetsblackjack",
-          "state": {
-            "playerCount": 32
+          launchAlias: "hilo_hilo",
+          state: {
+            playerCount: 7,
           },
-          "results": ["32"]
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "updatedTables": [{
-          "launchAlias": "bal_baccarat1",
-          "results": [
-            "P4N"
-          ]
         },
         {
-          "launchAlias": "blj_blackjack8",
-          "state": {
-            "playerCount": 5
-          }
-        },
-        {
-          "launchAlias": "swl_spinawin",
-          "state": {
-            "playerCount": 191,
-            "status": 2
+          launchAlias: "abjl_allbetsblackjack",
+          state: {
+            playerCount: 32,
           },
-          "results": [
-            "40"
-          ]
-        }
-      ]
-    }
+          results: ["32"],
+        },
+      ],
+    },
   },
   {
-    "updateNotification": {
-      "updatedTables": [{
-          "launchAlias": "hilo_hilo",
-          "results": [
-            "H4"
-          ]
+    updateNotification: {
+      updatedTables: [
+        {
+          launchAlias: "bal_baccarat1",
+          results: ["P4N"],
         },
         {
-          "launchAlias": "bal_grandbaccarat",
-          "state": {
-            "playerCount": 113,
-            "status": 2
-          }
+          launchAlias: "blj_blackjack8",
+          state: {
+            playerCount: 5,
+          },
         },
         {
-          "launchAlias": "blj_blackjack8",
-          "state": {
-            "freeSeats": [
-              5
-            ]
-          }
+          launchAlias: "swl_spinawin",
+          state: {
+            playerCount: 191,
+            status: 2,
+          },
+          results: ["40"],
+        },
+      ],
+    },
+  },
+  {
+    updateNotification: {
+      updatedTables: [
+        {
+          launchAlias: "hilo_hilo",
+          results: ["H4"],
         },
         {
-          "launchAlias": "nc_bal_grandbaccarat",
-          "state": {
-            "playerCount": 113
-          }
+          launchAlias: "bal_grandbaccarat",
+          state: {
+            playerCount: 113,
+            status: 2,
+          },
         },
         {
-          "launchAlias": "fbrol_fireblazerol",
-          "state": {
-            "playerCount": 1126
-          }
+          launchAlias: "blj_blackjack8",
+          state: {
+            freeSeats: [5],
+          },
         },
         {
-          "launchAlias": "rodzl_doublezero",
-          "results": [
-            "11"
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "updatedTables": [{
-        "launchAlias": "hilo_hilo",
-        "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103186.jpg",
-        "state": {
-          "playerCount": 29,
-          "status": 0
-        }
-      }]
-    }
-  },
-  {
-    "updateNotification": {
-      "updatedTables": [{
-        "launchAlias": "abjl_allbetsblackjack",
-        "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_102009.jpg",
-        "state": {
-          "playerCount": 27
-        },
-        "results": ["28"]
-      }]
-    }
-  },
-  {
-    "updateNotification": {
-      "updatedTables": [{
-        "launchAlias": "rodzl_wplayroulette",
-        "state": {
-          "playerCount": 32,
-          "status": 2
-        },
-        "results": ["14"]
-      }]
-    }
-  },
-  {
-    "updateNotification": {
-      "updatedTables": [{
-        "launchAlias": "bjl_wplay",
-        "state": {
-          "freeSeats": [1, 2, 3, 6]
-        }
-      }]
-    }
-  },
-  {
-    "updateNotification": {
-      "updatedTables": [{
-        "launchAlias": "bjl_wplay",
-        "state": {
-          "playerCount": 8
-        }
-      }]
-    }
-  },
-  {
-    "updateNotification": {
-      "updatedTables": [{
-        "launchAlias": "bjl_wplay",
-        "state": {
-          "full": true
-        }
-      }]
-    }
-  },
-  {
-    "updateNotification": {
-      "updatedTables": [{
-          "launchAlias": "rodzl_wplayroulette",
-          "state": {
-            "playerCount": 71,
-            "status": 0
-          }
+          launchAlias: "nc_bal_grandbaccarat",
+          state: {
+            playerCount: 113,
+          },
         },
         {
-          "launchAlias": "abjl_wplayblackjack",
-          "state": {
-            "playerCount": 10
-          }
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "updatedTables": [{
-        "launchAlias": "abjl_wplayblackjack",
-        "state": {
-          "playerCount": 13,
-          "status": 2
-        }
-      }]
-    }
-  },
-  {
-    "updateNotification": {
-      "updatedTables": [{
-        "launchAlias": "bjl_wplay",
-        "state": {
-          "freeSeats": [4]
-        }
-      }]
-    }
-  },
-  {
-    "updateNotification": {
-      "updatedTables": [{
-          "launchAlias": "rodzl_wplayroulette",
-          "state": {
-            "playerCount": 27,
-            "status": 0
-          }
+          launchAlias: "fbrol_fireblazerol",
+          state: {
+            playerCount: 1126,
+          },
         },
         {
-          "launchAlias": "abjl_wplayblackjack",
-          "state": {
-            "playerCount": 1,
-            "status": 0
-          }
-        }
-      ]
-    }
-  }
+          launchAlias: "rodzl_doublezero",
+          results: ["11"],
+        },
+      ],
+    },
+  },
+  {
+    updateNotification: {
+      updatedTables: [
+        {
+          launchAlias: "hilo_hilo",
+          dynamicImageUrl:
+            "https://cdn-lobby-img.live-hub.net/lobbyImage_103186.jpg",
+          state: {
+            playerCount: 29,
+            status: 0,
+          },
+        },
+      ],
+    },
+  },
+  {
+    updateNotification: {
+      updatedTables: [
+        {
+          launchAlias: "abjl_allbetsblackjack",
+          dynamicImageUrl:
+            "https://cdn-lobby-img.live-hub.net/lobbyImage_102009.jpg",
+          state: {
+            playerCount: 27,
+          },
+          results: ["28"],
+        },
+      ],
+    },
+  },
+  {
+    updateNotification: {
+      updatedTables: [
+        {
+          launchAlias: "rodzl_wplayroulette",
+          state: {
+            playerCount: 32,
+            status: 2,
+          },
+          results: ["14"],
+        },
+      ],
+    },
+  },
+  {
+    updateNotification: {
+      updatedTables: [
+        {
+          launchAlias: "bjl_wplay",
+          state: {
+            freeSeats: [1, 2, 3, 6],
+          },
+        },
+      ],
+    },
+  },
+  {
+    updateNotification: {
+      updatedTables: [
+        {
+          launchAlias: "bjl_wplay",
+          state: {
+            playerCount: 8,
+          },
+        },
+      ],
+    },
+  },
+  {
+    updateNotification: {
+      updatedTables: [
+        {
+          launchAlias: "bjl_wplay",
+          state: {
+            full: true,
+          },
+        },
+      ],
+    },
+  },
+  {
+    updateNotification: {
+      updatedTables: [
+        {
+          launchAlias: "rodzl_wplayroulette",
+          state: {
+            playerCount: 71,
+            status: 0,
+          },
+        },
+        {
+          launchAlias: "abjl_wplayblackjack",
+          state: {
+            playerCount: 10,
+          },
+        },
+      ],
+    },
+  },
+  {
+    updateNotification: {
+      updatedTables: [
+        {
+          launchAlias: "rol_primeslingshot",
+          state: {
+            playerCount: 13,
+            status: 0,
+          },
+          results: ["8"],
+        },
+      ],
+    },
+  },
+  {
+    updateNotification: {
+      updatedTables: [
+        {
+          launchAlias: "abjl_wplayblackjack",
+          state: {
+            playerCount: 13,
+            status: 2,
+          },
+        },
+      ],
+    },
+  },
+  {
+    updateNotification: {
+      updatedTables: [
+        {
+          launchAlias: "bjl_wplay",
+          state: {
+            freeSeats: [4],
+          },
+        },
+      ],
+    },
+  },
+  {
+    updateNotification: {
+      updatedTables: [
+        {
+          launchAlias: "rodzl_wplayroulette",
+          state: {
+            playerCount: 27,
+            status: 0,
+          },
+        },
+        {
+          launchAlias: "abjl_wplayblackjack",
+          state: {
+            playerCount: 1,
+            status: 0,
+          },
+        },
+      ],
+    },
+  },
 ]
