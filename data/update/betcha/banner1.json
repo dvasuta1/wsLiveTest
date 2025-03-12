@@ -1,0 +1,192 @@
+[
+  {
+    "updateNotification": {
+      "updatedTables": [
+        {
+          "launchAlias": "rodzl_wplayroulette",
+          "state": {
+            "playerCount": 32,
+            "status": 2
+          },
+          "results": ["14"]
+        },
+        {
+          "launchAlias": "bjl_wplay",
+          "state": {
+            "freeSeats": [1, 2, 3, 6],
+            "status": 0
+          }
+        },
+        {
+          "launchAlias": "abjl_wplayblackjack",
+          "state": {
+            "playerCount": 1,
+            "status": 1
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "updatedTables": [
+        {
+          "launchAlias": "hilo_hilo",
+          "state": {
+            "playerCount": 7
+          }
+        },
+        {
+          "launchAlias": "abjl_allbetsblackjack",
+          "state": {
+            "playerCount": 32
+          },
+          "results": ["32"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "updatedTables": [
+        {
+          "launchAlias": "hilo_hilo",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103186.jpg",
+          "state": {
+            "playerCount": 29,
+            "status": 0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "updatedTables": [
+        {
+          "launchAlias": "abjl_allbetsblackjack",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_102009.jpg",
+          "state": {
+            "playerCount": 27
+          },
+          "results": ["28"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "updatedTables": [
+        {
+          "launchAlias": "rodzl_wplayroulette",
+          "state": {
+            "playerCount": 32,
+            "status": 0
+          },
+          "results": ["14"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "updatedTables": [
+        {
+          "launchAlias": "rodzl_wplayroulette",
+          "state": {
+            "playerCount": 27,
+            "status": 0
+          }
+        },
+        {
+          "launchAlias": "abjl_wplayblackjack",
+          "state": {
+            "playerCount": 1,
+            "status": 1
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_wplay",
+          "state": {
+            "freeSeats": [1, 2, 3, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_wplay",
+          "state": {
+            "playerCount": 8
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "b8a94ec0-87fc-441f-b565-50ad2f441b43",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_wplay",
+          "state": {
+            "full": true
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "updatedTables": [
+        {
+          "launchAlias": "rodzl_wplayroulette",
+          "state": {
+            "playerCount": 71,
+            "status": 0
+          }
+        },
+        {
+          "launchAlias": "abjl_wplayblackjack",
+          "state": {
+            "playerCount": 10
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "updatedTables": [
+        {
+          "launchAlias": "abjl_wplayblackjack",
+          "state": {
+            "playerCount": 13,
+            "status": 0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_wplay",
+          "state": {
+            "freeSeats": [4]
+          }
+        }
+      ]
+    }
+  }
+]

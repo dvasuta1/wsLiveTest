@@ -29,6 +29,18 @@ const dataConfig = {
       bannerUnavailable: "./data/update/wplayco/bannerUnavailable.json",
     },
   },
+  betcha: {
+    subscribe: "./data/subscribe/betcha/subscribe.json",
+    update: {
+      defaultData: "./data/update/betcha/default.json",
+      videoBanners: "./data/update/betcha/videoBanners.json",
+      banner1: "./data/update/betcha/banner1.json",
+      banner2: "./data/update/betcha/banner2.json",
+      banner3: "./data/update/betcha/banner3.json",
+      banner4: "./data/update/betcha/banner4.json",
+      bannerUnavailable: "./data/update/betcha/bannerUnavailable.json",
+    },
+  },
 };
 
 const getGlobalConfigByCasinoName = (casino) => {
