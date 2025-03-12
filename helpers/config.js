@@ -29,16 +29,16 @@ const dataConfig = {
       bannerUnavailable: "./data/update/wplayco/bannerUnavailable.json",
     },
   },
-  betcha: {
-    subscribe: "./data/subscribe/betcha/subscribe.json",
+  betcaliente: {
+    subscribe: "./data/subscribe/betcaliente/subscribe.json",
     update: {
-      defaultData: "./data/update/betcha/default.json",
-      videoBanners: "./data/update/betcha/videoBanners.json",
-      banner1: "./data/update/betcha/banner1.json",
-      banner2: "./data/update/betcha/banner2.json",
-      banner3: "./data/update/betcha/banner3.json",
-      banner4: "./data/update/betcha/banner4.json",
-      bannerUnavailable: "./data/update/betcha/bannerUnavailable.json",
+      defaultData: "./data/update/betcaliente/default.json",
+      videoBanners: "./data/update/betcaliente/videoBanners.json",
+      banner1: "./data/update/betcaliente/banner1.json",
+      banner2: "./data/update/betcaliente/banner2.json",
+      banner3: "./data/update/betcaliente/banner3.json",
+      banner4: "./data/update/betcaliente/banner4.json",
+      bannerUnavailable: "./data/update/betcaliente/bannerUnavailable.json",
     },
   },
 };
