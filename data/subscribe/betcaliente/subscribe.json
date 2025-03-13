@@ -1,10 +1,8 @@
 {
-  "correlationId": "3ca3f188-9634-452b-9e04-f350ac3c767f",
   "subscribeResponse": {
     "result": {
       "errorType": 0
     },
-    "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
     "tables": [
       {
         "launchAlias": "bal_baccaratko",
