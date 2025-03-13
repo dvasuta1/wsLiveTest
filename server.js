@@ -4,6 +4,11 @@ const PORT = process.env.PORT || 3000;
 const wss = new ws.Server(
   {
     port: PORT,
+    headers: {
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+      "Access-Control-Allow-Headers": "Content-Type",
+    },
   },
   () => console.log(`Server started on 3000`)
 );
