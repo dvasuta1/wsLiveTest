@@ -41,6 +41,7 @@ const dataConfig = {
       bannerUnavailable: "./data/update/betcaliente/bannerUnavailable.json",
       1000: "./data/update/betcaliente/1000.json",
       2000: "./data/update/betcaliente/2000.json",
+      500: "./data/update/betcaliente/500.json",
     },
   },
 };
