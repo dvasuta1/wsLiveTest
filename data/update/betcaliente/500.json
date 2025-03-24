@@ -706,7 +706,7 @@
         {
           "launchAlias": "blj_blackjack2",
           "state": {
-            "freeSeats": [2, 3, 5, 6, 7]
+            "full": true
           }
         }
       ]
