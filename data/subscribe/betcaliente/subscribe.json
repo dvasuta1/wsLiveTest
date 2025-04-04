@@ -118,8 +118,7 @@
         ],
         "state": {
           "status": 0,
-          "playerCount": 6,
-          "full": true
+          "playerCount": 6
         }
       },
       {
