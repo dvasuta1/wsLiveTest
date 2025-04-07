@@ -1,0 +1,95 @@
+[
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "status": 1
+          }
+        },
+        {
+          "launchAlias": "abwl_wonderland",
+          "state": {
+            "status": 1
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "status": 1
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abjl_allbetsblackjack",
+          "state": {
+            "status": 2
+          }
+        },
+       {
+          "launchAlias": "swl_spinawin",
+          "state": {
+            "status": 2
+          }
+        },
+       {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "status": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abjl_allbetsblackjack",
+          "state": {
+            "status": 0
+          }
+        },
+       {
+          "launchAlias": "swl_spinawin",
+          "state": {
+            "status": 0
+          }
+        },
+       {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "status": 0
+          }
+        },
+{
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "status": 0
+          }
+        },
+        {
+          "launchAlias": "abwl_wonderland",
+          "state": {
+            "status": 0
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "status": 0
+          }
+        }
+      ]
+}
+        }
+      ]
