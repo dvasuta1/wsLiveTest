@@ -30,7 +30,7 @@ const dataConfig = {
     },
   },
   betcaliente: {
-    subscribe: "./data/subscribe/betcaliente/subscribe.json",
+    subscribe: "./data/subscribe/betcaliente/subscribeBaccara.json",
     update: {
       defaultData: "./data/update/betcaliente/default.json",
       videoBanners: "./data/update/betcaliente/videoBanners.json",
@@ -40,6 +40,7 @@ const dataConfig = {
       2000: "./data/update/betcaliente/2000.json",
       500: "./data/update/betcaliente/500.json",
       closed_and_scheduled: "./data/update/betcaliente/closed_and_scheduled.json",
+      baccara: "./data/update/betcaliente/baccara.json",
     },
   },
 };
