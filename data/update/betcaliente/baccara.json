@@ -1368,16 +1368,16 @@
         }
       ]
     }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "3db490e7-5191-4ac6-81b3-8456e37def4c",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["B7P"]
+        }
+      ]
+    }
   }
 ]
-{
-  "updateNotification": {
-    "subscriptionId": "3db490e7-5191-4ac6-81b3-8456e37def4c",
-    "updatedTables": [
-      {
-        "launchAlias": "bal_betslipbaccarat",
-        "results": ["B7P"]
-      }
-    ]
-  }
-}
