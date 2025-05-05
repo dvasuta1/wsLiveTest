@@ -523,6 +523,28 @@
       "updatedTables": [
         {
           "launchAlias": "bal_baccaratko",
+          "results": ["T3P"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "3db490e7-5191-4ac6-81b3-8456e37def4c",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["T4P"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "3db490e7-5191-4ac6-81b3-8456e37def4c",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
           "results": ["B7N"]
         }
       ]
@@ -1273,6 +1295,39 @@
           "state": {
             "freeSeats": [2, 4]
           }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "3db490e7-5191-4ac6-81b3-8456e37def4c",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["E5"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "3db490e7-5191-4ac6-81b3-8456e37def4c",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["E6"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "3db490e7-5191-4ac6-81b3-8456e37def4c",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["E7"]
         }
       ]
     }
