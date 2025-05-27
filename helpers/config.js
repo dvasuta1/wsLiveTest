@@ -7,6 +7,20 @@ const dataSetMap = {
 };
 
 const dataConfig = {
+  "caliente.pe": {
+    subscribe: "./data/subscribe/calientepe/subscribeBaccara.json",
+    update: {
+      defaultData: "./data/update/calientepe/default.json",
+      videoBanners: "./data/update/calientepe/videoBanners.json",
+      bannerUnavailable: "./data/update/calientepe/bannerUnavailable.json",
+      abjl_allbetsblackjack: "./data/update/calientepe/abjl_allbetsblackjack.json",
+      1000: "./data/update/calientepe/1000.json",
+      2000: "./data/update/calientepe/2000.json",
+      500: "./data/update/calientepe/500.json",
+      closed_and_scheduled: "./data/update/calientepe/closed_and_scheduled.json",
+      baccara: "./data/update/calientepe/baccara.json",
+    },
+  },
   europa: {
     subscribe: "./data/subscribe/europa/subscribe.json",
     update: {

@@ -1,0 +1,7384 @@
+[
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 75
+          }
+        },
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "playerCount": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "full": true
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swl_spinawin",
+          "state": {
+            "playerCount": 166
+          },
+          "results": ["1"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["TT"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["T4P"]
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["P7N"]
+        },
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [2, 3, 4, 5, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 42
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1153
+          },
+          "results": ["32"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 28
+          }
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 17
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "freeSeats": [1, 2, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "abwl_wonderland",
+          "results": ["2"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abwl_wonderland",
+          "state": {
+            "playerCount": 2009
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "playerCount": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["B2B"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 62
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_turkishrol",
+          "state": {
+            "playerCount": 12
+          },
+          "results": ["28"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 367
+          },
+          "results": ["4"]
+        },
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["344"]
+        },
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "freeSeats": [1, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "state": {
+            "playerCount": 60
+          }
+        },
+        {
+          "launchAlias": "rol_autoroulette2",
+          "results": ["34"]
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["DT"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "freeSeats": [1, 5, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abjl_allbetsblackjack",
+          "state": {
+            "playerCount": 91
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["P6N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "state": {
+            "playerCount": 15
+          },
+          "results": ["35"]
+        },
+        {
+          "launchAlias": "swle_spinawinwild",
+          "results": ["1;;4,x2"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 29
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swle_spinawinwild",
+          "dealer": {
+            "name": "Viriato",
+            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_22535_lkxdwst5.png",
+            "asaCompliant": true
+          },
+          "state": {
+            "playerCount": 57
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["P7B"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["P6N"]
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 76
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "freeSeats": [1, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "freeSeats": [1, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "bjl_royalebj3",
+          "dealer": {
+            "name": "Barron",
+            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_10562_m00ua9ax.png",
+            "asaCompliant": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "freeSeats": [1, 2, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 66
+          }
+        },
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "results": ["36"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1156
+          },
+          "results": ["13"]
+        },
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "state": {
+            "playerCount": 922
+          }
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["B5N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "freeSeats": [2, 5, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 18
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["D4"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "freeSeats": [2, 5, 6]
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 38
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [4, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_turkishrol",
+          "state": {
+            "playerCount": 13
+          },
+          "results": ["11"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swl_spinawin",
+          "state": {
+            "playerCount": 179
+          },
+          "results": ["5"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["B9N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["B6N"]
+        },
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 366
+          },
+          "results": ["24"]
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 68
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "freeSeats": [6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 26
+          }
+        },
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["356"]
+        },
+        {
+          "launchAlias": "abwl_wonderland",
+          "results": ["1"]
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["DT"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "full": true
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["P9N"]
+        },
+        {
+          "launchAlias": "rol_autoroulette2",
+          "results": ["14"]
+        },
+        {
+          "launchAlias": "abwl_wonderland",
+          "state": {
+            "playerCount": 2014
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 36
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "playerCount": 4
+          }
+        },
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "state": {
+            "playerCount": 57
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["B8N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "results": ["33"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 16
+          }
+        },
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "full": true
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "freeSeats": [1, 2, 5, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["P8N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1153
+          },
+          "results": ["23"]
+        },
+        {
+          "launchAlias": "swle_spinawinwild",
+          "results": ["1;;1,x2"]
+        },
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "freeSeats": [1, 2, 4, 5, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swle_spinawinwild",
+          "state": {
+            "playerCount": 55
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 70
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["EQ"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["P4N"]
+        },
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["B8N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_turkishrol",
+          "state": {
+            "playerCount": 11
+          },
+          "results": ["19"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 25
+          }
+        },
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 64
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "freeSeats": [5, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 348
+          },
+          "results": ["35"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["P9N"]
+        },
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "playerCount": 6
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 68
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "playerCount": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["D5"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["B8N"]
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 34
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swl_spinawin",
+          "state": {
+            "playerCount": 172
+          },
+          "results": ["2"]
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["P5N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["133"]
+        },
+        {
+          "launchAlias": "rol_autoroulette2",
+          "state": {
+            "playerCount": 7
+          },
+          "results": ["14"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 59
+          }
+        },
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "playerCount": 4
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "freeSeats": [1, 2, 4, 5, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 18
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "state": {
+            "playerCount": 53
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["B9N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1156
+          },
+          "results": ["21"]
+        },
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "state": {
+            "playerCount": 16
+          },
+          "results": ["27"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "freeSeats": [1, 2, 6]
+          }
+        },
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "freeSeats": [2, 5, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "rol_turkishrol",
+          "state": {
+            "playerCount": 12
+          },
+          "results": ["9"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swle_spinawinwild",
+          "state": {
+            "playerCount": 57
+          },
+          "results": ["1;;3,x2"]
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["B4N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "playerCount": 3
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 67
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["D6"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "playerCount": 1
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["B9N"]
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 36
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 61
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [2, 5, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abjl_allbetsblackjack",
+          "state": {
+            "playerCount": 85
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 349
+          },
+          "results": ["1"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["P5N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["P4N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 30
+          }
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 16
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["DK"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["P9N"]
+        },
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "full": true
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "playerCount": 3
+          }
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["P6B"]
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 39
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 60
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 65
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1147
+          },
+          "results": ["34"]
+        },
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [2, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "freeSeats": [2, 5, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["124"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "freeSeats": [1, 2, 3, 4, 5, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "rol_autoroulette2",
+          "results": ["12"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swl_spinawin",
+          "state": {
+            "playerCount": 176
+          },
+          "results": ["2"]
+        },
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "playerCount": 5,
+            "freeSeats": [2, 3, 4, 5, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "state": {
+            "playerCount": 19
+          },
+          "results": ["2"]
+        },
+        {
+          "launchAlias": "rol_turkishrol",
+          "results": ["28"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [5, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "freeSeats": [2, 4, 5, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "playerCount": 4
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swle_spinawinwild",
+          "results": ["5;;2,x2"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["T7"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["P7N"]
+        },
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [3, 4, 5, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 44
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 28
+          }
+        },
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "freeSeats": [1, 6]
+          }
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["P8N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 67
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["P5F"]
+        },
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [2, 3, 4, 5, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 65
+          }
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["B4N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 330
+          },
+          "results": ["23"]
+        },
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [4, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["T8"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1155
+          },
+          "results": ["12"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 45
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abjl_allbetsblackjack",
+          "state": {
+            "playerCount": 89
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["B7N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["P8P"]
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 60
+          }
+        },
+        {
+          "launchAlias": "rol_turkishrol",
+          "results": ["35"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 62
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["B4N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["355"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "freeSeats": [6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "playerCount": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "full": true
+          }
+        },
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "state": {
+            "playerCount": 55
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swl_spinawin",
+          "state": {
+            "playerCount": 185
+          },
+          "results": ["1"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "playerCount": 6
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "state": {
+            "playerCount": 16
+          },
+          "results": ["33"]
+        },
+        {
+          "launchAlias": "rol_autoroulette2",
+          "state": {
+            "playerCount": 6
+          },
+          "results": ["6"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["DQ"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "results": ["8;x123"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [3, 4, 5, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 43
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abwl_wonderland",
+          "results": ["2S"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swle_spinawinwild",
+          "state": {
+            "playerCount": 56
+          },
+          "results": ["40;;4,x2"]
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["P9N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 329
+          },
+          "results": ["32"]
+        },
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "state": {
+            "playerCount": 898
+          }
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 59
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["P5N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["P6P"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "playerCount": 7
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["P9N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 25
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1157
+          },
+          "results": ["29"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "full": true
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["E8"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 38
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abwl_wonderland",
+          "state": {
+            "playerCount": 2142
+          }
+        },
+        {
+          "launchAlias": "rol_turkishrol",
+          "state": {
+            "playerCount": 13
+          },
+          "results": ["14"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["B8N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["P7N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["114"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 60
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "state": {
+            "playerCount": 56
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_autoroulette2",
+          "state": {
+            "playerCount": 7
+          },
+          "results": ["2"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["B8N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["TK"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 27
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "results": ["33"]
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 39
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "state": {
+            "playerCount": 18
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "freeSeats": [2, 4, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swl_spinawin",
+          "state": {
+            "playerCount": 181
+          },
+          "results": ["10"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 316
+          },
+          "results": ["7"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1134
+          },
+          "results": ["19"]
+        },
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "results": ["1"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["P6N"]
+        },
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "state": {
+            "playerCount": 905
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swle_spinawinwild",
+          "state": {
+            "playerCount": 55
+          },
+          "results": ["1;;1B,x4"]
+        },
+        {
+          "launchAlias": "abjl_allbetsblackjack",
+          "state": {
+            "playerCount": 92
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["SC"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 58
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 9
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_turkishrol",
+          "state": {
+            "playerCount": 15
+          },
+          "results": ["33"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["D5"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 32
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["P8N"]
+        },
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [2, 3, 4, 5, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 29
+          }
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["SC"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 37
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["123"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "playerCount": 4
+          }
+        },
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "playerCount": 8
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abwl_wonderland",
+          "results": ["5"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "state": {
+            "playerCount": 64
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abwl_wonderland",
+          "state": {
+            "playerCount": 2259
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["B5N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["TT"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 51
+          }
+        },
+        {
+          "launchAlias": "rol_autoroulette2",
+          "state": {
+            "playerCount": 6
+          },
+          "results": ["19"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abjl_allbetsblackjack",
+          "state": {
+            "playerCount": 89
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "freeSeats": [6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "playerCount": 4
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [4]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["B6N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["B9N"]
+        },
+        {
+          "launchAlias": "rol_triumphrol",
+          "state": {
+            "playerCount": 16
+          },
+          "results": ["28"]
+        },
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1107
+          },
+          "results": ["32"]
+        },
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "full": true
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 159
+          },
+          "results": ["23"]
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["B8N"]
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 34
+          }
+        },
+        {
+          "launchAlias": "rol_turkishrol",
+          "state": {
+            "playerCount": 11
+          },
+          "results": ["11"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 28
+          }
+        },
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "freeSeats": [6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "freeSeats": [3, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 6
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "results": ["28"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "state": {
+            "playerCount": 740
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["T7"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 31
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swle_spinawinwild",
+          "state": {
+            "playerCount": 57
+          },
+          "results": ["1;;4,x2"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [2, 3, 4, 5, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["B1P"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 45
+          }
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["B4N"]
+        },
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [2, 3, 5, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 38
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "playerCount": 7
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["445"]
+        },
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "freeSeats": [4, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["T7N"]
+        },
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "freeSeats": [6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "full": true
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["EA"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 30
+          }
+        },
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "freeSeats": [2, 3, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1098
+          },
+          "results": ["21"]
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 33
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_turkishrol",
+          "state": {
+            "playerCount": 13
+          },
+          "results": ["17"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abjl_allbetsblackjack",
+          "state": {
+            "playerCount": 87
+          }
+        },
+        {
+          "launchAlias": "rol_autoroulette2",
+          "state": {
+            "playerCount": 7
+          },
+          "results": ["32"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "playerCount": 2
+          }
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["B4B"]
+        },
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [2, 3, 4, 5, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swl_spinawin",
+          "state": {
+            "playerCount": 179
+          },
+          "results": ["1;x2"]
+        },
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 154
+          },
+          "results": ["35"]
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 7
+          }
+        },
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "playerCount": 3
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "state": {
+            "playerCount": 17
+          },
+          "results": ["2"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["P2B"]
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["B4P"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 43
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 43
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["TQ"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "results": ["7"]
+        },
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [3, 4, 5, 6]
+          }
+        },
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "playerCount": 7
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "state": {
+            "playerCount": 749
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["P7B"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swle_spinawinwild",
+          "state": {
+            "playerCount": 56
+          },
+          "results": ["5;;1,x2"]
+        },
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [1, 3]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["B9N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["B8N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1102
+          },
+          "results": ["15"]
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 41
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 8
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["135"]
+        },
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [1]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["P9N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["DK"]
+        },
+        {
+          "launchAlias": "rol_turkishrol",
+          "state": {
+            "playerCount": 11
+          },
+          "results": ["29"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 40
+          }
+        },
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "state": {
+            "playerCount": 63
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 26
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "results": ["16"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 167
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_autoroulette2",
+          "state": {
+            "playerCount": 9
+          },
+          "results": ["19"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["P7B"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 34
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["B7P"]
+        },
+        {
+          "launchAlias": "abwl_wonderland",
+          "results": ["1"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "state": {
+            "playerCount": 18
+          },
+          "results": ["34"]
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 44
+          }
+        },
+        {
+          "launchAlias": "abwl_wonderland",
+          "state": {
+            "playerCount": 2327
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swl_spinawin",
+          "state": {
+            "playerCount": 160
+          },
+          "results": ["1"]
+        },
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "full": true
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["T7N"]
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["DJ"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 38
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 24
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abjl_allbetsblackjack",
+          "state": {
+            "playerCount": 88
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "results": ["28"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "state": {
+            "playerCount": 862
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "freeSeats": [1, 2, 3, 5, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["P7N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 7
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swle_spinawinwild",
+          "state": {
+            "playerCount": 64
+          },
+          "results": ["1;;3,x2"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1132
+          },
+          "results": ["34"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "freeSeats": [2, 3, 6]
+          }
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["P8N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_turkishrol",
+          "state": {
+            "playerCount": 16
+          },
+          "results": ["1"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 49
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["166"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["T3N"]
+        },
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "freeSeats": [2, 3, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["P9N"]
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["E5"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "freeSeats": [2, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 32
+          }
+        },
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "state": {
+            "playerCount": 62
+          }
+        },
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "freeSeats": [2, 3, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 39
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 27
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 263
+          },
+          "results": ["18"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "freeSeats": [5]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_autoroulette2",
+          "state": {
+            "playerCount": 8
+          },
+          "results": ["22"]
+        },
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["P9N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "freeSeats": [2, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 42
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "state": {
+            "playerCount": 16
+          },
+          "results": ["1"]
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["DQ"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "freeSeats": [1, 2, 3, 4, 5, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["B7N"]
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 26
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["P6N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swl_spinawin",
+          "state": {
+            "playerCount": 158
+          },
+          "results": ["10"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 6
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["B4N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 31
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_turkishrol",
+          "results": ["21"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_turkishrol",
+          "state": {
+            "playerCount": 17
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1146
+          },
+          "results": ["1"]
+        },
+        {
+          "launchAlias": "swle_spinawinwild",
+          "state": {
+            "playerCount": 58
+          },
+          "results": ["1;;2,x2"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "results": ["34"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "state": {
+            "playerCount": 901
+          }
+        },
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [3, 4, 5, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [2, 3, 4, 5, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["B6P"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 45
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["DK"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["146;x15"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "state": {
+            "playerCount": 66
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 288
+          },
+          "results": ["10"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["P7N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 40
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["P9N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["B8N"]
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 7
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 33
+          }
+        },
+        {
+          "launchAlias": "abjl_allbetsblackjack",
+          "state": {
+            "playerCount": 89
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_autoroulette2",
+          "state": {
+            "playerCount": 7
+          },
+          "results": ["5"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["T7N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["TQ"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 27
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "state": {
+            "playerCount": 15
+          },
+          "results": ["12"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "results": ["15"]
+        },
+        {
+          "launchAlias": "swl_spinawin",
+          "results": ["1"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_turkishrol",
+          "state": {
+            "playerCount": 13
+          },
+          "results": ["32"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "playerCount": 6,
+            "freeSeats": [6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["B9N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 46
+          }
+        },
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "playerCount": 3
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "playerCount": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swle_spinawinwild",
+          "state": {
+            "playerCount": 53
+          },
+          "results": ["5;;2B,x4"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 295
+          },
+          "results": ["4"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["D6"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["P8B"]
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["P5N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "freeSeats": [1, 2, 3, 5, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["B5N"]
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 8
+          }
+        },
+        {
+          "launchAlias": "abwl_wonderland",
+          "results": ["2"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "freeSeats": [2, 6]
+          }
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 48
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["244"]
+        },
+        {
+          "launchAlias": "abwl_wonderland",
+          "state": {
+            "playerCount": 2624
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 31
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "freeSeats": [1, 2, 5, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "playerCount": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["B8B"]
+        },
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "freeSeats": [1, 2, 3, 5, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "freeSeats": [1, 2, 3, 4, 5, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [2, 3, 4, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "rol_autoroulette2",
+          "state": {
+            "playerCount": 6
+          },
+          "results": ["2"]
+        },
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "playerCount": 6
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["TT"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 42
+          }
+        },
+        {
+          "launchAlias": "rol_turkishrol",
+          "state": {
+            "playerCount": 10
+          },
+          "results": ["17"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 29
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "results": ["10"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1137
+          }
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["T6N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "state": {
+            "playerCount": 14
+          },
+          "results": ["7"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [2, 3, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "playerCount": 3
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["B6N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "freeSeats": [1, 2, 3, 5, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 28
+          }
+        },
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "playerCount": 1
+          }
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["B8N"]
+        },
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "full": true
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "results": ["14"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swl_spinawin",
+          "results": ["1"]
+        },
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 299
+          }
+        },
+        {
+          "launchAlias": "abjl_allbetsblackjack",
+          "state": {
+            "playerCount": 87
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["P9N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["T9"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 37
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swle_spinawinwild",
+          "results": ["2;;1,x2"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swle_spinawinwild",
+          "state": {
+            "playerCount": 52
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["T0N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["445;x25"]
+        },
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "playerCount": 4
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "state": {
+            "playerCount": 70
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abwl_wonderland",
+          "results": ["2"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abwl_wonderland",
+          "state": {
+            "playerCount": 2485
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [2, 3, 5, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["T1N"]
+        },
+        {
+          "launchAlias": "rol_turkishrol",
+          "results": ["29"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["P8N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1138
+          },
+          "results": ["12"]
+        },
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 34
+          }
+        },
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [3, 6]
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["D2"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 27
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["P8N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 7
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_autoroulette2",
+          "state": {
+            "playerCount": 7
+          },
+          "results": ["23"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["P8N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "results": ["34"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 306
+          },
+          "results": ["7"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swl_spinawin",
+          "state": {
+            "playerCount": 161
+          },
+          "results": ["5"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abjl_allbetsblackjack",
+          "state": {
+            "playerCount": 88
+          }
+        },
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [2, 3, 4, 5, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["T4"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [2, 3, 5, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 25
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["P5B"]
+        },
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["B7P"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 38
+          }
+        },
+        {
+          "launchAlias": "swle_spinawinwild",
+          "state": {
+            "playerCount": 53
+          },
+          "results": ["2;;2,x2"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 37
+          }
+        },
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "results": ["25;x73"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["P6N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["156"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 47
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_turkishrol",
+          "results": ["24"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "state": {
+            "playerCount": 69
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "state": {
+            "playerCount": 887
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1153
+          },
+          "results": ["6"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["B5B"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["D8"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 29
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abwl_wonderland",
+          "results": ["1"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "state": {
+            "playerCount": 17
+          },
+          "results": ["31"]
+        },
+        {
+          "launchAlias": "abwl_wonderland",
+          "state": {
+            "playerCount": 2259
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "playerCount": 7
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_autoroulette2",
+          "state": {
+            "playerCount": 8
+          },
+          "results": ["35"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [3, 5, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["P8B"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["B4B"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["B5P"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 40
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 34
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [5, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 312
+          },
+          "results": ["29"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [3, 5, 6]
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["T7"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 31
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "playerCount": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_turkishrol",
+          "results": ["8"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swl_spinawin",
+          "state": {
+            "playerCount": 166
+          },
+          "results": ["1"]
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["P8N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swle_spinawinwild",
+          "state": {
+            "playerCount": 52
+          },
+          "results": ["2;;4,x2"]
+        },
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["113"]
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["P9N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 11
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1132
+          },
+          "results": ["22"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "state": {
+            "playerCount": 71
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [1, 2, 3, 5, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["P7B"]
+        },
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "results": ["36"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "state": {
+            "playerCount": 940
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abjl_allbetsblackjack",
+          "state": {
+            "playerCount": 92
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["TQ"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["T2N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 29
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 35
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "results": ["27"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["B7N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 55
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 319
+          },
+          "results": ["24"]
+        },
+        {
+          "launchAlias": "abwl_wonderland",
+          "results": ["1"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [5, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abwl_wonderland",
+          "state": {
+            "playerCount": 2184
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_autoroulette2",
+          "state": {
+            "playerCount": 11
+          },
+          "results": ["35"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["P9N"]
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["T6"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_turkishrol",
+          "state": {
+            "playerCount": 13
+          },
+          "results": ["31"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 12
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 26
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["SC"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 36
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "freeSeats": [2, 3, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1129
+          },
+          "results": ["30"]
+        },
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["B7N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swle_spinawinwild",
+          "state": {
+            "playerCount": 47
+          },
+          "results": ["2;;1,x2"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 34
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["345"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["P9B"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 56
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swl_spinawin",
+          "state": {
+            "playerCount": 167
+          },
+          "results": ["10"]
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["TQ"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "results": ["33"]
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 27
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "state": {
+            "playerCount": 953
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "playerCount": 5,
+            "freeSeats": [5, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "freeSeats": [5]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "state": {
+            "playerCount": 15
+          },
+          "results": ["29"]
+        },
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 320
+          },
+          "results": ["36"]
+        },
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [5, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["P9N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 10
+          }
+        },
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "freeSeats": [5, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["P9P"]
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["T6N"]
+        },
+        {
+          "launchAlias": "rol_turkishrol",
+          "state": {
+            "playerCount": 15
+          },
+          "results": ["33"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 38
+          }
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 59
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [3, 5, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["E7"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 30
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_autoroulette2",
+          "state": {
+            "playerCount": 14
+          },
+          "results": ["20"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1107
+          },
+          "results": ["13"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abwl_wonderland",
+          "results": ["1"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abwl_wonderland",
+          "state": {
+            "playerCount": 2120
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [5, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["156"]
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["P8N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "freeSeats": [1, 2, 5, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "state": {
+            "playerCount": 72
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["TK"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swle_spinawinwild",
+          "state": {
+            "playerCount": 45
+          },
+          "results": ["1;;2B,x4"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["P3N"]
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["P9N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 9
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "results": ["3"]
+        },
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 31
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "state": {
+            "playerCount": 16
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "results": ["32"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "state": {
+            "playerCount": 961
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "playerCount": 4,
+            "freeSeats": [1, 5, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swl_spinawin",
+          "state": {
+            "playerCount": 186
+          },
+          "results": ["1"]
+        },
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "freeSeats": [1, 3, 5, 7]
+          }
+        },
+        {
+          "launchAlias": "rol_turkishrol",
+          "state": {
+            "playerCount": 14
+          },
+          "results": ["19"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "results": ["6"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 322
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["B7N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 58
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "freeSeats": [2, 3, 5, 6]
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["D5"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 34
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1100
+          },
+          "results": ["34"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["P9N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_autoroulette2",
+          "state": {
+            "playerCount": 11
+          },
+          "results": ["1"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [1, 2, 3, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 25
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["P9B"]
+        },
+        {
+          "launchAlias": "abjl_allbetsblackjack",
+          "state": {
+            "playerCount": 95
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 32
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["B7N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abwl_wonderland",
+          "results": ["1"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 10
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abwl_wonderland",
+          "state": {
+            "playerCount": 2022
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["256"]
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["B6P"]
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["D4"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 32
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "state": {
+            "playerCount": 71
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["T6N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_turkishrol",
+          "state": {
+            "playerCount": 12
+          },
+          "results": ["35"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 316
+          },
+          "results": ["25"]
+        },
+        {
+          "launchAlias": "swle_spinawinwild",
+          "state": {
+            "playerCount": 47
+          },
+          "results": ["2;;4,x2"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "state": {
+            "playerCount": 17
+          },
+          "results": ["17"]
+        },
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 30
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "results": ["34"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "state": {
+            "playerCount": 978
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swl_spinawin",
+          "state": {
+            "playerCount": 177
+          },
+          "results": ["1"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1084
+          },
+          "results": ["34"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["B8P"]
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["TJ"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack9",
+          "state": {
+            "playerCount": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["B9N"]
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 56
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 35
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 35
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["B9N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["P6N"]
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 11
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_autoroulette2",
+          "results": ["24"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "playerCount": 7
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack2",
+          "state": {
+            "freeSeats": [2, 3, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [4, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["P8N"]
+        },
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [6, 7]
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["D7"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["366"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 59
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 34
+          }
+        },
+        {
+          "launchAlias": "rol_turkishrol",
+          "results": ["0"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "state": {
+            "playerCount": 75
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [3, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["P8N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 308
+          },
+          "results": ["0"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 38
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1078
+          },
+          "results": ["34"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abjl_allbetsblackjack",
+          "state": {
+            "playerCount": 91
+          }
+        },
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "freeSeats": [1, 3, 5, 6, 7]
+          }
+        },
+        {
+          "launchAlias": "abwl_wonderland",
+          "results": ["5"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "abwl_wonderland",
+          "state": {
+            "playerCount": 2051
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "freeSeats": [1, 5, 6, 7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_triumphrol",
+          "results": ["21"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "freeSeats": [1, 5, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swle_spinawinwild",
+          "state": {
+            "playerCount": 50
+          },
+          "results": ["1;;4B,x4"]
+        },
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "results": ["16"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "fbrol_fireblazerol",
+          "state": {
+            "playerCount": 998
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "swl_spinawin",
+          "state": {
+            "playerCount": 178
+          },
+          "results": ["1"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["B8N"]
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["B9N"]
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["T9"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_baccaratko",
+          "results": ["B9N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 62
+          }
+        },
+        {
+          "launchAlias": "dtl_dragontiger",
+          "state": {
+            "playerCount": 38
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 37
+          }
+        },
+        {
+          "launchAlias": "bal_baccaratko",
+          "state": {
+            "playerCount": 13
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "freeSeats": [1, 6]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj1",
+          "state": {
+            "playerCount": 3
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "results": ["P4B"]
+        },
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "freeSeats": [7]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_autoroulette2",
+          "results": ["19"]
+        },
+        {
+          "launchAlias": "rol_turkishrol",
+          "state": {
+            "playerCount": 10
+          },
+          "results": ["9"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_betslipbaccarat",
+          "state": {
+            "playerCount": 30
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "dtl_dragontiger",
+          "results": ["T5"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "results": ["266"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_minibaccarat",
+          "results": ["P5N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_brazilianrol",
+          "state": {
+            "playerCount": 1077
+          },
+          "results": ["0"]
+        },
+        {
+          "launchAlias": "bal_goldenbac1",
+          "results": ["B5N"]
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "rol_loungerol",
+          "state": {
+            "playerCount": 299
+          },
+          "results": ["30"]
+        },
+        {
+          "launchAlias": "sbdl_deluxesicbo",
+          "state": {
+            "playerCount": 80
+          }
+        },
+        {
+          "launchAlias": "bal_minibaccarat",
+          "state": {
+            "playerCount": 65
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bal_goldenbac1",
+          "state": {
+            "playerCount": 40
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "bjl_royalebj3",
+          "state": {
+            "playerCount": 6
+          }
+        }
+      ]
+    }
+  },
+  {
+    "updateNotification": {
+      "subscriptionId": "c1874183-5a18-453b-9f26-0dd88ebd65b2",
+      "updatedTables": [
+        {
+          "launchAlias": "blj_blackjack7",
+          "state": {
+            "freeSeats": [1, 2, 6, 7]
+          }
+        }
+      ]
+    }
+  }
+]
