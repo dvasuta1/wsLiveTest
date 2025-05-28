@@ -1,0 +1,2222 @@
+{
+  "subscribeResponse": {
+    "result": {
+      "errorType": 0
+    },
+    "tables": [
+      {
+        "launchAlias": "qrol_quantumgreek",
+        "config": {
+          "name": "Greek Quantum Roulette",
+          "imsGameType": "qrol",
+          "dedicated": false,
+          "language": "el",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_104452.jpg",
+          "tableColor": "1445657",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_el_kipioqbd.png"
+        },
+        "dealer": {
+          "name": "Xara",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_17829_lamca8jg.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 20,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 13
+        },
+        "results": ["16", "29", "34", "27", "8", "21"]
+      },
+      {
+        "launchAlias": "rol_speedrol",
+        "config": {
+          "name": "Deutsches Speed Roulette",
+          "imsGameType": "rol",
+          "dedicated": false,
+          "language": "de",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_8.jpg",
+          "tableColor": "1052688",
+          "asaAlternativeImageUrl": "alternative_8_k1bwheo3.png",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_de_jbhx2qon.png"
+        },
+        "dealer": {
+          "name": "Mason",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_5520_locz1ses.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 50,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 19
+        },
+        "results": ["2", "12", "30", "33", "8", "4"]
+      },
+      {
+        "launchAlias": "nc_bal_minibaccarat",
+        "config": {
+          "name": "Speed Baccarat NC",
+          "imsGameType": "nc_bal",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_100546.jpg",
+          "tableColor": "6238993",
+          "asaAlternativeImageUrl": "alternative_100621_k0wf6psb.png",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Anna",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_255_m1oyqbb4.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 100,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 60
+        },
+        "results": [
+          "B8N",
+          "B8N",
+          "T9N",
+          "P9N",
+          "P3N",
+          "P8N",
+          "B7N",
+          "B8N",
+          "P6N",
+          "B3P",
+          "B8B",
+          "B9N",
+          "B6P",
+          "B9P",
+          "P8P",
+          "B6N",
+          "P5B",
+          "B8P",
+          "B8P",
+          "P9N",
+          "B9N",
+          "B8P"
+        ]
+      },
+      {
+        "launchAlias": "rol_primeslingshot",
+        "config": {
+          "name": "Speed Auto Roulette",
+          "imsGameType": "rol",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_106175.jpg",
+          "tableColor": "1048576",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Speed Auto Roulette",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_6090_jlfepbhw.jpg",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 10,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 5
+        },
+        "results": ["15", "3", "12", "29", "33", "30"]
+      },
+      {
+        "launchAlias": "rol_slingshot",
+        "config": {
+          "name": "Auto Roulette",
+          "imsGameType": "rol",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_106174.jpg",
+          "tableColor": "1048576",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Auto Roulette",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_6103_jlcthifs.jpg",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 10,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 23
+        },
+        "results": ["26", "23", "33", "36", "36", "35"]
+      },
+      {
+        "launchAlias": "bbwl_bigbadwolf",
+        "config": {
+          "name": "Big Bad Wolf Live",
+          "imsGameType": "bbwl",
+          "dedicated": false,
+          "language": "pt-br",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_108815.jpg"
+        },
+        "dealer": {
+          "name": "Hadley",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_12523_krk9og2h.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 25,
+            "max": 2000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 9
+        }
+      },
+      {
+        "launchAlias": "bal_baccaratko",
+        "config": {
+          "name": "Jade Baccarat",
+          "imsGameType": "bal",
+          "dedicated": false,
+          "language": "ko",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_108834.jpg",
+          "tableColor": "8923946",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_ko_lcj4n4dq.png"
+        },
+        "dealer": {
+          "name": "Monna",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_4838_llbyqb9c.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 100,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 7
+        },
+        "results": [
+          "P7N",
+          "B9N",
+          "P6N",
+          "B6N",
+          "B8B",
+          "B5N",
+          "B8N",
+          "P9N",
+          "B6N",
+          "B5N",
+          "B5N",
+          "B9N",
+          "P6N",
+          "T2N",
+          "P7N",
+          "P7P"
+        ]
+      },
+      {
+        "launchAlias": "abwl_wonderland",
+        "config": {
+          "name": "Adventures Beyond Wonderland Live",
+          "imsGameType": "abwl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_104012.jpg",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Charlotte",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_4565_jzsaj81m.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 10,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 2468
+        },
+        "results": ["10", "1", "1", "1", "1", "1"]
+      },
+      {
+        "launchAlias": "bjl_royalebj1",
+        "config": {
+          "name": "Royale Blackjack 1",
+          "imsGameType": "bjl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103295.jpg",
+          "tableColor": "6108169",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Priyansh",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_12937_liluq1f4.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 1500,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 6,
+          "full": true
+        }
+      },
+      {
+        "launchAlias": "bjl_grandbjl",
+        "config": {
+          "name": "Grand Blackjack",
+          "imsGameType": "bjl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103294.jpg",
+          "tableColor": "6108169",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Margrieta",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_1524_lrou5ndn.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 10000,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 5,
+          "freeSeats": [5]
+        }
+      },
+      {
+        "launchAlias": "bjl_royalebj3",
+        "config": {
+          "name": "Royale Blackjack 3",
+          "imsGameType": "bjl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103297.jpg",
+          "tableColor": "6108169",
+          "asaAlternativeImageUrl": "alternative_544_k0xjrtzy.png",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Haniya",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_15042_l2k03y99.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 1500,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 2,
+          "freeSeats": [1, 2, 3, 4, 5, 6, 7]
+        }
+      },
+      {
+        "launchAlias": "bs_pokl_betonpoker",
+        "config": {
+          "name": "Bet On Poker",
+          "imsGameType": "bs_pokl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_104712.jpg",
+          "tableColor": "1052688",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Jonathan",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_9022_koics892.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 50,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 13
+        }
+      },
+      {
+        "launchAlias": "hilo_hilowestern",
+        "config": {
+          "name": "Hi-Lo Western Live",
+          "imsGameType": "hilol",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_112474.jpg",
+          "tableColor": "2101006",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Selina",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_2015_kczwae4a.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 20,
+            "max": 1000000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 16
+        },
+        "results": ["D3", "DJ", "D6", "S7", "S7", "H7"]
+      },
+      {
+        "launchAlias": "bjl_italianobj2",
+        "config": {
+          "name": "Blackjack Italiano 2",
+          "imsGameType": "bjl",
+          "dedicated": false,
+          "language": "it",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103303.jpg",
+          "tableColor": "12322",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_it_jbhx39k8.png"
+        },
+        "dealer": {
+          "name": "Candido",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_31185_m917rqd6.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 1000,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 4,
+          "freeSeats": [2]
+        }
+      },
+      {
+        "launchAlias": "bjl_blackjackitalianovip",
+        "config": {
+          "name": "Blackjack Italiano VIP",
+          "imsGameType": "bjl",
+          "dedicated": false,
+          "language": "it",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103304.jpg",
+          "tableColor": "6707023",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_it_jbhx39k8.png"
+        },
+        "dealer": {
+          "name": "Simone",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_26428_m74g1hyg.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 2500,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 1,
+          "freeSeats": [1, 2, 3, 4, 5, 6, 7]
+        }
+      },
+      {
+        "launchAlias": "bjl_blackjack2ko",
+        "config": {
+          "name": "Jade Blackjack 2",
+          "imsGameType": "bjl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_110134.jpg",
+          "tableColor": "1116476",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Daira",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_423_ls1e9spg.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 5000,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 1,
+          "freeSeats": [1, 2, 3, 5, 6, 7]
+        }
+      },
+      {
+        "launchAlias": "ccrol_cashcollect",
+        "config": {
+          "name": "Cash Collect Roulette Live",
+          "imsGameType": "ccrol",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_111674.jpg",
+          "tableColor": "255",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Siya",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_14558_kzz7jsc5.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 20,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 52
+        },
+        "results": ["15", "33", "8", "3", "35", "3"]
+      },
+      {
+        "launchAlias": "rol_quantumroulette",
+        "config": {
+          "name": "Quantum Roulette Live",
+          "imsGameType": "qrol",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_101946.jpg",
+          "tableColor": "1445657",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Harriet",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_5700_kdhmpayh.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 20,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 122
+        },
+        "results": ["24", "12", "14", "8", "20", "32"]
+      },
+      {
+        "launchAlias": "blj_blackjack10",
+        "config": {
+          "name": "Blackjack 10",
+          "imsGameType": "bjl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_110954.jpg",
+          "tableColor": "1839123",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Hayden",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_8726_m4tomnt6.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 2500,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 1,
+          "freeSeats": [1, 4, 5, 6]
+        }
+      },
+      {
+        "launchAlias": "rol_livefootballrol",
+        "config": {
+          "name": "Football Roulette",
+          "imsGameType": "frol",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103536.jpg",
+          "tableColor": "1052688",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Jolene",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_17800_latltnk3.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 20,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 18
+        },
+        "results": ["13", "22;x5", "17;x3", "32", "27", "13"]
+      },
+      {
+        "launchAlias": "sprol_perspreadbetrol",
+        "config": {
+          "name": "Spread Bet Roulette",
+          "imsGameType": "sprol",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_106457.jpg",
+          "tableColor": "1052688",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Ivans",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_29038_m2pdh3su.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 20,
+            "max": 500000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 19
+        },
+        "results": ["14;47", "12;41", "27;44", "23;53", "9;19", "24;26"]
+      },
+      {
+        "launchAlias": "7eml_7emezzo",
+        "config": {
+          "name": "Sette E Mezzo",
+          "imsGameType": "7eml",
+          "dedicated": false,
+          "language": "it",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_102886.jpg",
+          "tableColor": "4593165",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_it_jbhx39k8.png"
+        },
+        "dealer": {
+          "name": "Korbyn",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_14479_kzqmtqiq.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 100,
+            "max": 50000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 12
+        }
+      },
+      {
+        "launchAlias": "rol_loungerol",
+        "config": {
+          "name": "Roulette",
+          "imsGameType": "rol",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_1527.jpg",
+          "tableColor": "6108169",
+          "asaAlternativeImageUrl": "alternative_1642_k1wakg65.png",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Ariella",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_10222_m0w570cq.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 50,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 200
+        },
+        "results": ["26", "29", "0", "26", "35", "32"]
+      },
+      {
+        "launchAlias": "rofl_loungerol",
+        "config": {
+          "name": "French Roulette",
+          "imsGameType": "rofl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_1527.jpg",
+          "tableColor": "6108169",
+          "asaAlternativeImageUrl": "alternative_1643_k1wagpbt.png",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Ariella",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_10222_m0w570cq.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 50,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 200
+        },
+        "results": ["26", "29", "0", "26", "35", "32"]
+      },
+      {
+        "launchAlias": "rol_aogroulette",
+        "config": {
+          "name": "Age Of The Gods Bonus Roulette",
+          "imsGameType": "aogjbrol",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103572.jpg",
+          "tableColor": "6906952",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Isaih",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_19229_lcrnggyg.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 20,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 17
+        },
+        "results": ["6", "23", "17", "36", "23", "33"]
+      },
+      {
+        "launchAlias": "bal_betslipbaccarat",
+        "config": {
+          "name": "Bet On Baccarat",
+          "imsGameType": "bs_bal",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103852.jpg",
+          "tableColor": "2108977",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Cristina",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_10942_m9l6jgxx.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 50,
+            "max": 200000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 31
+        },
+        "results": [
+          "P9N",
+          "B9N",
+          "B4N",
+          "P9N",
+          "B7N",
+          "P7N",
+          "P8N",
+          "B7N",
+          "B6N",
+          "B4B",
+          "P9N",
+          "P4B",
+          "P7N",
+          "B9P",
+          "P9N"
+        ]
+      },
+      {
+        "launchAlias": "sbrol_stickybanditsrol",
+        "config": {
+          "name": "Sticky Bandits Roulette Live",
+          "imsGameType": "sbrol",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_111474.jpg",
+          "tableColor": "1052688",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Molly",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_862_m917k492.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 20,
+            "max": 360000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 58
+        },
+        "results": ["14", "", "3", "4", "35", "15"]
+      },
+      {
+        "launchAlias": "abjl_allbetsblackjack",
+        "config": {
+          "name": "All Bets Blackjack",
+          "imsGameType": "abjl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_102009.jpg",
+          "tableColor": "4091261",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Joy",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_12157_m1oyt9gv.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 100,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 85
+        }
+      },
+      {
+        "launchAlias": "fbrol_fireblazerol",
+        "config": {
+          "name": "Mega Fire Blaze Roulette Live",
+          "imsGameType": "fbrol",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_104332.jpg",
+          "tableColor": "1052688",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Wayne",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_9029_k6n3kic9.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 20,
+            "max": 50000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 705
+        },
+        "results": ["16", "15", "24", "21", "1", "21"]
+      },
+      {
+        "launchAlias": "blj_blackjack1",
+        "config": {
+          "name": "Blackjack 1",
+          "imsGameType": "bjl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_106497.jpg",
+          "tableColor": "1052688",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Jacky",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_10509_m6kpgt98.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 2500,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 5,
+          "full": true
+        }
+      },
+      {
+        "launchAlias": "sbdl_deluxesicbo",
+        "config": {
+          "name": "Sicbo Deluxe",
+          "imsGameType": "sbdl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_102606.jpg",
+          "tableColor": "4390912",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Cathy",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_16488_lz71pjy7.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 20,
+            "max": 200000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 40
+        },
+        "results": ["244", "336", "445", "125;x20", "356", "455"]
+      },
+      {
+        "launchAlias": "blj_blackjack3",
+        "config": {
+          "name": "Blackjack 3",
+          "imsGameType": "bjl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_106499.jpg",
+          "tableColor": "1052688",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Hazel",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_2843_m877am62.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 2500,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 7,
+          "full": true
+        }
+      },
+      {
+        "launchAlias": "blj_blackjack2",
+        "config": {
+          "name": "Blackjack 2",
+          "imsGameType": "bjl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_106498.jpg",
+          "tableColor": "1052688",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Graves",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_16312_l6dfgzdr.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 2500,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 2,
+          "freeSeats": [4, 5, 6, 7]
+        }
+      },
+      {
+        "launchAlias": "blj_blackjack5",
+        "config": {
+          "name": "Blackjack 5",
+          "imsGameType": "bjl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_106501.jpg",
+          "tableColor": "1052688",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Graysen",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_14284_m2081n4p.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 5000,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 1,
+          "freeSeats": [1, 2, 3, 4, 5, 6, 7]
+        }
+      },
+      {
+        "launchAlias": "blj_blackjack4",
+        "config": {
+          "name": "Blackjack 4",
+          "imsGameType": "bjl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_106500.jpg",
+          "tableColor": "1052688",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Jessa",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_12760_m8wuwxa1.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 5000,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 1,
+          "freeSeats": [1, 2, 3, 5, 6, 7]
+        }
+      },
+      {
+        "launchAlias": "blj_blackjack7",
+        "config": {
+          "name": "Blackjack 7",
+          "imsGameType": "bjl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_106503.jpg",
+          "tableColor": "1052688",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Mikela",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_24969_m7crgrzl.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 2500,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 2,
+          "freeSeats": [1, 2, 5, 6, 7]
+        }
+      },
+      {
+        "launchAlias": "blj_blackjack6",
+        "config": {
+          "name": "Blackjack 6",
+          "imsGameType": "bjl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_106502.jpg",
+          "tableColor": "1052688",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Anyi",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_29291_m18o2qcb.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 1000,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 7,
+          "freeSeats": [4, 7]
+        }
+      },
+      {
+        "launchAlias": "swl_spinawin",
+        "config": {
+          "name": "Spin a Win",
+          "imsGameType": "swl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_1606.jpg",
+          "tableColor": "2301228",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Carley",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_10703_lo5uj3sy.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 10,
+            "max": 50000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 154
+        },
+        "results": ["2", "2", "1", "1", "5", "1"]
+      },
+      {
+        "launchAlias": "rofl_livefootballroulette",
+        "config": {
+          "name": "Football French Roulette",
+          "imsGameType": "frofl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103536.jpg",
+          "tableColor": "1052688",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Jolene",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_17800_latltnk3.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 50,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 18
+        },
+        "results": ["13", "22;x5", "17;x3", "32", "27", "13"]
+      },
+      {
+        "launchAlias": "blj_blackjack8",
+        "config": {
+          "name": "Blackjack 8",
+          "imsGameType": "bjl",
+          "dedicated": false,
+          "language": "pt-br",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_106504.jpg",
+          "tableColor": "1052688"
+        },
+        "dealer": {
+          "name": "Arelis",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_27888_m4kjmeax.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 1000,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 6,
+          "freeSeats": [2]
+        }
+      },
+      {
+        "launchAlias": "chel_casinoholdem",
+        "config": {
+          "name": "Casino Hold’em",
+          "imsGameType": "chel",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_106507.jpg",
+          "tableColor": "1382680",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Uliana",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_17054_l8ekjukv.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 50,
+            "max": 25000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 38
+        }
+      },
+      {
+        "launchAlias": "brag_3cardbrag",
+        "config": {
+          "name": "3 Card Brag",
+          "imsGameType": "3brgl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_106506.jpg",
+          "tableColor": "1778213",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Decker",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_13254_lz72ybvi.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 50,
+            "max": 50000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 12
+        }
+      },
+      {
+        "launchAlias": "cspl_casinostudpoker",
+        "config": {
+          "name": "Casino Stud Poker",
+          "imsGameType": "cspljpt",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_106508.jpg",
+          "tableColor": "1778213",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Voski",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_20635_lgdv2vi5.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 50,
+            "max": 25000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 3
+        }
+      },
+      {
+        "launchAlias": "rol_roulette1",
+        "config": {
+          "name": "Hindi Roulette",
+          "imsGameType": "rol",
+          "dedicated": false,
+          "language": "hi",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103894.jpg",
+          "tableColor": "7689530",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_hi_lcqcm7r1.png"
+        },
+        "dealer": {
+          "name": "Prisha",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_13397_lt2ot0kp.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 50,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 59
+        },
+        "results": ["16", "13", "33", "1", "36", "17"]
+      },
+      {
+        "launchAlias": "qabjl_quantumbj",
+        "config": {
+          "name": "Quantum Blackjack Plus",
+          "imsGameType": "qabjlp",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_102366.jpg",
+          "tableColor": "1709342",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Calum",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_8678_lisye77x.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 100,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 18
+        }
+      },
+      {
+        "launchAlias": "abl_andarbahar",
+        "config": {
+          "name": "Andar Bahar",
+          "imsGameType": "abl",
+          "dedicated": false,
+          "language": "hi",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_104373.jpg",
+          "tableColor": "6165591",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_hi_lcqcm7r1.png"
+        },
+        "dealer": {
+          "name": "Ari",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_20609_lgdt7667.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 100,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 84
+        },
+        "results": ["4;8;B", "10;20;B", "5;4;B", "7;15;A", "10;5;A", "6;12;B"]
+      },
+      {
+        "launchAlias": "dtl_dragontiger",
+        "config": {
+          "name": "Dragon Tiger",
+          "imsGameType": "dtl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_102367.jpg",
+          "tableColor": "3876132",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Fedra",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_12172_m7kcp4r9.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 100,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 27
+        },
+        "results": [
+          "TT",
+          "T7",
+          "T6",
+          "TK",
+          "DT",
+          "DK",
+          "D9",
+          "DK",
+          "T5",
+          "DQ",
+          "D9",
+          "EA",
+          "DK",
+          "D8",
+          "D6",
+          "DJ",
+          "DK",
+          "DK",
+          "TT",
+          "E6",
+          "E2",
+          "T8",
+          "TT",
+          "DJ",
+          "D5",
+          "T5",
+          "E9",
+          "D7",
+          "TK",
+          "T8",
+          "DJ",
+          "DK",
+          "DK",
+          "TJ",
+          "TT",
+          "T8",
+          "TJ",
+          "EQ",
+          "T5",
+          "T5",
+          "TJ",
+          "TQ",
+          "TJ",
+          "D3",
+          "TK",
+          "TT",
+          "DT",
+          "TQ",
+          "TT",
+          "D7",
+          "E4",
+          "DK",
+          "TK",
+          "DQ",
+          "D8",
+          "EQ",
+          "TJ",
+          "T9",
+          "TQ",
+          "D7",
+          "D8",
+          "DQ",
+          "DJ",
+          "DJ",
+          "D6",
+          "E8",
+          "DJ",
+          "DJ",
+          "D8",
+          "DT",
+          "D7",
+          "T9",
+          "DJ"
+        ]
+      },
+      {
+        "launchAlias": "tpl_teenpatti",
+        "config": {
+          "name": "Teen Patti Live",
+          "imsGameType": "tpl",
+          "dedicated": false,
+          "language": "hi",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_106734.jpg",
+          "tableColor": "3937588",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_hi_lcqcm7r1.png"
+        },
+        "dealer": {
+          "name": "Viraj",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_13910_kxyawqhc.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 50,
+            "max": 50000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 16
+        }
+      },
+      {
+        "launchAlias": "rol_triumphrol",
+        "config": {
+          "name": "Bucharest Roulette",
+          "imsGameType": "rol",
+          "dedicated": false,
+          "language": "ro",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_386.jpg",
+          "tableColor": "1970449",
+          "asaAlternativeImageUrl": "alternative_421_k1waevu7.png",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_ro_jrbrui5z.png"
+        },
+        "dealer": {
+          "name": "Brett",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_4720_m66axzp6.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 50,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 14
+        },
+        "results": ["13", "2", "21", "10", "36", "14"]
+      },
+      {
+        "launchAlias": "rol_autoroulette2",
+        "config": {
+          "name": "Auto Roulette 2",
+          "imsGameType": "rol",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_106977.jpg",
+          "tableColor": "1052688",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Auto Roulette 2",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 10,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 7
+        },
+        "results": ["26", "32", "29", "27", "18", "19"]
+      },
+      {
+        "launchAlias": "rofl_triumphrol",
+        "config": {
+          "name": "Bucharest French Roulette",
+          "imsGameType": "rofl",
+          "dedicated": false,
+          "language": "ro",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_386.jpg",
+          "tableColor": "1970449",
+          "asaAlternativeImageUrl": "alternative_422_k1waf48a.png",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_ro_jrbrui5z.png"
+        },
+        "dealer": {
+          "name": "Brett",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_4720_m66axzp6.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 50,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 14
+        },
+        "results": ["13", "2", "21", "10", "36", "14"]
+      },
+      {
+        "launchAlias": "abjl_peruallbets",
+        "config": {
+          "name": "All Bets Blackjack Brasileiro",
+          "imsGameType": "abjl",
+          "dedicated": false,
+          "language": "pt-br",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_111534.jpg",
+          "tableColor": "3105068"
+        },
+        "dealer": {
+          "name": "Joelinton",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_23430_lmluw0uz.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 100,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 10
+        }
+      },
+      {
+        "launchAlias": "msbjl_speedbj",
+        "config": {
+          "name": "Majority Rules Speed Blackjack",
+          "imsGameType": "msbjl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103432.jpg",
+          "tableColor": "3617333",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Kasparos",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_22553_lsu1bchw.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 100,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 60
+        }
+      },
+      {
+        "launchAlias": "rol_prestigerol",
+        "config": {
+          "name": "Prestige Roulette",
+          "imsGameType": "rol",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_366.jpg",
+          "tableColor": "1052700",
+          "asaAlternativeImageUrl": "alternative_441_k1bwi2h7.png",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Bonija",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_924_m88fhqiw.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 100,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 32
+        },
+        "results": ["16", "5", "4", "22", "21", "11"]
+      },
+      {
+        "launchAlias": "bal_minibaccarat",
+        "config": {
+          "name": "Speed Baccarat",
+          "imsGameType": "bal",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_100546.jpg",
+          "tableColor": "6238993",
+          "asaAlternativeImageUrl": "alternative_100541_k0wf6m5k.png",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Anna",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_255_m1oyqbb4.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 100,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 60
+        },
+        "results": [
+          "B8N",
+          "B8N",
+          "T9N",
+          "P9N",
+          "P3N",
+          "P8N",
+          "B7N",
+          "B8N",
+          "P6N",
+          "B3P",
+          "B8B",
+          "B9N",
+          "B6P",
+          "B9P",
+          "P8P",
+          "B6N",
+          "P5B",
+          "B8P",
+          "B8P",
+          "P9N",
+          "B9N",
+          "B8P"
+        ]
+      },
+      {
+        "launchAlias": "ubjl_unlimitedbj",
+        "config": {
+          "name": "Unlimited Blackjack",
+          "imsGameType": "ubjl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_1926.jpg",
+          "tableColor": "1052688",
+          "asaAlternativeImageUrl": "alternative_1981_k0wf436m.png",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Henry",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_4421_m1oyoqhh.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 50,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 21
+        }
+      },
+      {
+        "launchAlias": "bfbl_liveslots",
+        "config": {
+          "name": "Buffalo Blitz Live Slots",
+          "imsGameType": "bfbl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_102446.jpg",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Noa",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_4136_m917qork.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 40,
+            "max": 200
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 100
+        }
+      },
+      {
+        "launchAlias": "bs_dtl_betondragontiger",
+        "config": {
+          "name": "Bet On Dragon Tiger",
+          "imsGameType": "bs_dtl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_102367.jpg",
+          "tableColor": "3876132",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Fedra",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_12172_m7kcp4r9.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 50,
+            "max": 500000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 27
+        },
+        "results": [
+          "DJ",
+          "T9",
+          "D7",
+          "DT",
+          "D8",
+          "DJ",
+          "DJ",
+          "E8",
+          "D6",
+          "DJ",
+          "DJ",
+          "DQ",
+          "D8",
+          "D7",
+          "TQ",
+          "T9",
+          "TJ",
+          "EQ",
+          "D8",
+          "DQ",
+          "TK",
+          "DK",
+          "E4",
+          "D7",
+          "TT",
+          "TQ",
+          "DT",
+          "TT",
+          "TK",
+          "D3",
+          "TJ",
+          "TQ",
+          "TJ",
+          "T5",
+          "T5",
+          "EQ",
+          "TJ",
+          "T8",
+          "TT",
+          "TJ",
+          "DK",
+          "DK",
+          "DJ",
+          "T8",
+          "TK",
+          "D7",
+          "E9",
+          "T5",
+          "D5",
+          "DJ",
+          "TT",
+          "T8",
+          "E2",
+          "E6",
+          "TT",
+          "DK",
+          "DK",
+          "DJ",
+          "D6",
+          "D8",
+          "DK",
+          "EA",
+          "D9",
+          "DQ",
+          "T5",
+          "DK",
+          "D9",
+          "DK",
+          "DT",
+          "TK",
+          "T6",
+          "T7",
+          "TT"
+        ]
+      },
+      {
+        "launchAlias": "abjl_allbetsblackjack2",
+        "config": {
+          "name": "Soho All Bets Blackjack",
+          "imsGameType": "abjl",
+          "dedicated": false,
+          "language": "ro",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103255.jpg",
+          "tableColor": "7480629",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_ro_jrbrui5z.png"
+        },
+        "dealer": {
+          "name": "Raymond",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_6415_m3iotkkb.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 100,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 13
+        }
+      },
+      {
+        "launchAlias": "rodzl_doublezero",
+        "config": {
+          "name": "American Speed Roulette",
+          "imsGameType": "rodzl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_101387.jpg",
+          "tableColor": "6108169",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Barron",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_10562_m00ua9ax.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 20,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 10
+        },
+        "results": ["13", "27", "0", "29", "34", "12"]
+      },
+      {
+        "launchAlias": "tgcsl_cardshow",
+        "config": {
+          "name": "The Greatest Cards Show Live",
+          "imsGameType": "tgcsl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_107154.jpg",
+          "tableColor": "1052688",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Selena",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_12553_m9l6m1yt.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 10,
+            "max": 10000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 29
+        }
+      },
+      {
+        "launchAlias": "bal_emperorbaccarat",
+        "config": {
+          "name": "Speed Baccarat Emperor",
+          "imsGameType": "bal",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_110054.jpg",
+          "tableColor": "1052688",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Jessaline",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_31044_m7puvgp1.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 100,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 7
+        },
+        "results": [
+          "P3B",
+          "P9N",
+          "P8N",
+          "B8N",
+          "P8N",
+          "B3P",
+          "P9N",
+          "P6P",
+          "P9N",
+          "P7N",
+          "B9N",
+          "P6N",
+          "B8N",
+          "B3N",
+          "B5P"
+        ]
+      },
+      {
+        "launchAlias": "nc_bal_emperorbaccarat",
+        "config": {
+          "name": "Speed Baccarat Emperor NC",
+          "imsGameType": "nc_bal",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_110054.jpg",
+          "tableColor": "1052688",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Jessaline",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_31044_m7puvgp1.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 100,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 7
+        },
+        "results": [
+          "P3B",
+          "P9N",
+          "P8N",
+          "B8N",
+          "P8N",
+          "B3P",
+          "P9N",
+          "P6P",
+          "P9N",
+          "P7N",
+          "B9N",
+          "P6N",
+          "B8N",
+          "B3N",
+          "B5P"
+        ]
+      },
+      {
+        "launchAlias": "rol_brazilianrol",
+        "config": {
+          "name": "Roleta Brasileira",
+          "imsGameType": "rol",
+          "dedicated": false,
+          "language": "pt-br",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_103952.jpg",
+          "tableColor": "3154469"
+        },
+        "dealer": {
+          "name": "Ferdinand",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_13597_m1hv0ci0.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 10,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 543
+        },
+        "results": ["13", "33", "27", "18", "33", "7"]
+      },
+      {
+        "launchAlias": "blj_blackjack9",
+        "config": {
+          "name": "Blackjack 9",
+          "imsGameType": "bjl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_106574.jpg",
+          "tableColor": "1052688",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Alfie",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_28051_lx4e1ril.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 2500,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 2,
+          "freeSeats": [2, 3, 4]
+        }
+      },
+      {
+        "launchAlias": "swle_spinawinwild",
+        "config": {
+          "name": "Spin A Win Wild Brasileiro",
+          "imsGameType": "swle",
+          "dedicated": false,
+          "language": "pt-br",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_106576.jpg",
+          "tableColor": "1052688"
+        },
+        "dealer": {
+          "name": "Kalena",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_23436_lmluzd5r.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 10,
+            "max": 50000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 30
+        },
+        "results": ["2;;3,x2", "2;;4,x2", "5;;1,x2", "1;;1B,x4", "2;;1,x2", "20;;1,x2"]
+      },
+      {
+        "launchAlias": "bal_grandbaccarat",
+        "config": {
+          "name": "Grand Baccarat",
+          "imsGameType": "bal",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_100906.jpg",
+          "tableColor": "3676162",
+          "asaAlternativeImageUrl": "alternative_100861_k0wf5h57.png",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Jacey",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_12653_m35v0ros.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 100,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 92
+        },
+        "results": ["P7N", "T5N", "B9N", "B7N", "P9N", "P6N", "B9N", "T0P", "P9B", "P7B", "B9N", "B7N", "P9N", "B9N"]
+      },
+      {
+        "launchAlias": "fbbjl_fireblazebj",
+        "config": {
+          "name": "Mega Fire Blaze Blackjack Live",
+          "imsGameType": "fbbjl",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_107614.jpg",
+          "tableColor": "6160402",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Finley",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_11276_m7kct1zw.png",
+          "asaCompliant": true
+        },
+        "limits": [
+          {
+            "min": 100,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 34
+        }
+      },
+      {
+        "launchAlias": "nc_bal_grandbaccarat",
+        "config": {
+          "name": "Grand Baccarat NC",
+          "imsGameType": "nc_bal",
+          "dedicated": false,
+          "language": "en",
+          "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_100906.jpg",
+          "tableColor": "3676162",
+          "asaAlternativeImageUrl": "alternative_100862_k0wf5lus.png",
+          "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
+        },
+        "dealer": {
+          "name": "Jacey",
+          "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_12653_m35v0ros.png",
+          "asaCompliant": false
+        },
+        "limits": [
+          {
+            "min": 100,
+            "max": 100000
+          }
+        ],
+        "state": {
+          "status": 0,
+          "playerCount": 92
+        },
+        "results": ["P7N", "T5N", "B9N", "B7N", "P9N", "P6N", "B9N", "T0P", "P9B", "P7B", "B9N", "B7N", "P9N", "B9N"]
+      }
+    ],
+    "launchAliasesOfUnavailableTables": [
+      "wwtbamrol_millrol",
+      "bal_fashiontv",
+      "rol",
+      "wwtbampl_millpoker",
+      "ubjl",
+      "bjl",
+      "mdl_moneydrop",
+      "cml_cardmatch",
+      "trl_truefalsetrivia",
+      "sbl",
+      "ejl_everybodysjp",
+      "blackjack",
+      "bal_vipbaccarat",
+      "fbbl_luckyball",
+      "bfbl_espanaslots",
+      "bjl_royalebj5",
+      "ubal",
+      "newhot",
+      "poker",
+      "rol_deutschrol",
+      "abjl_italianbj",
+      "bjl_perublackjack13",
+      "bjl_perublackjack12",
+      "mjpswl_ftvmegaparty",
+      "gameshows",
+      "frol_luckyballrol",
+      "rol_brusselsrol",
+      "hilo_hilo",
+      "dndbngl_thebigdraw",
+      "baccarat_sicbo",
+      "cbjl_royalecashback",
+      "studpoker_casinostudpokeremulator",
+      "trvl_footballtrivia"
+    ]
+  }
+}

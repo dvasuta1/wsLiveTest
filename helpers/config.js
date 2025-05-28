@@ -8,7 +8,7 @@ const dataSetMap = {
 
 const dataConfig = {
   "caliente.pe": {
-    subscribe: "./data/subscribe/calientepe/subscribeBaccara.json",
+    subscribe: "./data/subscribe/calientepe/subscribe1000.json",
     update: {
       defaultData: "./data/update/calientepe/default.json",
       videoBanners: "./data/update/calientepe/videoBanners.json",
