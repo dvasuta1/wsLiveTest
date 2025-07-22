@@ -44,13 +44,14 @@ const dataConfig = {
     },
   },
   betcaliente: {
-    subscribe: "./data/subscribe/betcaliente/subscribe.json",
+    subscribe: "./data/subscribe/betcaliente/subscribe1001.json",
     update: {
       defaultData: "./data/update/betcaliente/default.json",
       videoBanners: "./data/update/betcaliente/videoBanners.json",
       bannerUnavailable: "./data/update/betcaliente/bannerUnavailable.json",
       abjl_allbetsblackjack: "./data/update/betcaliente/abjl_allbetsblackjack.json",
       1000: "./data/update/betcaliente/1000.json",
+      1001: "./data/update/betcaliente/1001.json",
       2000: "./data/update/betcaliente/2000.json",
       500: "./data/update/betcaliente/500.json",
       closed_and_scheduled: "./data/update/betcaliente/closed_and_scheduled.json",
