@@ -29,7 +29,7 @@
             }
           ],
           "state": {
-            "status": 0,
+            "status": 1,
             "playerCount": 19,
             "openingDateTime": 1737709220500
           },
@@ -66,7 +66,7 @@
             }
           ],
           "state": {
-            "status": 0,
+            "status": 1,
             "playerCount": 30,
             "openingDateTime": 1731709220500
           },
@@ -102,7 +102,7 @@
             }
           ],
           "state": {
-            "status": 0,
+            "status": 1,
             "playerCount": 9,
             "openingDateTime": 1739709220500
           },
@@ -139,7 +139,7 @@
             }
           ],
           "state": {
-            "status": 0,
+            "status": 1,
             "playerCount": 34,
             "openingDateTime": 1729709305610
           },
@@ -330,7 +330,7 @@
             }
           ],
           "state": {
-            "status": 0,
+            "status": 1,
             "playerCount": 3,
             "openingDateTime": 1739709305610,
             "freeSeats": [
@@ -603,7 +603,7 @@
             }
           ],
           "state": {
-            "status": 0,
+            "status": 1,
             "playerCount": 15,
             "openingDateTime": 1797709305610
           },
@@ -887,7 +887,7 @@
             }
           ],
           "state": {
-            "status": 0,
+            "status": 1,
             "playerCount": 126,
             "openingDateTime": 1757709305610
           }
