@@ -30,7 +30,8 @@
           ],
           "state": {
             "status": 0,
-            "playerCount": 19
+            "playerCount": 19,
+            "openingDateTime": 1737709220500
           },
           "results": [
             "6",
@@ -66,7 +67,8 @@
           ],
           "state": {
             "status": 0,
-            "playerCount": 30
+            "playerCount": 30,
+            "openingDateTime": 1731709220500
           },
           "results": [
             "30",
@@ -101,7 +103,8 @@
           ],
           "state": {
             "status": 0,
-            "playerCount": 9
+            "playerCount": 9,
+            "openingDateTime": 1739709220500
           },
           "results": [
             "22",
@@ -137,7 +140,8 @@
           ],
           "state": {
             "status": 0,
-            "playerCount": 34
+            "playerCount": 34,
+            "openingDateTime": 1729709305610
           },
           "results": [
             "B9N",
@@ -328,6 +332,7 @@
           "state": {
             "status": 0,
             "playerCount": 3,
+            "openingDateTime": 1739709305610,
             "freeSeats": [
               1,
               2,
@@ -599,7 +604,8 @@
           ],
           "state": {
             "status": 0,
-            "playerCount": 15
+            "playerCount": 15,
+            "openingDateTime": 1797709305610
           },
           "results": [
             "16",
@@ -882,7 +888,8 @@
           ],
           "state": {
             "status": 0,
-            "playerCount": 126
+            "playerCount": 126,
+            "openingDateTime": 1757709305610
           }
         },
         {
