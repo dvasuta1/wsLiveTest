@@ -887,9 +887,8 @@
             }
           ],
           "state": {
-            "status": 1,
-            "playerCount": 126,
-            "openingDateTime": 1757709305610
+            "status": 0,
+            "playerCount": 126
           }
         },
         {
@@ -1888,8 +1887,9 @@
             }
           ],
           "state": {
-            "status": 0,
-            "playerCount": 23
+            "status": 1,
+            "playerCount": 23,
+            "openingDateTime": 1757709305610
           }
         },
         {
