@@ -283,11 +283,6 @@
             "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_104012.jpg",
             "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
           },
-          "dealer": {
-            "name": "Harper",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_8854_lk84q15c.png",
-            "asaCompliant": false
-          },
           "limits": [
             {
               "min": 10,
@@ -298,15 +293,7 @@
             "status": 1,
             "playerCount": 2308,
             "openingDateTime": 1756476000000
-          },
-          "results": [
-            "1",
-            "1",
-            "5",
-            "5S",
-            "1",
-            "1"
-          ]
+          }
         },
         {
           "launchAlias": "bjl_royalebj1",
@@ -679,11 +666,6 @@
             "asaAlternativeImageUrl": "alternative_1642_k1wakg65.png",
             "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
           },
-          "dealer": {
-            "name": "Dajana",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_3074_mcbgubme.png",
-            "asaCompliant": true
-          },
           "limits": [
             {
               "min": 50,
@@ -694,15 +676,7 @@
             "status": 1,
             "playerCount": 316,
             "openingDateTime": ""
-          },
-          "results": [
-            "8",
-            "11",
-            "17",
-            "24",
-            "10",
-            "36"
-          ]
+          }
         },
         {
           "launchAlias": "rofl_loungerol",
@@ -1840,11 +1814,6 @@
             "tableColor": "1052688",
             "asaAlternativeImageUrl": "alternative_1981_k0wf436m.png",
             "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
-          },
-          "dealer": {
-            "name": "Chace",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_13338_m2d5fj3j.png",
-            "asaCompliant": true
           },
           "limits": [
             {
