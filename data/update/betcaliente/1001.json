@@ -270,10 +270,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 311
-          },
-          "results": [
-            "29"
-          ]
+          }
         },
         {
           "launchAlias": "rol_prestigerol",
@@ -467,12 +464,6 @@
               7
             ]
           }
-        },
-        {
-          "launchAlias": "abwl_wonderland",
-          "results": [
-            "5"
-          ]
         },
         {
           "launchAlias": "rol_quantumroulette",
@@ -1083,10 +1074,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 299
-          },
-          "results": [
-            "2"
-          ]
+          }
         },
         {
           "launchAlias": "rofl_loungerol",
@@ -1253,12 +1241,6 @@
           "state": {
             "playerCount": 8
           }
-        },
-        {
-          "launchAlias": "abwl_wonderland",
-          "results": [
-            "2"
-          ]
         },
         {
           "launchAlias": "rol_livefootballrol",
@@ -1758,10 +1740,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 308
-          },
-          "results": [
-            "0"
-          ]
+          }
         },
         {
           "launchAlias": "frol_luckyballrol",
@@ -2232,12 +2211,6 @@
           }
         },
         {
-          "launchAlias": "abwl_wonderland",
-          "results": [
-            "10"
-          ]
-        },
-        {
           "launchAlias": "bfbl_liveslots",
           "state": {
             "playerCount": 134
@@ -2604,10 +2577,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 306
-          },
-          "results": [
-            "33"
-          ]
+          }
         },
         {
           "launchAlias": "nc_bal_grandbaccarat",
@@ -3344,10 +3314,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 309
-          },
-          "results": [
-            "30"
-          ]
+          }
         },
         {
           "launchAlias": "sbdl_deluxesicbo",
@@ -4114,10 +4081,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 316
-          },
-          "results": [
-            "12"
-          ]
+          }
         },
         {
           "launchAlias": "swl_spinawin",
@@ -4183,12 +4147,6 @@
           },
           "results": [
             "24"
-          ]
-        },
-        {
-          "launchAlias": "abwl_wonderland",
-          "results": [
-            "D"
           ]
         }
       ]
@@ -5034,10 +4992,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 291
-          },
-          "results": [
-            "7"
-          ]
+          }
         },
         {
           "launchAlias": "rofl_loungerol",
@@ -5275,19 +5230,6 @@
           },
           "results": [
             "34"
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
-          "launchAlias": "abwl_wonderland",
-          "results": [
-            "10"
           ]
         }
       ]
@@ -5823,10 +5765,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 286
-          },
-          "results": [
-            "36"
-          ]
+          }
         },
         {
           "launchAlias": "rodzl_doublezero",
@@ -6233,12 +6172,6 @@
           "results": [
             "1"
           ]
-        },
-        {
-          "launchAlias": "abwl_wonderland",
-          "results": [
-            "1"
-          ]
         }
       ]
     }
@@ -6583,15 +6516,6 @@
           "launchAlias": "rol_aogroulette",
           "results": [
             "25"
-          ]
-        },
-        {
-          "launchAlias": "rol_loungerol",
-          "state": {
-            "playerCount": 278
-          },
-          "results": [
-            "22"
           ]
         },
         {
@@ -7259,12 +7183,6 @@
           "results": [
             "B5N"
           ]
-        },
-        {
-          "launchAlias": "abwl_wonderland",
-          "results": [
-            "1"
-          ]
         }
       ]
     }
@@ -7461,10 +7379,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 283
-          },
-          "results": [
-            "16"
-          ]
+          }
         },
         {
           "launchAlias": "rofl_loungerol",
@@ -8273,12 +8188,6 @@
           "state": {
             "playerCount": 11
           }
-        },
-        {
-          "launchAlias": "abwl_wonderland",
-          "results": [
-            "10"
-          ]
         }
       ]
     }
@@ -8323,12 +8232,6 @@
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
         {
-          "launchAlias": "rol_loungerol",
-          "results": [
-            "24"
-          ]
-        },
-        {
           "launchAlias": "swle_spinawinwild",
           "state": {
             "playerCount": 64
@@ -8364,11 +8267,6 @@
         },
         {
           "launchAlias": "rol_loungerol",
-          "dealer": {
-            "name": "Luize",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_102_lprzhlpj.png",
-            "asaCompliant": true
-          },
           "state": {
             "playerCount": 285
           }
@@ -9250,19 +9148,6 @@
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
         {
-          "launchAlias": "abwl_wonderland",
-          "results": [
-            "2"
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
           "launchAlias": "bjl_blackjackitalianovip",
           "dealer": {
             "name": "Fedele",
@@ -9400,10 +9285,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 286
-          },
-          "results": [
-            "28"
-          ]
+          }
         },
         {
           "launchAlias": "swle_spinawinwild",
@@ -10354,10 +10236,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 282
-          },
-          "results": [
-            "2"
-          ]
+          }
         },
         {
           "launchAlias": "bal_emperorbaccarat",
@@ -10376,19 +10255,6 @@
           "state": {
             "playerCount": 282
           },
-          "results": [
-            "2"
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
-          "launchAlias": "abwl_wonderland",
           "results": [
             "2"
           ]
@@ -11282,10 +11148,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 285
-          },
-          "results": [
-            "33"
-          ]
+          }
         },
         {
           "launchAlias": "qrol_quantumgreek",
@@ -11343,12 +11206,6 @@
           "state": {
             "playerCount": 118
           }
-        },
-        {
-          "launchAlias": "abwl_wonderland",
-          "results": [
-            "1"
-          ]
         }
       ]
     }
@@ -12198,10 +12055,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 280
-          },
-          "results": [
-            "33"
-          ]
+          }
         },
         {
           "launchAlias": "ccrol_cashcollect",
@@ -12281,14 +12135,6 @@
           "launchAlias": "ccrol_cashcollect",
           "state": {
             "playerCount": 123
-          }
-        },
-        {
-          "launchAlias": "ubjl_unlimitedbj",
-          "dealer": {
-            "name": "Magone",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_1359_lilur2o2.png",
-            "asaCompliant": true
           }
         }
       ]
@@ -12519,12 +12365,6 @@
           "state": {
             "playerCount": 43
           }
-        },
-        {
-          "launchAlias": "abwl_wonderland",
-          "results": [
-            "1"
-          ]
         },
         {
           "launchAlias": "rol_roulette1",
@@ -13186,10 +13026,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 288
-          },
-          "results": [
-            "26"
-          ]
+          }
         },
         {
           "launchAlias": "rofl_loungerol",
@@ -13670,12 +13507,6 @@
           "results": [
             "T9N"
           ]
-        },
-        {
-          "launchAlias": "abwl_wonderland",
-          "results": [
-            "1"
-          ]
         }
       ]
     }
@@ -14115,10 +13946,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 285
-          },
-          "results": [
-            "14"
-          ]
+          }
         },
         {
           "launchAlias": "fbrol_fireblazerol",
@@ -14830,10 +14658,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 297
-          },
-          "results": [
-            "33"
-          ]
+          }
         },
         {
           "launchAlias": "rofl_loungerol",
@@ -15623,10 +15448,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 292
-          },
-          "results": [
-            "34"
-          ]
+          }
         },
         {
           "launchAlias": "nc_bal_grandbaccarat",
@@ -16483,10 +16305,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 304
-          },
-          "results": [
-            "22"
-          ]
+          }
         },
         {
           "launchAlias": "rofl_loungerol",
@@ -16788,12 +16607,6 @@
               7
             ]
           }
-        },
-        {
-          "launchAlias": "abwl_wonderland",
-          "results": [
-            "2S"
-          ]
         },
         {
           "launchAlias": "rol_quantumroulette",
@@ -17345,10 +17158,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 308
-          },
-          "results": [
-            "19"
-          ]
+          }
         },
         {
           "launchAlias": "blj_blackjack2",
@@ -18276,10 +18086,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 310
-          },
-          "results": [
-            "27"
-          ]
+          }
         },
         {
           "launchAlias": "abjl_allbetsblackjack",
@@ -18308,19 +18115,6 @@
           "state": {
             "playerCount": 521
           }
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
-          "launchAlias": "abwl_wonderland",
-          "results": [
-            "5"
-          ]
         }
       ]
     }
@@ -19054,10 +18848,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 295
-          },
-          "results": [
-            "21"
-          ]
+          }
         },
         {
           "launchAlias": "swl_spinawin",
@@ -19271,12 +19062,6 @@
           },
           "results": [
             "7"
-          ]
-        },
-        {
-          "launchAlias": "abwl_wonderland",
-          "results": [
-            "2"
           ]
         }
       ]
@@ -19798,12 +19583,6 @@
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
         {
-          "launchAlias": "rol_loungerol",
-          "results": [
-            "25"
-          ]
-        },
-        {
           "launchAlias": "swle_spinawinwild",
           "dealer": {
             "name": "Thallyson",
@@ -20210,12 +19989,6 @@
           "state": {
             "playerCount": 120
           }
-        },
-        {
-          "launchAlias": "abwl_wonderland",
-          "results": [
-            "2"
-          ]
         }
       ]
     }
@@ -20669,10 +20442,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 301
-          },
-          "results": [
-            "19"
-          ]
+          }
         },
         {
           "launchAlias": "rofl_loungerol",
@@ -21339,19 +21109,6 @@
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
         {
-          "launchAlias": "abwl_wonderland",
-          "results": [
-            "5"
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
           "launchAlias": "hilo_hilowestern",
           "state": {
             "playerCount": 18
@@ -21430,10 +21187,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 302
-          },
-          "results": [
-            "23"
-          ]
+          }
         },
         {
           "launchAlias": "rofl_loungerol",
@@ -22210,12 +21964,6 @@
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
         {
-          "launchAlias": "rol_loungerol",
-          "results": [
-            "8"
-          ]
-        },
-        {
           "launchAlias": "nc_bal_minibaccarat",
           "state": {
             "playerCount": 33
@@ -22371,12 +22119,6 @@
           "results": [
             "11"
           ]
-        },
-        {
-          "launchAlias": "abwl_wonderland",
-          "results": [
-            "2"
-          ]
         }
       ]
     }
@@ -22389,14 +22131,6 @@
           "launchAlias": "cspl_casinostudpoker",
           "state": {
             "playerCount": 6
-          }
-        },
-        {
-          "launchAlias": "abwl_wonderland",
-          "dealer": {
-            "name": "Brisa",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_10570_ki9555f6.png",
-            "asaCompliant": false
           }
         },
         {
@@ -23163,10 +22897,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 292
-          },
-          "results": [
-            "18"
-          ]
+          }
         },
         {
           "launchAlias": "rofl_loungerol",
@@ -23423,12 +23154,6 @@
     "updateNotification": {
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
-        {
-          "launchAlias": "abwl_wonderland",
-          "results": [
-            "2"
-          ]
-        },
         {
           "launchAlias": "rol_slingshot",
           "results": [
@@ -23880,12 +23605,6 @@
     "updateNotification": {
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
-        {
-          "launchAlias": "rol_loungerol",
-          "results": [
-            "13"
-          ]
-        },
         {
           "launchAlias": "rofl_loungerol",
           "results": [
