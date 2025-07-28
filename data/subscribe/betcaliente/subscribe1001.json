@@ -558,11 +558,6 @@
             "tableColor": "1839123",
             "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
           },
-          "dealer": {
-            "name": "Rayna",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_14190_m8wuu34y.png",
-            "asaCompliant": true
-          },
           "limits": [
             {
               "min": 2500,
@@ -571,14 +566,7 @@
           ],
           "state": {
             "status": 0,
-            "playerCount": 1,
-            "freeSeats": [
-              1,
-              2,
-              3,
-              6,
-              7
-            ]
+            "playerCount": 1
           }
         },
         {
@@ -877,11 +865,6 @@
             "tableColor": "4091261",
             "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
           },
-          "dealer": {
-            "name": "Jaliyah",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_13781_m9cdlg41.png",
-            "asaCompliant": false
-          },
           "limits": [
             {
               "min": 100,
@@ -1044,11 +1027,6 @@
             "tableColor": "1052688",
             "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
           },
-          "dealer": {
-            "name": "Belfort",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_27371_lvau3ksl.png",
-            "asaCompliant": false
-          },
           "limits": [
             {
               "min": 2500,
@@ -1058,11 +1036,7 @@
           "state": {
             "status": 1,
             "playerCount": 3,
-            "openingDateTime":"",
-            "freeSeats": [
-              2,
-              7
-            ]
+            "openingDateTime":""
           }
         },
         {
@@ -1076,11 +1050,6 @@
             "tableColor": "1052688",
             "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
           },
-          "dealer": {
-            "name": "Kabral",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_27411_lv5fd0iw.png",
-            "asaCompliant": false
-          },
           "limits": [
             {
               "min": 2500,
@@ -1090,16 +1059,7 @@
           "state": {
             "status": 1,
             "openingDateTime": 1758749700000,
-            "playerCount": 2,
-            "freeSeats": [
-              1,
-              2,
-              3,
-              4,
-              5,
-              6,
-              7
-            ]
+            "playerCount": 2
           }
         },
         {
