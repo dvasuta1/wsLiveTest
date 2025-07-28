@@ -297,7 +297,7 @@
           "state": {
             "status": 1,
             "playerCount": 2308,
-            "openingDateTime": 1756476000
+            "openingDateTime": 1756476000000
           },
           "results": [
             "1",
@@ -891,7 +891,7 @@
           "state": {
             "status": 1,
             "playerCount": 126,
-            "openingDateTime": 1753788900
+            "openingDateTime": 1753788900000
           }
         },
         {
@@ -988,7 +988,7 @@
           ],
           "state": {
             "status": 1,
-            "openingDateTime": 1753738500,
+            "openingDateTime": 1753738500000,
             "playerCount": 3,
             "freeSeats": [
               1,
@@ -1089,7 +1089,7 @@
           ],
           "state": {
             "status": 1,
-            "openingDateTime": 1758749700,
+            "openingDateTime": 1758749700000,
             "playerCount": 2,
             "freeSeats": [
               1,
