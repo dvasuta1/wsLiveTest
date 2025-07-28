@@ -3078,19 +3078,6 @@
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
         {
-          "launchAlias": "bal_baccaratko",
-          "results": [
-            "P8N"
-          ]
-        },
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
           "launchAlias": "hilo_hilowestern",
           "state": {
             "playerCount": 11
