@@ -932,11 +932,6 @@
             "tableColor": "1052688",
             "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
           },
-          "dealer": {
-            "name": "Rachel",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_4957_m02deisa.png",
-            "asaCompliant": true
-          },
           "limits": [
             {
               "min": 2500,
@@ -946,13 +941,7 @@
           "state": {
             "status": 1,
             "openingDateTime": 1753738500000,
-            "playerCount": 3,
-            "freeSeats": [
-              1,
-              2,
-              5,
-              6
-            ]
+            "playerCount": 3
           }
         },
         {
