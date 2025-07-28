@@ -4,25 +4,6 @@
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
         {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              5,
-              6
-            ]
-          }
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
           "launchAlias": "bs_dtl_betondragontiger",
           "state": {
             "playerCount": 24
@@ -62,17 +43,6 @@
           "results": [
             "P9B"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack10",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              6,
-              7
-            ]
-          }
         }
       ]
     }
@@ -86,18 +56,6 @@
           "results": [
             "35"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack10",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              6,
-              7
-            ]
-          }
         }
       ]
     }
@@ -250,17 +208,6 @@
           "results": [
             "10"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              5
-            ]
-          }
         }
       ]
     }
@@ -300,17 +247,6 @@
     "updateNotification": {
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
-        {
-          "launchAlias": "blj_blackjack10",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              7
-            ]
-          }
-        },
         {
           "launchAlias": "bfbl_liveslots",
           "state": {
@@ -370,30 +306,6 @@
           }
         },
         {
-          "launchAlias": "blj_blackjack10",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              6,
-              7
-            ]
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              5,
-              6
-            ]
-          }
-        },
-        {
           "launchAlias": "rofl_loungerol",
           "state": {
             "playerCount": 311
@@ -419,30 +331,6 @@
           "launchAlias": "rofl_livefootballroulette",
           "state": {
             "playerCount": 14
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack10",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              7
-            ]
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              5,
-              6,
-              7
-            ]
           }
         },
         {
@@ -497,18 +385,6 @@
           "results": [
             "5;;2,x2"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack10",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              6,
-              7
-            ]
-          }
         }
       ]
     }
@@ -518,33 +394,10 @@
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
         {
-          "launchAlias": "blj_blackjack10",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              6,
-              7
-            ]
-          }
-        },
-        {
           "launchAlias": "rodzl_doublezero",
           "results": [
             "34"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              5,
-              6
-            ]
-          }
         },
         {
           "launchAlias": "rol_quantumroulette",
@@ -580,17 +433,6 @@
           "launchAlias": "rodzl_doublezero",
           "state": {
             "playerCount": 22
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              3,
-              5,
-              6
-            ]
           }
         }
       ]
@@ -665,14 +507,6 @@
           }
         },
         {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              7
-            ]
-          }
-        },
-        {
           "launchAlias": "dtl_dragontiger",
           "results": [
             "DQ"
@@ -686,16 +520,6 @@
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
         {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              3,
-              6
-            ]
-          }
-        },
-        {
           "launchAlias": "abwl_wonderland",
           "state": {
             "playerCount": 2246
@@ -706,15 +530,6 @@
           "results": [
             "A;14;B"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              3,
-              7
-            ]
-          }
         }
       ]
     }
@@ -752,14 +567,6 @@
           "launchAlias": "blj_blackjack5",
           "state": {
             "playerCount": 1
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              7
-            ]
           }
         },
         {
@@ -858,22 +665,6 @@
               5,
               6,
               7
-            ]
-          }
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              6
             ]
           }
         }
@@ -1298,14 +1089,6 @@
           ]
         },
         {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              6
-            ]
-          }
-        },
-        {
           "launchAlias": "rofl_loungerol",
           "state": {
             "playerCount": 299
@@ -1381,19 +1164,6 @@
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
         {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "full": true
-          }
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
           "launchAlias": "rofl_livefootballroulette",
           "results": [
             "3;x3"
@@ -1433,31 +1203,6 @@
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
         {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "playerCount": 5
-          }
-        },
-        {
-          "launchAlias": "rol_prestigerol",
-          "state": {
-            "playerCount": 35
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack6",
-          "state": {
-            "full": true
-          }
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
           "launchAlias": "blj_blackjack5",
           "state": {
             "freeSeats": [
@@ -1488,14 +1233,6 @@
           "launchAlias": "abjl_allbetsblackjack",
           "state": {
             "playerCount": 115
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              3
-            ]
           }
         }
       ]
@@ -1961,18 +1698,6 @@
             "playerCount": 0
           }
         }
-      ],
-      "updatedTables": [
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              3,
-              7
-            ]
-          }
-        }
       ]
     }
   },
@@ -2132,15 +1857,6 @@
           "results": [
             "12"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              2,
-              7
-            ]
-          }
         },
         {
           "launchAlias": "rol_roulette1",
@@ -2316,18 +2032,6 @@
     "updateNotification": {
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
-        {
-          "launchAlias": "blj_blackjack2",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              4,
-              5
-            ]
-          }
-        },
         {
           "launchAlias": "blj_blackjack6",
           "state": {
@@ -2948,25 +2652,6 @@
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
         {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "playerCount": 2,
-            "freeSeats": [
-              1,
-              3,
-              6,
-              7
-            ]
-          }
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
           "launchAlias": "bal_grandbaccarat",
           "state": {
             "playerCount": 94
@@ -3251,23 +2936,6 @@
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
         {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              2,
-              3,
-              7
-            ]
-          }
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
           "launchAlias": "sbrol_stickybanditsrol",
           "results": [
             "0"
@@ -3331,22 +2999,6 @@
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
         {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              2,
-              3
-            ]
-          }
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
           "launchAlias": "bal_emperorbaccarat",
           "state": {
             "playerCount": 13
@@ -3388,16 +3040,6 @@
           "results": [
             "H3"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              2,
-              3,
-              6
-            ]
-          }
         }
       ]
     }
@@ -3414,19 +3056,6 @@
           "results": [
             "12"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack10",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              5,
-              6,
-              7
-            ]
-          }
         },
         {
           "launchAlias": "bjl_royalebj3",
@@ -3454,19 +3083,6 @@
             "P8N"
           ]
         },
-        {
-          "launchAlias": "blj_blackjack10",
-          "state": {
-            "playerCount": 1,
-            "freeSeats": [
-              1,
-              2,
-              3,
-              6,
-              7
-            ]
-          }
-        }
       ]
     }
   },
@@ -3704,25 +3320,6 @@
           "results": [
             "23"
           ]
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              3,
-              5,
-              6,
-              7
-            ]
-          }
         }
       ]
     }
@@ -3996,15 +3593,6 @@
           ]
         },
         {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              2,
-              6
-            ]
-          }
-        },
-        {
           "launchAlias": "dtl_dragontiger",
           "results": [
             "DQ"
@@ -4126,17 +3714,6 @@
           ]
         },
         {
-          "launchAlias": "blj_blackjack10",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              6,
-              7
-            ]
-          }
-        },
-        {
           "launchAlias": "bal_minibaccarat",
           "results": [
             "B8N"
@@ -4161,14 +3738,6 @@
           "results": [
             "0"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              6
-            ]
-          }
         }
       ]
     }
@@ -4182,18 +3751,6 @@
           "results": [
             "P4N"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack10",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              6,
-              7
-            ]
-          }
         }
       ]
     }
@@ -5003,17 +4560,6 @@
           }
         },
         {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              5,
-              6,
-              7
-            ]
-          }
-        },
-        {
           "launchAlias": "rol_quantumroulette",
           "results": [
             "15"
@@ -5153,16 +4699,6 @@
           "launchAlias": "tgcsl_cardshow",
           "state": {
             "playerCount": 33
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              6,
-              7
-            ]
           }
         },
         {
@@ -5657,17 +5193,6 @@
           }
         },
         {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              5,
-              6,
-              7
-            ]
-          }
-        },
-        {
           "launchAlias": "abl_andarbahar",
           "state": {
             "playerCount": 89
@@ -5716,18 +5241,6 @@
           "launchAlias": "swl_spinawin",
           "state": {
             "playerCount": 131
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              3,
-              5,
-              6,
-              7
-            ]
           }
         },
         {
@@ -6012,18 +5525,6 @@
           }
         },
         {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              3,
-              5,
-              6,
-              7
-            ]
-          }
-        },
-        {
           "launchAlias": "blj_blackjack4",
           "state": {
             "freeSeats": [
@@ -6115,19 +5616,6 @@
           "results": [
             "B9N"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack10",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              4,
-              5,
-              7
-            ]
-          }
         },
         {
           "launchAlias": "bal_minibaccarat",
@@ -6680,15 +6168,6 @@
           "state": {
             "playerCount": 141
           }
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              5,
-              6
-            ]
-          }
         }
       ]
     }
@@ -6749,16 +6228,6 @@
               4,
               5,
               6
-            ]
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              5,
-              6,
-              7
             ]
           }
         }
@@ -6909,27 +6378,6 @@
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
         {
-          "launchAlias": "blj_blackjack2",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              4,
-              5,
-              6,
-              7
-            ]
-          }
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
           "launchAlias": "bal_betslipbaccarat",
           "state": {
             "playerCount": 43
@@ -6972,17 +6420,6 @@
           "results": [
             "15"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              5,
-              6,
-              7
-            ]
-          }
         },
         {
           "launchAlias": "ubjl_unlimitedbj",
@@ -7531,18 +6968,6 @@
           }
         },
         {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              3,
-              5,
-              6,
-              7
-            ]
-          }
-        },
-        {
           "launchAlias": "rol_livefootballrol",
           "results": [
             "27"
@@ -7721,20 +7146,6 @@
           "state": {
             "playerCount": 125
           }
-        },
-        {
-          "launchAlias": "blj_blackjack10",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              4,
-              5,
-              6,
-              7
-            ]
-          }
         }
       ]
     }
@@ -7799,15 +7210,6 @@
           "launchAlias": "rodzl_doublezero",
           "state": {
             "playerCount": 19
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              5,
-              7
-            ]
           }
         }
       ]
@@ -8107,14 +7509,6 @@
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
         {
-          "launchAlias": "blj_blackjack1",
-          "dealer": {
-            "name": "Decker",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_13254_lz72ybvi.png",
-            "asaCompliant": false
-          }
-        },
-        {
           "launchAlias": "brag_3cardbrag",
           "state": {
             "playerCount": 16
@@ -8238,19 +7632,6 @@
           "launchAlias": "nc_bal_emperorbaccarat",
           "state": {
             "playerCount": 12
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack2",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              5,
-              6,
-              7
-            ]
           }
         },
         {
@@ -8396,18 +7777,6 @@
           ]
         },
         {
-          "launchAlias": "blj_blackjack2",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              6,
-              7
-            ]
-          }
-        },
-        {
           "launchAlias": "bfbl_liveslots",
           "state": {
             "playerCount": 144
@@ -8448,24 +7817,6 @@
           },
           "state": {
             "playerCount": 20
-          }
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              3,
-              5,
-              7
-            ]
           }
         }
       ]
@@ -8659,14 +8010,6 @@
           "results": [
             "T9"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "dealer": {
-            "name": "Adara",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_10332_m8wutc79.png",
-            "asaCompliant": true
-          }
         }
       ]
     }
@@ -8917,16 +8260,6 @@
           "launchAlias": "abl_andarbahar",
           "state": {
             "playerCount": 81
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              5,
-              6,
-              7
-            ]
           }
         }
       ]
@@ -9188,15 +8521,6 @@
           "results": [
             "15"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              6,
-              7
-            ]
-          }
         }
       ]
     }
@@ -9236,14 +8560,6 @@
           "launchAlias": "bfbl_espanaslots",
           "state": {
             "playerCount": 12
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack2",
-          "dealer": {
-            "name": "Rachel",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_4957_m02deisa.png",
-            "asaCompliant": true
           }
         },
         {
@@ -9330,14 +8646,6 @@
           "results": [
             "30"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              6
-            ]
-          }
         }
       ]
     }
@@ -9425,25 +8733,6 @@
           "launchAlias": "bal_baccaratko",
           "state": {
             "playerCount": 10
-          }
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              3,
-              5,
-              6,
-              7
-            ]
           }
         }
       ]
@@ -9884,22 +9173,6 @@
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
         {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              4,
-              6
-            ]
-          }
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
           "launchAlias": "bfbl_espanaslots",
           "state": {
             "playerCount": 13
@@ -10008,18 +9281,6 @@
             "name": "Fedele",
             "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_29673_m2my50o4.png",
             "asaCompliant": false
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "playerCount": 7,
-            "freeSeats": [
-              2,
-              3,
-              4,
-              6
-            ]
           }
         }
       ]
@@ -10140,15 +9401,6 @@
           "state": {
             "playerCount": 2
           }
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              2,
-              3
-            ]
-          }
         }
       ]
     }
@@ -10179,19 +9431,6 @@
           "launchAlias": "bjl_royalebj1",
           "state": {
             "playerCount": 2
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack2",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              5,
-              6,
-              7
-            ]
           }
         },
         {
@@ -11656,18 +10895,6 @@
           "results": [
             "18"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack2",
-          "state": {
-            "freeSeats": [
-              2,
-              3,
-              5,
-              6,
-              7
-            ]
-          }
         },
         {
           "launchAlias": "sprol_perspreadbetrol",
@@ -13307,19 +12534,6 @@
           }
         },
         {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              3,
-              4,
-              5,
-              6,
-              7
-            ]
-          }
-        },
-        {
           "launchAlias": "abwl_wonderland",
           "results": [
             "1"
@@ -13490,16 +12704,6 @@
           "results": [
             "A;22;B"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              2,
-              3,
-              7
-            ]
-          }
         }
       ]
     }
@@ -13594,15 +12798,6 @@
               7
             ]
           }
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              2,
-              7
-            ]
-          }
         }
       ]
     }
@@ -13675,23 +12870,6 @@
           "launchAlias": "abl_andarbahar",
           "state": {
             "playerCount": 93
-          }
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              2,
-              3,
-              7
-            ]
           }
         }
       ]
@@ -13911,11 +13089,6 @@
         },
         {
           "launchAlias": "abjl_allbetsblackjack",
-          "dealer": {
-            "name": "Shayla",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_13074_lu8126ba.png",
-            "asaCompliant": false
-          },
           "state": {
             "playerCount": 105
           }
@@ -14088,19 +13261,6 @@
           }
         },
         {
-          "launchAlias": "blj_blackjack2",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              5,
-              6,
-              7
-            ]
-          }
-        },
-        {
           "launchAlias": "rol_quantumroulette",
           "results": [
             "19"
@@ -14121,34 +13281,6 @@
               5,
               6,
               7
-            ]
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              2,
-              7
-            ]
-          }
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
-          "launchAlias": "blj_blackjack2",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              5,
-              6
             ]
           }
         }
@@ -14189,21 +13321,6 @@
           "launchAlias": "chel_casinoholdem",
           "state": {
             "playerCount": 38
-          }
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              2
-            ]
           }
         }
       ]
@@ -14900,16 +14017,6 @@
           "results": [
             "466"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              6
-            ]
-          }
         }
       ]
     }
@@ -15350,15 +14457,6 @@
           "results": [
             "31"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              1,
-              2
-            ]
-          }
         }
       ]
     }
@@ -15401,14 +14499,6 @@
           "launchAlias": "rol_quantumroulette",
           "state": {
             "playerCount": 121
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              2
-            ]
           }
         },
         {
@@ -15564,17 +14654,6 @@
           "launchAlias": "abjl_peruallbets",
           "state": {
             "playerCount": 35
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack2",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              5,
-              6
-            ]
           }
         }
       ]
@@ -15956,16 +15035,6 @@
           "results": [
             "9;29"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack2",
-          "state": {
-            "freeSeats": [
-              2,
-              5,
-              6
-            ]
-          }
         }
       ]
     }
@@ -16627,18 +15696,6 @@
           }
         },
         {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              3,
-              5,
-              6,
-              7
-            ]
-          }
-        },
-        {
           "launchAlias": "bjl_royalebj3",
           "state": {
             "freeSeats": [
@@ -16946,17 +16003,6 @@
           "results": [
             "P8P"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              5,
-              6,
-              7
-            ]
-          }
         }
       ]
     }
@@ -17031,18 +16077,6 @@
           "launchAlias": "bjl_royalebj1",
           "state": {
             "full": true
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              4,
-              5,
-              6,
-              7
-            ]
           }
         }
       ]
@@ -17136,19 +16170,6 @@
           "results": [
             "P8N"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              3,
-              4,
-              5,
-              6,
-              7
-            ]
-          }
         }
       ]
     }
@@ -17822,18 +16843,6 @@
           "launchAlias": "bjl_royalebj1",
           "state": {
             "playerCount": 4
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack2",
-          "state": {
-            "freeSeats": [
-              2,
-              3,
-              5,
-              6,
-              7
-            ]
           }
         }
       ]
@@ -18715,20 +17724,6 @@
           "state": {
             "playerCount": 24
           }
-        },
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              4,
-              5,
-              6,
-              7
-            ]
-          }
         }
       ]
     }
@@ -18952,18 +17947,6 @@
           "results": [
             "34"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack2",
-          "state": {
-            "playerCount": 4,
-            "freeSeats": [
-              2,
-              5,
-              6,
-              7
-            ]
-          }
         },
         {
           "launchAlias": "blj_blackjack4",
@@ -19238,18 +18221,6 @@
           "launchAlias": "bfbl_espanaslots",
           "state": {
             "playerCount": 17
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack2",
-          "state": {
-            "freeSeats": [
-              2,
-              3,
-              5,
-              6,
-              7
-            ]
           }
         }
       ]
@@ -19578,26 +18549,6 @@
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
         {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              5,
-              6,
-              7
-            ]
-          }
-        }
-      ]
-    }
-  },
-  {
-    "updateNotification": {
-      "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
-      "updatedTables": [
-        {
           "launchAlias": "bal_grandbaccarat",
           "state": {
             "playerCount": 105
@@ -19725,20 +18676,6 @@
           "launchAlias": "blj_blackjack2",
           "state": {
             "playerCount": 3
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              4,
-              5,
-              6,
-              7
-            ]
           }
         }
       ]
@@ -19965,35 +18902,11 @@
           ]
         },
         {
-          "launchAlias": "blj_blackjack2",
-          "state": {
-            "freeSeats": [
-              2,
-              3,
-              6,
-              7
-            ]
-          }
-        },
-        {
           "launchAlias": "sprol_perspreadbetrol",
           "dealer": {
             "name": "Berwin",
             "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_27277_m96d44tq.png",
             "asaCompliant": true
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              2,
-              3,
-              4,
-              5,
-              6,
-              7
-            ]
           }
         },
         {
@@ -20233,18 +19146,6 @@
           "launchAlias": "blj_blackjack8",
           "state": {
             "playerCount": 5
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              3,
-              4,
-              5,
-              6,
-              7
-            ]
           }
         },
         {
@@ -21079,19 +19980,6 @@
           "results": [
             "4;23"
           ]
-        },
-        {
-          "launchAlias": "blj_blackjack2",
-          "state": {
-            "freeSeats": [
-              2,
-              3,
-              4,
-              5,
-              6,
-              7
-            ]
-          }
         }
       ]
     }
@@ -21173,20 +20061,6 @@
           "launchAlias": "frol_luckyballrol",
           "state": {
             "playerCount": 25
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              4,
-              5,
-              6,
-              7
-            ]
           }
         }
       ]
@@ -21672,14 +20546,6 @@
               5,
               6,
               7
-            ]
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              4
             ]
           }
         }
@@ -22377,20 +21243,6 @@
     "updateNotification": {
       "subscriptionId": "6da9afcb-9e89-445c-89a6-b43dbb2fc875",
       "updatedTables": [
-        {
-          "launchAlias": "blj_blackjack2",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              4,
-              5,
-              6,
-              7
-            ]
-          }
-        },
         {
           "launchAlias": "bjl_royalebj1",
           "state": {
@@ -23963,14 +22815,6 @@
           "state": {
             "playerCount": 29
           }
-        },
-        {
-          "launchAlias": "blj_blackjack3",
-          "state": {
-            "freeSeats": [
-              7
-            ]
-          }
         }
       ]
     }
@@ -24196,19 +23040,6 @@
           ]
         },
         {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              5,
-              6,
-              7
-            ]
-          }
-        },
-        {
           "launchAlias": "blj_blackjack4",
           "state": {
             "freeSeats": [
@@ -24319,18 +23150,6 @@
           "launchAlias": "bjl_grandbjl",
           "state": {
             "freeSeats": [
-              7
-            ]
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              5,
-              6,
               7
             ]
           }
@@ -24916,20 +23735,6 @@
               2,
               3,
               6
-            ]
-          }
-        },
-        {
-          "launchAlias": "blj_blackjack1",
-          "state": {
-            "freeSeats": [
-              1,
-              2,
-              3,
-              4,
-              5,
-              6,
-              7
             ]
           }
         }
