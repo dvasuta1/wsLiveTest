@@ -4996,7 +4996,8 @@
         {
           "launchAlias": "rol_loungerol",
           "state": {
-            "playerCount": 291
+            "playerCount": 7777,
+            "status": 0
           }
         },
         {
@@ -6066,7 +6067,8 @@
         {
           "launchAlias": "abjl_allbetsblackjack",
           "state": {
-            "playerCount": 124
+            "playerCount": 124,
+            "status": 0
           }
         },
         {
@@ -8229,7 +8231,8 @@
         {
           "launchAlias": "abwl_wonderland",
           "state": {
-            "playerCount": 2202
+            "playerCount": 2,
+            "openingDateTime": 1754128812000
           }
         }
       ]
@@ -13043,7 +13046,9 @@
         {
           "launchAlias": "rol_loungerol",
           "state": {
-            "playerCount": 288
+            "playerCount": 288,
+            "status": 1,
+            "openingDateTime": 1755254400000
           }
         },
         {
@@ -14509,7 +14514,8 @@
         {
           "launchAlias": "abjl_allbetsblackjack2",
           "state": {
-            "playerCount": 25
+            "playerCount": 25,
+            "status": 1
           }
         }
       ]
@@ -15792,7 +15798,8 @@
         {
           "launchAlias": "abjl_allbetsblackjack",
           "state": {
-            "playerCount": 117
+            "playerCount": 117,
+            "openingDateTime": 1754908800000
           }
         }
       ]
@@ -19128,7 +19135,8 @@
         {
           "launchAlias": "abwl_wonderland",
           "state": {
-            "playerCount": 2034
+            "playerCount": 7777,
+            "status": 1
           }
         }
       ]
@@ -20461,7 +20469,8 @@
         {
           "launchAlias": "rol_loungerol",
           "state": {
-            "playerCount": 301
+            "playerCount": 301,
+            "status": 0
           }
         },
         {
@@ -20937,7 +20946,8 @@
         {
           "launchAlias": "abjl_allbetsblackjack",
           "state": {
-            "playerCount": 127
+            "playerCount": 127,
+            "status": 0
           }
         }
       ]
@@ -22203,7 +22213,8 @@
         {
           "launchAlias": "abwl_wonderland",
           "state": {
-            "playerCount": 1952
+            "playerCount": 0,
+            "status": 1
           }
         }
       ]
