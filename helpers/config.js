@@ -1,5 +1,9 @@
 const dataConfig = {
    "caliente.pe": {
+      defaultData: {
+       s: "./data/subscribe/calientepe/subscribe1000.json",
+       u: "./data/update/calientepe/1000.json"
+     },
      1000: {
        s: "./data/subscribe/calientepe/subscribe1000.json",
        u: "./data/update/calientepe/1000.json"
@@ -16,6 +20,10 @@ const dataConfig = {
     }
   },
   betcaliente: { 
+    defaultData: {
+      s: "./data/subscribe/betcaliente/subscribe1001.json",
+      u: "./data/update/betcaliente/1000.json"
+    },
     1001: {
       s: "./data/subscribe/betcaliente/subscribe1001.json",
       u: "./data/update/betcaliente/1000.json"
