@@ -1,61 +1,35 @@
 const fs = require("fs");
 const { getGlobalConfigByCasinoName } = require("./config");
 
-function loadJsonFile(resource) {
+function loadJsonFile(filePath) {
   try {
-    const filePath = resource;
-    const fileContent = fs.readFileSync(filePath, "utf8");
-    const jsonData = JSON.parse(fileContent);
-    return jsonData;
+    return JSON.parse(fs.readFileSync(filePath, "utf8"));
   } catch (error) {
     console.error("Error reading JSON file:", error.message);
     return null;
   }
 }
 
-const isEmpty = function(obj) => {
-  return Object.keys(obj).length === 0;
+function getConfig(dataSetKey, context) {
+  const config = getGlobalConfigByCasinoName(context);
+  if (!config) {
+    console.warn(`No config found for context: '${context}'`);
+    return null;
+  }
+  return config[dataSetKey] || config.defaultData || null;
 }
 
-const parseConfig = (dataSetKey, context) => {
-  const config = getGlobalConfigByCasinoName(context);
-
-  if (!config) {
-    console.warn(`No config found for context: '${context}', returning empty object`);
-    return {};
+function getDataSetJSON(dataSetKey, context, type) {
+  const conf = getConfig(dataSetKey, context);
+  if (!conf || !conf[type]) {
+    console.warn(`No configuration for key: '${dataSetKey}', context: '${context}', type: '${type}'`);
+    return null;
   }
+  return loadJsonFile(conf[type]);
+}
 
-  let datasetConfig = config[dataSetKey] || config.defaultData;
-
-  if (!datasetConfig) {
-    console.warn(`No dataset or defaultData found for key: '${dataSetKey}' in context: '${context}'.`);
-    return {};
-  }
-
-  console.log(`Config for '${context}' and datasetKey '${dataSetKey}' has been found`);
-  return datasetConfig;
+module.exports = {
+  loadJsonFile,
+  getSubscribingDataSetJSON: (key, ctx) => getDataSetJSON(key, ctx, 's'),
+  getUpdatingDataSetJSON: (key, ctx) => getDataSetJSON(key, ctx, 'u'),
 };
-
-const getUpdatesJSON = (dataSetKey, context) => {
-  const { u } = parseConfig(dataSetKey, context);
-  console.log("Updates JSON data file in use:: ", u);
-  return u;
-};
-
-const getUpdatingDataSetJSON = (dataSetKey, context) => {
-  let fileName = getUpdatesJSON(dataSetKey, context);
-  return fileName ? loadJsonFile(fileName) : null;
-};
-
-const getSubscribeJSON = (dataSetKey, context) => {
-  const { s } = parseConfig(dataSetKey, context);
-  console.log("Subscribe JSON data file in use:: ", s);
-  return s;
-};
-
-const getSubscribingDataSetJSON = (dataSetKey, context) => {
-  let fileName = getSubscribeJSON(dataSetKey, context);
-  return fileName ? loadJsonFile(fileName) : null;
-};
-
-module.exports = { loadJsonFile, getSubscribingDataSetJSON, getUpdatingDataSetJSON };
