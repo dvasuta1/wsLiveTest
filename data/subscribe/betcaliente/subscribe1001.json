@@ -292,7 +292,7 @@
           "state": {
             "status": 1,
             "playerCount": 2308,
-            "openingDateTime": 1756476000000
+            "openingDateTime": 1754057000000
           }
         },
         {
@@ -675,7 +675,7 @@
           "state": {
             "status": 1,
             "playerCount": 316,
-            "openingDateTime": ""
+            "openingDateTime": "1754039540000"
           }
         },
         {
@@ -1021,7 +1021,7 @@
           ],
           "state": {
             "status": 1,
-            "openingDateTime": 1758749700000,
+            "openingDateTime": 1754038940000,
             "playerCount": 2
           }
         },
@@ -1813,7 +1813,7 @@
           "state": {
             "status": 1,
             "playerCount": 23,
-            "openingDateTime": 1757709305610
+            "openingDateTime": 1757661000000
           }
         },
         {
