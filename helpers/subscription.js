@@ -9,8 +9,8 @@ const addSubsAndCorrelationProps = (data, correlationId, subscriptionId) => ({
   },
 });
 
-const updateSubscription = (correlationId, subscriptionId, context) => {
-  const subscribeResponceMessage = getSubscribingDataSetJSON(context);
+const updateSubscription = (correlationId, subscriptionId, dataset, context) => {
+  const subscribeResponceMessage = getSubscribingDataSetJSON(dataset, context);
   return addSubsAndCorrelationProps(subscribeResponceMessage, correlationId, subscriptionId);
 };
 
