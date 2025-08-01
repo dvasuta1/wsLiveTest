@@ -26,7 +26,7 @@ const dataConfig = {
     },
     1001: {
       s: "./data/subscribe/betcaliente/subscribe1001.json",
-      u: "./data/update/betcaliente/1000.json"
+      u: "./data/update/betcaliente/1001.json"
     },
     2000: {
       s: "./data/subscribe/betcaliente/subscribe1001.json",
