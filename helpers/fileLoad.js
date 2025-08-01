@@ -37,27 +37,25 @@ const parseConfig = (dataSetKey, context) => {
 };
 
 const getUpdatesJSON = (dataSetKey, context) => {
-  const config = getGlobalConfigByCasinoName(context);
-  const data = config.update?.[dataSetKey] ? config.update?.[dataSetKey] : config.update?.defaultData;
-  console.log("Updates JSON data file in use:: ", data);
-  return data;
+  const { u } = parseConfig(dataSetKey, context);
+  console.log("Updates JSON data file in use:: ", u);
+  return u;
 };
 
 const getUpdatingDataSetJSON = (dataSetKey, context) => {
   let fileName = getUpdatesJSON(dataSetKey, context);
-  return loadJsonFile(fileName);
+  return fileName ? loadJsonFile(fileName) : null;
 };
 
-const getSubscribeJSON = (context) => {
-  const config = getGlobalConfigByCasinoName(context);
-  const path = config.subscribe;
-  console.log("Subscribe JSON data file in use:: ", path);
-  return path;
+const getSubscribeJSON = (dataSetKey, context) => {
+  const { s } = parseConfig(dataSetKey, context);
+  console.log("Subscribe JSON data file in use:: ", s);
+  return s;
 };
 
-const getSubscribingDataSetJSON = (context) => {
-  let fileName = getSubscribeJSON(context);
-  return loadJsonFile(fileName);
+const getSubscribingDataSetJSON = (dataSetKey, context) => {
+  let fileName = getSubscribeJSON(dataSetKey, context);
+  return fileName ? loadJsonFile(fileName) : null;
 };
 
 module.exports = { loadJsonFile, getSubscribingDataSetJSON, getUpdatingDataSetJSON };
