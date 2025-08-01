@@ -13,6 +13,29 @@ function loadJsonFile(resource) {
   }
 }
 
+const isEmpty = function(obj) => {
+  return Object.keys(obj).length === 0;
+}
+
+const parseConfig = (dataSetKey, context) => {
+  const config = getGlobalConfigByCasinoName(context);
+
+  if (!config) {
+    console.warn(`No config found for context: '${context}', returning empty object`);
+    return {};
+  }
+
+  let datasetConfig = config[dataSetKey] || config.defaultData;
+
+  if (!datasetConfig) {
+    console.warn(`No dataset or defaultData found for key: '${dataSetKey}' in context: '${context}'.`);
+    return {};
+  }
+
+  console.log(`Config for '${context}' and datasetKey '${dataSetKey}' has been found`);
+  return datasetConfig;
+};
+
 const getUpdatesJSON = (dataSetKey, context) => {
   const config = getGlobalConfigByCasinoName(context);
   const data = config.update?.[dataSetKey] ? config.update?.[dataSetKey] : config.update?.defaultData;
