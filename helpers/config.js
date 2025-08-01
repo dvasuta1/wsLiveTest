@@ -36,11 +36,7 @@ const dataConfig = {
 };
 
 const getGlobalConfigByCasinoName = (casino) => {
-  if (dataConfig[casino]) {
     return dataConfig[casino];
-  } else {
-    return dataConfig.betcaliente;
-  }
 };
 
 module.exports = { getGlobalConfigByCasinoName };
