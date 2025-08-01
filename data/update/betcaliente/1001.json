@@ -263,7 +263,8 @@
         {
           "launchAlias": "bal_betslipbaccarat",
           "state": {
-            "playerCount": 28
+            "playerCount": 28,
+            "openingDateTime": 1754283600000
           }
         },
         {
@@ -1849,7 +1850,8 @@
         {
           "launchAlias": "dtl_dragontiger",
           "state": {
-            "playerCount": 24
+            "playerCount": 24,
+            "status": 0
           }
         }
       ]
@@ -2027,7 +2029,8 @@
         {
           "launchAlias": "bal_betslipbaccarat",
           "state": {
-            "playerCount": 43
+            "playerCount": 43,
+            "openingDateTime": 1755254400000
           }
         },
         {
@@ -2939,7 +2942,9 @@
         {
           "launchAlias": "fbbl_luckyball",
           "state": {
-            "playerCount": 464
+            "playerCount": 0,
+            "status": 1,
+            "openingDateTime": 1755254400000
           }
         }
       ]
@@ -5156,7 +5161,8 @@
         {
           "launchAlias": "bal_betslipbaccarat",
           "state": {
-            "playerCount": 44
+            "playerCount": 44,
+            "status": 0
           }
         }
       ]
@@ -5969,7 +5975,9 @@
         {
           "launchAlias": "dtl_dragontiger",
           "state": {
-            "playerCount": 27
+            "playerCount": 27,
+            "status": 1,
+            "openingDateTime": 1754283600000
           }
         }
       ]
@@ -9646,7 +9654,11 @@
         },
         {
           "launchAlias": "fbbl_luckyball",
-          "dealer": {
+          "state": {
+            "playerCount": 154,
+            "status": 0
+          },
+           "dealer": {
             "name": "Marshall",
             "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_4863_lgdtcyf2.png",
             "asaCompliant": true
@@ -11342,6 +11354,10 @@
       "updatedTables": [
         {
           "launchAlias": "chel_casinoholdem",
+           "state": {
+           "playerCount": 0,
+            "status": 0
+           },
           "dealer": {
             "name": "Carrollina",
             "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_8054_lwareb9b.png",
@@ -11984,7 +12000,9 @@
         {
           "launchAlias": "hilo_hilowestern",
           "state": {
-            "playerCount": 15
+            "playerCount": 15,
+            "status": 1,
+            "openingDateTime": 1754283600000
           }
         },
         {
@@ -13254,7 +13272,8 @@
         {
           "launchAlias": "hilo_hilowestern",
           "state": {
-            "playerCount": 15
+            "playerCount": 15,
+            "status": 0
           }
         },
         {
@@ -15958,7 +15977,8 @@
         {
           "launchAlias": "fbbl_luckyball",
           "state": {
-            "playerCount": 508
+            "playerCount": 508,
+            "openingDateTime": 1755254400000
           }
         }
       ]
