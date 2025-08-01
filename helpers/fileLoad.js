@@ -25,6 +25,7 @@ function getDataSetJSON(dataSetKey, context, type) {
     console.warn(`No configuration for key: '${dataSetKey}', context: '${context}', type: '${type}'`);
     return null;
   }
+  console.log(`FILE TO LOAD: '${conf[type]}'`);
   return loadJsonFile(conf[type]);
 }
 
