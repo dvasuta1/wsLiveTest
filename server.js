@@ -36,7 +36,7 @@ wss.on("connection", function connection(ws, req) {
     } else if (message.subscribeRequest) {
       // on subscribe request
       let subscriptionId = uuid();
-      createSubscribeResponce(ws.id, message.correlationId, subscriptionId, ws.contextSnapshot.casino);
+      createSubscribeResponce(ws.id, message.correlationId, subscriptionId, dataset, ws.contextSnapshot.casino);
       const dataSnapshot = updatingData.getFilteredDataSnapshot(
         subscriptionId,
         dataset,
@@ -102,8 +102,8 @@ function createContextResponce(userId) {
   });
 }
 
-function createSubscribeResponce(userID, correlationID, subscriptionId, context) {
-  let subscribeResponceMessage = subscriptionData.updateSubscription(correlationID, subscriptionId, context);
+function createSubscribeResponce(userID, correlationID, subscriptionId, dataset, context) {
+  let subscribeResponceMessage = subscriptionData.updateSubscription(correlationID, subscriptionId, dataset, context);
   wss.clients.forEach((client) => {
     if (client.id == userID) {
       //console.log("subscribeResponceMessage", subscribeResponceMessage);
