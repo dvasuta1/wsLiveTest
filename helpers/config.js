@@ -21,8 +21,8 @@ const dataConfig = {
   },
   betcaliente: { 
     defaultData: {
-      s: "./data/subscribe/betcaliente/subscribe1001.json",
-      u: "./data/update/betcaliente/1001.json"
+      s: "./data/subscribe/betcaliente/subscribe.json",
+      u: "./data/update/betcaliente/default.json"
     },
     1001: {
       s: "./data/subscribe/betcaliente/subscribe1001.json",
