@@ -1443,7 +1443,9 @@
         {
           "launchAlias": "nc_bal_minibaccarat",
           "state": {
-            "playerCount": 29
+            "playerCount": 29,
+            "status": 1,
+            "openingDateTime": 1754998800000
           }
         },
         {
@@ -1851,7 +1853,8 @@
           "launchAlias": "dtl_dragontiger",
           "state": {
             "playerCount": 24,
-            "status": 0
+            "status": 1,
+            "openingDateTime": 1754288700000
           }
         }
       ]
@@ -2720,7 +2723,9 @@
         {
           "launchAlias": "rol_primeslingshot",
           "state": {
-            "playerCount": 14
+            "playerCount": 14,
+            "status": 1,
+            "openingDateTime": 1755173400000
           },
           "results": [
             "6"
@@ -2775,7 +2780,9 @@
         {
           "launchAlias": "blj_blackjack3",
           "state": {
-            "playerCount": 6
+            "playerCount": 6,
+            "status": 1,
+            "openingDateTime": 1754818800000
           }
         }
       ]
@@ -2944,7 +2951,7 @@
           "state": {
             "playerCount": 0,
             "status": 1,
-            "openingDateTime": 1755254400000
+            "openingDateTime": 1754368200000
           }
         }
       ]
@@ -3189,7 +3196,9 @@
         {
           "launchAlias": "rol_livefootballrol",
           "state": {
-            "playerCount": 18
+            "playerCount": 18,
+            "status": 1,
+            "openingDateTime": 1754474700000
           }
         }
       ]
@@ -3613,7 +3622,9 @@
         {
           "launchAlias": "hilo_hilowestern",
           "state": {
-            "playerCount": 14
+            "playerCount": 14,
+            "status": 1,
+            "openingDateTime": 1754229600000
           }
         },
         {
@@ -3893,7 +3904,9 @@
         {
           "launchAlias": "bjl_royalebj1",
           "state": {
-            "playerCount": 4
+            "playerCount": 4,
+            "status": 1,
+            "openingDateTime": 1755262800000
           }
         }
       ]
@@ -5208,7 +5221,9 @@
         {
           "launchAlias": "blj_blackjack1",
           "state": {
-            "playerCount": 3
+            "playerCount": 3,
+            "status": 1,
+            "openingDateTime": 1754766000000
           }
         },
         {
@@ -5978,7 +5993,7 @@
           "state": {
             "playerCount": 27,
             "status": 1,
-            "openingDateTime": 1754283600000
+            "openingDateTime": 1754042999000
           }
         }
       ]
@@ -6090,7 +6105,8 @@
         {
           "launchAlias": "nc_bal_minibaccarat",
           "state": {
-            "playerCount": 43
+            "playerCount": 43,
+            "status": 0
           }
         },
         {
@@ -6121,7 +6137,8 @@
         {
           "launchAlias": "hilo_hilowestern",
           "state": {
-            "playerCount": 19
+            "playerCount": 19,
+            "status": 0
           }
         },
         {
@@ -6354,7 +6371,9 @@
         {
           "launchAlias": "ubjl_unlimitedbj",
           "state": {
-            "playerCount": 28
+            "playerCount": 28,
+            "status": 0,
+            "openingDateTime": 1754213100000
           }
         }
       ]
@@ -7246,7 +7265,9 @@
         {
           "launchAlias": "abwl_wonderland",
           "state": {
-            "playerCount": 2195
+            "playerCount": 0,
+            "status": 1,
+            "openingDateTime": 1754954700000
           }
         }
       ]
@@ -7728,7 +7749,9 @@
             "asaCompliant": true
           },
           "state": {
-            "playerCount": 20
+            "playerCount": 0,
+            "status": 1,
+            "openingDateTime": 1755084300000
           }
         }
       ]
@@ -11130,7 +11153,8 @@
             "asaCompliant": false
           },
           "state": {
-            "playerCount": 4
+            "playerCount": 4,
+            "status": 0
           }
         }
       ]
@@ -11359,7 +11383,8 @@
           "launchAlias": "chel_casinoholdem",
            "state": {
            "playerCount": 0,
-            "status": 0
+            "status": 1,
+            "openingDateTime": 1754311500000
            },
           "dealer": {
             "name": "Carrollina",
@@ -12427,7 +12452,9 @@
         {
           "launchAlias": "qrol_quantumgreek",
           "state": {
-            "playerCount": 18
+            "playerCount": 0,
+            "status": 1,
+            "openingDateTime": 1754908500000
           }
         },
         {
@@ -13014,7 +13041,8 @@
         {
           "launchAlias": "dtl_dragontiger",
           "state": {
-            "playerCount": 26
+            "playerCount": 26,
+            "status": 0
           }
         }
       ]
@@ -13047,8 +13075,7 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 288,
-            "status": 1,
-            "openingDateTime": 1755254400000
+            "status": 1
           }
         },
         {
@@ -14062,7 +14089,8 @@
         {
           "launchAlias": "blj_blackjack1",
           "state": {
-            "playerCount": 1
+            "playerCount": 1,
+            "status": 0
           }
         }
       ]
@@ -14515,7 +14543,7 @@
           "launchAlias": "abjl_allbetsblackjack2",
           "state": {
             "playerCount": 25,
-            "status": 1
+            "status": 0
           }
         }
       ]
@@ -15911,7 +15939,9 @@
         {
           "launchAlias": "bjl_royalebj1",
           "state": {
-            "full": true
+            "full": true,
+            "status": 1,
+            "openingDateTime": 1754042999000
           }
         }
       ]
@@ -15985,7 +16015,7 @@
           "launchAlias": "fbbl_luckyball",
           "state": {
             "playerCount": 508,
-            "openingDateTime": 1755254400000
+            "openingDateTime": 1754213100000
           }
         }
       ]
@@ -18483,7 +18513,9 @@
         {
           "launchAlias": "blj_blackjack2",
           "state": {
-            "playerCount": 3
+            "playerCount": 3,
+            "status": 1,
+            "openingDateTime": 1754555400000
           }
         }
       ]
@@ -19136,7 +19168,8 @@
           "launchAlias": "abwl_wonderland",
           "state": {
             "playerCount": 7777,
-            "status": 1
+            "status": 1,
+            "openingDateTime": 1754042340000
           }
         }
       ]
@@ -19791,7 +19824,8 @@
         {
           "launchAlias": "qrol_quantumgreek",
           "state": {
-            "playerCount": 20
+            "playerCount": 20,
+            "status": 0
           }
         },
         {
@@ -20947,7 +20981,8 @@
           "launchAlias": "abjl_allbetsblackjack",
           "state": {
             "playerCount": 127,
-            "status": 0
+            "status": 0,
+            "openingDateTime": 1754669100000
           }
         }
       ]
@@ -21457,7 +21492,9 @@
         {
           "launchAlias": "bal_betslipbaccarat",
           "state": {
-            "playerCount": 35
+            "playerCount": 35,
+            "status": 1,
+            "openingDateTime": 1754042999000
           }
         },
         {
@@ -21755,7 +21792,8 @@
         {
           "launchAlias": "bjl_royalebj1",
           "state": {
-            "playerCount": 2
+            "playerCount": 2,
+             "status": 0
           }
         },
         {
@@ -21895,7 +21933,8 @@
         {
           "launchAlias": "ubjl_unlimitedbj",
           "state": {
-            "playerCount": 20
+            "playerCount": 20,
+             "status": 1
           }
         },
         {
