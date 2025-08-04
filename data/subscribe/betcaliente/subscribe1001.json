@@ -29,7 +29,7 @@
             }
           ],
           "state": {
-            "status": 1,
+            "status": 0,
             "playerCount": 19,
             "openingDateTime": 1754301600000
           },
@@ -66,9 +66,8 @@
             }
           ],
           "state": {
-            "status": 1,
-            "playerCount": 30,
-            "openingDateTime": 1754748000000
+            "status": 0,
+            "playerCount": 30
           },
           "results": [
             "30",
@@ -102,9 +101,8 @@
             }
           ],
           "state": {
-            "status": 1,
-            "playerCount": 9,
-            "openingDateTime": 1754908800000
+            "status": 0,
+            "playerCount": 9
           },
           "results": [
             "22",
@@ -139,7 +137,7 @@
             }
           ],
           "state": {
-            "status": 1,
+            "status": 0,
             "playerCount": 34,
             "openingDateTime": 1754217600000
           },
@@ -290,9 +288,8 @@
             }
           ],
           "state": {
-            "status": 1,
-            "playerCount": 2308,
-            "openingDateTime": 1754283600000
+            "status": 0,
+            "playerCount": 2308
           }
         },
         {
@@ -318,7 +315,7 @@
             }
           ],
           "state": {
-            "status": 1,
+            "status": 0,
             "playerCount": 3,
             "openingDateTime": 1755254400000,
             "freeSeats": [
@@ -418,7 +415,7 @@
             }
           ],
           "state": {
-            "status": 1,
+            "status": 0,
             "playerCount": 0
           },
           "results": [
@@ -579,9 +576,8 @@
             }
           ],
           "state": {
-            "status": 1,
-            "playerCount": 15,
-            "openingDateTime": 1754128800000
+            "status": 0,
+            "playerCount": 15
           },
           "results": [
             "16",
@@ -675,7 +671,7 @@
           "state": {
             "status": 1,
             "playerCount": 316,
-            "openingDateTime": 1754128740000
+            "openingDateTime": 1754574000000
           }
         },
         {
@@ -774,7 +770,7 @@
           "state": {
             "status": 1,
             "playerCount": 1,
-            "openingDateTime": 1754043610000
+            "openingDateTime": 1754395200000
           },
           "results": [
             "B6N",
@@ -849,7 +845,7 @@
           "state": {
             "status": 1,
             "playerCount": 126,
-            "openingDateTime": 1754128860000
+            "openingDateTime": 1754669100000
           }
         },
         {
@@ -940,8 +936,7 @@
             }
           ],
           "state": {
-            "status": 1,
-            "openingDateTime": 1754128812000,
+            "status": 0,
             "playerCount": 3
           }
         },
@@ -998,9 +993,8 @@
             }
           ],
           "state": {
-            "status": 1,
-            "playerCount": 3,
-            "openingDateTime": 1754085600000
+            "status": 0,
+            "playerCount": 3
           }
         },
         {
@@ -1021,8 +1015,7 @@
             }
           ],
           "state": {
-            "status": 1,
-            "openingDateTime": 1754066100000,
+            "status": 0,
             "playerCount": 2
           }
         },
@@ -1279,9 +1272,8 @@
             }
           ],
           "state": {
-            "status": 1,
-            "playerCount": 0,
-            "openingDateTime": 1754046320000
+            "status": 0,
+            "playerCount": 0
           }
         },
         {
@@ -1458,9 +1450,8 @@
             }
           ],
           "state": {
-            "status": 1,
-            "playerCount": 26,
-            "openingDateTime": 1754042999000
+            "status": 0,
+            "playerCount": 26
           },
           "results": [
             "TK",
@@ -1685,9 +1676,8 @@
             }
           ],
           "state": {
-            "status": 1,
-            "playerCount": 0,
-            "openingDateTime": 1754042340000
+            "status": 0,
+            "playerCount": 0
           }
         },
         {
@@ -1817,7 +1807,7 @@
           "state": {
             "status": 1,
             "playerCount": 23,
-            "openingDateTime": 1754051700000
+            "openingDateTime": 1754213100000
           }
         },
         {
