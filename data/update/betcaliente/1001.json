@@ -1075,7 +1075,10 @@
           "launchAlias": "rol_loungerol",
           "state": {
             "playerCount": 299
-          }
+          },
+          "results": [
+            "00"
+          ]
         },
         {
           "launchAlias": "rofl_loungerol",
