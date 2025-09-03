@@ -44,7 +44,7 @@ const dataConfig = {
     },
   },
   betcaliente: {
-    subscribe: "./data/subscribe/betcaliente/subscribe1001.json",
+    subscribe: "./data/subscribe/betcaliente/subscribe.json",
     update: {
       defaultData: "./data/update/betcaliente/default.json",
       videoBanners: "./data/update/betcaliente/videoBanners.json",
