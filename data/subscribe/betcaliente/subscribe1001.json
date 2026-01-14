@@ -29,9 +29,9 @@
             }
           ],
           "state": {
-            "status": 1,
+            "status": 0,
             "playerCount": 19,
-            "openingDateTime": 1737709220500
+            "openingDateTime": 1756910400000
           },
           "results": [
             "6",
@@ -66,9 +66,8 @@
             }
           ],
           "state": {
-            "status": 1,
-            "playerCount": 30,
-            "openingDateTime": 1731709220500
+            "status": 0,
+            "playerCount": 30
           },
           "results": [
             "30",
@@ -102,9 +101,8 @@
             }
           ],
           "state": {
-            "status": 1,
-            "playerCount": 9,
-            "openingDateTime": 1739709220500
+            "status": 0,
+            "playerCount": 9
           },
           "results": [
             "22",
@@ -139,9 +137,9 @@
             }
           ],
           "state": {
-            "status": 1,
+            "status": 0,
             "playerCount": 34,
-            "openingDateTime": 1729709305610
+            "openingDateTime": 1756923000000
           },
           "results": [
             "B9N",
@@ -283,11 +281,6 @@
             "dynamicImageUrl": "https://cdn-lobby-img.live-hub.net/lobbyImage_104012.jpg",
             "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
           },
-          "dealer": {
-            "name": "Harper",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_8854_lk84q15c.png",
-            "asaCompliant": false
-          },
           "limits": [
             {
               "min": 10,
@@ -295,18 +288,9 @@
             }
           ],
           "state": {
-            "status": 1,
-            "playerCount": 2308,
-            "openingDateTime": 1756476000000
-          },
-          "results": [
-            "1",
-            "1",
-            "5",
-            "5S",
-            "1",
-            "1"
-          ]
+            "status": 0,
+            "playerCount": 2308
+          }
         },
         {
           "launchAlias": "bjl_royalebj1",
@@ -331,9 +315,9 @@
             }
           ],
           "state": {
-            "status": 1,
+            "status": 0,
             "playerCount": 3,
-            "openingDateTime": 1739709305610,
+            "openingDateTime": 1756975200000,
             "freeSeats": [
               1,
               2,
@@ -432,7 +416,7 @@
           ],
           "state": {
             "status": 0,
-            "playerCount": 15
+            "playerCount": 0
           },
           "results": [
             "D8",
@@ -558,11 +542,6 @@
             "tableColor": "1839123",
             "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
           },
-          "dealer": {
-            "name": "Rayna",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_14190_m8wuu34y.png",
-            "asaCompliant": true
-          },
           "limits": [
             {
               "min": 2500,
@@ -571,14 +550,7 @@
           ],
           "state": {
             "status": 0,
-            "playerCount": 1,
-            "freeSeats": [
-              1,
-              2,
-              3,
-              6,
-              7
-            ]
+            "playerCount": 1
           }
         },
         {
@@ -604,9 +576,8 @@
             }
           ],
           "state": {
-            "status": 1,
-            "playerCount": 15,
-            "openingDateTime": 1797709305610
+            "status": 0,
+            "playerCount": 15
           },
           "results": [
             "16",
@@ -691,11 +662,6 @@
             "asaAlternativeImageUrl": "alternative_1642_k1wakg65.png",
             "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
           },
-          "dealer": {
-            "name": "Dajana",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_3074_mcbgubme.png",
-            "asaCompliant": true
-          },
           "limits": [
             {
               "min": 50,
@@ -703,18 +669,10 @@
             }
           ],
           "state": {
-            "status": 1,
+            "status": 0,
             "playerCount": 316,
-            "openingDateTime": ""
-          },
-          "results": [
-            "8",
-            "11",
-            "17",
-            "24",
-            "10",
-            "36"
-          ]
+            "openingDateTime": 1757000100000
+          }
         },
         {
           "launchAlias": "rofl_loungerol",
@@ -810,8 +768,9 @@
             }
           ],
           "state": {
-            "status": 0,
-            "playerCount": 30
+            "status": 1,
+            "playerCount": 1,
+            "openingDateTime": 1757040300000
           },
           "results": [
             "B6N",
@@ -877,11 +836,6 @@
             "tableColor": "4091261",
             "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
           },
-          "dealer": {
-            "name": "Jaliyah",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_13781_m9cdlg41.png",
-            "asaCompliant": false
-          },
           "limits": [
             {
               "min": 100,
@@ -889,9 +843,9 @@
             }
           ],
           "state": {
-            "status": 1,
+            "status": 0,
             "playerCount": 126,
-            "openingDateTime": 1753788900000
+            "openingDateTime": 1757099100000
           }
         },
         {
@@ -975,11 +929,6 @@
             "tableColor": "1052688",
             "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
           },
-          "dealer": {
-            "name": "Rachel",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_4957_m02deisa.png",
-            "asaCompliant": true
-          },
           "limits": [
             {
               "min": 2500,
@@ -987,15 +936,8 @@
             }
           ],
           "state": {
-            "status": 1,
-            "openingDateTime": 1753738500000,
-            "playerCount": 3,
-            "freeSeats": [
-              1,
-              2,
-              5,
-              6
-            ]
+            "status": 0,
+            "playerCount": 3
           }
         },
         {
@@ -1044,11 +986,6 @@
             "tableColor": "1052688",
             "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
           },
-          "dealer": {
-            "name": "Belfort",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_27371_lvau3ksl.png",
-            "asaCompliant": false
-          },
           "limits": [
             {
               "min": 2500,
@@ -1056,13 +993,8 @@
             }
           ],
           "state": {
-            "status": 1,
-            "playerCount": 3,
-            "openingDateTime":"",
-            "freeSeats": [
-              2,
-              7
-            ]
+            "status": 0,
+            "playerCount": 3
           }
         },
         {
@@ -1076,11 +1008,6 @@
             "tableColor": "1052688",
             "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
           },
-          "dealer": {
-            "name": "Kabral",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_27411_lv5fd0iw.png",
-            "asaCompliant": false
-          },
           "limits": [
             {
               "min": 2500,
@@ -1088,18 +1015,8 @@
             }
           ],
           "state": {
-            "status": 1,
-            "openingDateTime": 1758749700000,
-            "playerCount": 2,
-            "freeSeats": [
-              1,
-              2,
-              3,
-              4,
-              5,
-              6,
-              7
-            ]
+            "status": 0,
+            "playerCount": 2
           }
         },
         {
@@ -1356,7 +1273,7 @@
           ],
           "state": {
             "status": 0,
-            "playerCount": 31
+            "playerCount": 0
           }
         },
         {
@@ -1760,7 +1677,7 @@
           ],
           "state": {
             "status": 0,
-            "playerCount": 442
+            "playerCount": 0
           }
         },
         {
@@ -1881,11 +1798,6 @@
             "asaAlternativeImageUrl": "alternative_1981_k0wf436m.png",
             "languageFlagImageUrl": "https://cdneu.live-hub.net/live-admin/498/flag_en_jbhx20ez.png"
           },
-          "dealer": {
-            "name": "Chace",
-            "pictureUrl": "https://cdneu.live-hub.net/live-admin/498/dealer_13338_m2d5fj3j.png",
-            "asaCompliant": true
-          },
           "limits": [
             {
               "min": 50,
@@ -1895,7 +1807,7 @@
           "state": {
             "status": 1,
             "playerCount": 23,
-            "openingDateTime": 1757709305610
+            "openingDateTime": 1757158800000
           }
         },
         {
