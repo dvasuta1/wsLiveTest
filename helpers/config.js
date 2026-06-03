@@ -14,7 +14,7 @@ const dataConfig = {
      }
   },
   wplayco: {
-    defaultData: {
+    defaultData_old: {
       s: "./data/subscribe/wplayco/subscribe.json",
       u: "./data/update/wplayco/default.json"
     },
@@ -22,7 +22,7 @@ const dataConfig = {
       s: "./data/subscribe/wplayco/subscribe.json",
       u: "./data/update/wplayco/banner1.json"
     },
-   videobanner: {
+   defaultData: {
       s: "./data/subscribe/wplayco/subscribe.json",
       u: "./data/update/wplayco/videoBanners.json"
     }
