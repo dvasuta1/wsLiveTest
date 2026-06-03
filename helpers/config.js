@@ -21,6 +21,10 @@ const dataConfig = {
     banner1: {
       s: "./data/subscribe/wplayco/subscribe.json",
       u: "./data/update/wplayco/banner1.json"
+    },
+   videobanner: {
+      s: "./data/subscribe/wplayco/subscribe.json",
+      u: "./data/update/wplayco/videoBanners.json"
     }
   },
   betcaliente: { 
